@@ -1,4 +1,4 @@
-package java.公众号.Hollis.a3_10;
+package java知识.公众号.Hollis.a3_10;
 
 import java.io.Externalizable;
 import java.io.IOException;
