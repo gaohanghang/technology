@@ -196,3 +196,130 @@ The instance 2 is created.
 End.
 ```
 
+- 习题 5-3
+
+某位开发人员编写了如下的  Singleton 类（代码清单 5-4 ）。但这并非严格的 Singleton 模式。请问是为什么呢？
+
+```java
+public class Singleton {
+    private static Singleton singleton = null;
+
+    private Singleton() {
+        System.out.println(" 生成了一个实例。");
+    }
+
+    public static Singleton getInstance () {
+        if (singleton == null) {
+            singleton = new Singleton();
+        }
+        return singleton;
+    }
+}
+```
+
+这是因为在多个线程几乎同时调用 Singleton.getInstances 方法是，可能会生成多个实例
+
+> 代码清单 A5-5 多个线程调用 Singleton.getInstances 方法（Main.java）
+
+```java
+public class Main extends Thread {
+    public static void main(String[] args) {
+        System.out.println("Start.");
+        new Main("A").start();
+        new Main("B").start();
+        new Main("C").start();
+        System.out.println("End.");
+    }
+    public void run() {
+        Singleton obj = Singleton.getInstance();
+        System.out.println(getName() + ": obj = " + obj);
+    }
+    public Main(String name) {
+        super(name);
+    }
+}
+```
+
+> 代码清单 A5-6 为了确保能生成多个实例，我们故意降低了程序处理速度（Singleton.java）
+
+```java
+public class Singleton {
+    private static Singleton singleton = null;
+
+    private Singleton() {
+        System.out.println(" 生成了一个实例。");
+//        slowdown();
+    }
+
+    public static Singleton getInstance () {
+        if (singleton == null) {
+            singleton = new Singleton();
+        }
+        return singleton;
+    }
+
+    private void slowdown() {
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+}
+```
+
+> 图 A5-3 运行结果示例
+
+```
+Start.
+End.
+ 生成了一个实例。
+ 生成了一个实例。
+ 生成了一个实例。
+A: obj = 第五章.Singleton模式.A5_3.Singleton@b20568f
+B: obj = 第五章.Singleton模式.A5_3.Singleton@35d7e55a
+C: obj = 第五章.Singleton模式.A5_3.Singleton@698b3761
+```
+
+在以上代码中，如下条件判断是线程不安全的。
+
+```java
+if (singleton == null) {
+  singleton = new Singleton();
+}
+```
+
+在使用 singleton == null 判断第一个实例是否为 null 后，执行了下面的语句。
+
+singleton = new Singleton();
+
+但是，在赋值之前，其他线程可能会进行 singleton == null 判断。
+
+因此，只有像代码清单 A5-7 中那样，定义 getInstance 方法为 synchronized 方法后才是严谨的 Singleton 模式
+
+```java
+public class Singleton {
+    private static Singleton singleton = null;
+
+    private Singleton() {
+        System.out.println(" 生成了一个实例。");
+        slowdown();
+    }
+
+    public static synchronized Singleton getInstance () {
+        if (singleton == null) {
+            singleton = new Singleton();
+        }
+        return singleton;
+    }
+
+    private void slowdown() {
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+}
+```
+
