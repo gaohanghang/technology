@@ -98,3 +98,20 @@ select * from emp where empno='123456';
 alter table emp add primary key (empno);
 
 select * from emp where empno='123456';
+
+
+
+
+create table ccc(
+	id int unsigned,
+	name varchar(32)
+)
+
+-- 创建普通索引
+create index ccc_index on ccc (name);
+
+insert into ccc values (1,'yushengjun');
+insert into ccc values (2,'itmayiedu')
+
+-- 执行任务
+
