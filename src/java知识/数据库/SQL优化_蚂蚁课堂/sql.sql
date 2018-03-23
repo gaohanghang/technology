@@ -76,7 +76,7 @@ declare i int default 0;
 
 select * from emp;
 
-call insert_emp (100001,40000000);
+call insert_emp (100001,4000000);
 
 
 
@@ -89,3 +89,12 @@ show status like 'slow_queries';
 show variables like 'long_query_time';
 -- 修改为1秒
 set long_query_time=1;
+
+
+-- 没有索引查询时间 15.797.s 3.123s
+select * from emp where empno='123456';
+
+-- 加上主键索引 时间：0.006s 时间：0.003 时间：0.001s 时间：0.004s
+alter table emp add primary key (empno);
+
+select * from emp where empno='123456';
