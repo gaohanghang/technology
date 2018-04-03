@@ -7,12 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java8" />
-        <module name="java8_Study" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="java8" target="1.5" />
-      <module name="java8_Study" target="1.5" />
+      <module name="java8" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
