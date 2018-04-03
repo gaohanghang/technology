@@ -3,6 +3,7 @@ package java8_day01.com.atguigu;
 import org.junit.Test;
 import org.omg.CosNaming.NamingContextExtPackage.StringNameHelper;
 
+import java.util.*;
 import java.util.function.Consumer;
 
 /*
@@ -22,6 +23,21 @@ import java.util.function.Consumer;
     语法格式三：若只有一个参数，小括号可以省略不谢
         x -> System.out.println(x)
 
+    语法格式四：有两个以上参数，有返回值，并且 Lambda 体重有多条语句
+        Comparator<Integer> com = (x,y)-> {
+            System.out.println("函数式接口");
+            return Integer.compare(x, y);
+        };
+
+    语法格式五：若 Lambda 体中只有一条语句，return 和大括号都可以省略不写
+        Comparator<Integer> com = (x,y)-> Integer.compare(x, y);
+
+    语法格式六：Lambda 表达式的参数列表的数据类型可以省略不写，因为JVM编译器通过上下文推断出，数据类型，既"类型推断"
+        (Integer x,Integer y)-> Integer.compare(x, y);
+
+    上联：左右遇一括号省
+    下联：左侧推断类型省
+    横批：能省则省
  */
 public class TestLambda2 {
 
@@ -44,9 +60,36 @@ public class TestLambda2 {
     }
 
     @Test
-    public void Consumer(){
+    public void test2(){
         Consumer<String> con = (x) -> System.out.println(x);
         con.accept("我大尚硅谷威武!");
+    }
+
+    @Test
+    public void test3() {
+        Comparator<Integer> com = (x,y)-> {
+            System.out.println("函数式接口");
+            return Integer.compare(x, y);
+        };
+    }
+
+    @Test
+    public void test4() {
+        Comparator<Integer> com = (x,y)-> Integer.compare(x, y);
+    }
+
+    @Test
+    public void test5() {
+//        String[] strs;
+//        strs = {"aaa", "bbb", "ccc"};
+
+        List<String> list = new ArrayList<>();
+
+        show(new HashMap<>());
+    }
+
+    public void show(Map<String, Integer> map){
+
     }
 
 }
