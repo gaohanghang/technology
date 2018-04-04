@@ -1,7 +1,6 @@
-package java8_day01.com.atguigu;
+package com.atguigu.java8;
 
 import org.junit.Test;
-import org.omg.CosNaming.NamingContextExtPackage.StringNameHelper;
 
 import java.util.*;
 import java.util.function.Consumer;
@@ -12,7 +11,6 @@ import java.util.function.Consumer;
 
     左侧：Lambda 表达式的参数列表
     右侧：Lambda 表达式中所需执行的功能，既 Lambda 体
-
 
     语法格式一：无参数，无返回值
         () -> System.out.println("Hello Lambda!");
@@ -38,6 +36,10 @@ import java.util.function.Consumer;
     上联：左右遇一括号省
     下联：左侧推断类型省
     横批：能省则省
+
+    二、Lambda 表达式需要“函数式接口”的支持
+    函数式接口：接口中只有一个抽象方法的接口，称为函数式接口。可以使用注解@FunctionalInterface 修饰
+                可以检查是否是函数式接口
  */
 public class TestLambda2 {
 
@@ -48,7 +50,7 @@ public class TestLambda2 {
         Runnable r = new Runnable() {
             @Override
             public void run() {
-                System.out.println("Hello World!"+ num);
+                System.out.println("Hello World!" + num);
             }
         };
         r.run();
@@ -60,14 +62,14 @@ public class TestLambda2 {
     }
 
     @Test
-    public void test2(){
+    public void test2() {
         Consumer<String> con = (x) -> System.out.println(x);
         con.accept("我大尚硅谷威武!");
     }
 
     @Test
     public void test3() {
-        Comparator<Integer> com = (x,y)-> {
+        Comparator<Integer> com = (x, y) -> {
             System.out.println("函数式接口");
             return Integer.compare(x, y);
         };
@@ -75,7 +77,7 @@ public class TestLambda2 {
 
     @Test
     public void test4() {
-        Comparator<Integer> com = (x,y)-> Integer.compare(x, y);
+        Comparator<Integer> com = (x, y) -> Integer.compare(x, y);
     }
 
     @Test
@@ -88,8 +90,21 @@ public class TestLambda2 {
         show(new HashMap<>());
     }
 
-    public void show(Map<String, Integer> map){
+    public void show(Map<String, Integer> map) {
 
+    }
+
+    //需求：对一个数进行运算
+    @Test
+    public void test6() {
+        Integer num = operation(100, (x) -> x * x);
+        System.out.println(num);
+
+        System.out.println(operation(200, (y) -> y + 200));
+    }
+
+    public Integer operation(Integer num, Myfun mf) {
+        return mf.getValue(num);
     }
 
 }
