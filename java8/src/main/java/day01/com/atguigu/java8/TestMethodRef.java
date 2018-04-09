@@ -1,7 +1,6 @@
-package com.atguigu.java8;
+package day01.com.atguigu.java8;
 
 import org.junit.Test;
-import org.omg.Messaging.SYNC_WITH_TRANSPORT;
 
 import java.io.PrintStream;
 import java.util.function.Consumer;

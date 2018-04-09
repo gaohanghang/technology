@@ -1,4 +1,4 @@
-package com.atguigu.java8;
+package day01.com.atguigu.java8;
 
 public class FilterEmployeeBySalary implements MyPredicate<Employee>{
     @Override

@@ -1,4 +1,4 @@
-package com.atguigu.java8;
+package day01.com.atguigu.java8;
 
 import org.junit.Test;
 

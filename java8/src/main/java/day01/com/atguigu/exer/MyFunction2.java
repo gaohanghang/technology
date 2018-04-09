@@ -1,4 +1,4 @@
-package com.atguigu.exer;
+package day01.com.atguigu.exer;
 
 @FunctionalInterface
 public interface MyFunction2<T, R> {
