@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="girl" />
         <module name="java8" />
+        <module name="openresty" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="java8" target="1.8" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="girl" target="8" />
+      <module name="java8" target="8" />
+      <module name="openresty" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

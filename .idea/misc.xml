@@ -3,11 +3,14 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/java8" />
     <file type="web" url="file://$PROJECT_DIR$/java8_Study" />
+    <file type="web" url="file://$PROJECT_DIR$/openresty" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/java8/pom.xml" />
+        <option value="$PROJECT_DIR$/openresty/pom.xml" />
+        <option value="$PROJECT_DIR$/girl/pom.xml" />
       </list>
     </option>
   </component>

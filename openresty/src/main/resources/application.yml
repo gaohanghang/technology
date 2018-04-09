@@ -1,0 +1,26 @@
+
+redis:
+  host: 172.16.21.133
+  port: 6379
+  timeout: 10000
+  idle_time: 0
+  pool_size: 1000
+
+
+#锤子营销公众号
+marketing:
+  app_id: wx3d493e84eaff465d
+  app_secrect: 8b3c63dade290dddf0f723de47be6269
+  key_suffix: marketing
+
+#锤子科技公众号
+smartisan:
+  app_id: wxa64e19b6bbbfd8f7
+  app_secrect: 077cc3a9b81964b9e26885d3d1b9631f
+  key_suffix: smartisan
+
+weixin:
+  domain_name: open.smartisan.com
+  token_key_prefix: access:token
+  ticket_key_prefix: jsapi:ticket
+
