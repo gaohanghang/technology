@@ -1,11 +1,12 @@
 package day01.com.atguigu.exer;
 
-import day01.com.atguigu.java8.Employee;
+import com.atguigu.java8.Employee;
 import org.junit.Test;
 
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+import java.util.logging.Logger;
 
 public class TestLambda {
 
