@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/girl/girl.iml" filepath="$PROJECT_DIR$/girl/girl.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openresty/openresty.iml" filepath="$PROJECT_DIR$/openresty/openresty.iml" />
       <module fileurl="file://$PROJECT_DIR$/technology.iml" filepath="$PROJECT_DIR$/technology.iml" />
     </modules>
   </component>
