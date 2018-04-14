@@ -1,47 +1,47 @@
 package day01.com.atguigu.java8;
 
+import java.io.Serializable;
 import java.util.Objects;
 
-public class Employee {
+public class Employee implements Serializable {
 
-    private int id;
+    private static final long serialVersionUID = -383316674504233166L;
+
+    private Integer id;
     private String name;
-    private int age;
+    private Integer age;
     private double salary;
 
     public Employee() {
     }
 
-    public Employee(int id){
+    public Employee(Integer id) {
         this.id = id;
     }
 
-    public Employee(int id, int age) {
+    public Employee(Integer id, Integer age) {
         this.id = id;
         this.age = age;
     }
 
-    public Employee(String name, int age, double salary) {
+    public Employee(String name, Integer age, double salary) {
         this.name = name;
         this.age = age;
         this.salary = salary;
     }
 
-
-
-
-    public Employee(int id, String name, int age, double salary) {
+    public Employee(Integer id, String name, Integer age, double salary) {
         this.id = id;
         this.name = name;
         this.age = age;
         this.salary = salary;
     }
 
-    public int getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
@@ -53,11 +53,11 @@ public class Employee {
         this.name = name;
     }
 
-    public int getAge() {
+    public Integer getAge() {
         return age;
     }
 
-    public void setAge(int age) {
+    public void setAge(Integer age) {
         this.age = age;
     }
 
@@ -70,6 +70,23 @@ public class Employee {
     }
 
     @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Employee employee = (Employee) o;
+        return Double.compare(employee.salary, salary) == 0 &&
+                Objects.equals(id, employee.id) &&
+                Objects.equals(name, employee.name) &&
+                Objects.equals(age, employee.age);
+    }
+
+    @Override
+    public int hashCode() {
+
+        return Objects.hash(id, name, age, salary);
+    }
+
+    @Override
     public String toString() {
         return "Employee{" +
                 "id=" + id +
@@ -77,22 +94,5 @@ public class Employee {
                 ", age=" + age +
                 ", salary=" + salary +
                 '}';
-    }
-
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        Employee employee = (Employee) o;
-        return id == employee.id &&
-                age == employee.age &&
-                Double.compare(employee.salary, salary) == 0 &&
-                Objects.equals(name, employee.name);
-    }
-
-    @Override
-    public int hashCode() {
-
-        return Objects.hash(id, name, age, salary);
     }
 }

@@ -2,9 +2,7 @@ package day01.com.atguigu.java8;
 
 import org.junit.Test;
 
-import java.util.Arrays;
-import java.util.Iterator;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Stream;
 
 /*
@@ -29,6 +27,96 @@ public class TestStreamAPI2 {
     );
 
     //中间操作
+    /*
+        排序
+        sorted()--自然排序
+        sorted(Comparator com)--定制排序(Comparator)
+     */
+    @Test
+    public void test7(){
+        List<String> list = Arrays.asList("ccc","aaa","bbb","ddd","eee");
+
+        list.stream()
+                .sorted()
+                .forEach(System.out::println);
+
+        System.out.println("-----------------");
+
+        employees.stream()
+                .sorted((e1, e2) -> {
+                    if (e1.getAge().equals(e2.getAge())){
+                        return e1.getName().compareTo(e2.getName());
+                    }else {
+                        return e1.getAge().compareTo(e2.getAge());
+                    }
+                }).forEach(System.out::println);
+
+
+    }
+
+
+    /*
+        映射
+        map--接收 Lambda ，将元素转换成其他形式或提取信息。接收一个函数作为参数，该函数会被应用到每个元素上，并将其映射成一个新的元素。
+        flatMap--接收一个函数作为参数，将流中的每个值都转换成另一个流，然后把所有流连接一个流
+     */
+    @Test
+    public void test5(){
+        List<String> list = Arrays.asList("aaa","bbb","ccc","ddd","eee");
+
+        list.stream()
+                .map((str) -> str.toUpperCase())
+                .forEach(System.out::println);
+
+        System.out.println("---------------------------");
+
+        employees.stream()
+                    .map(Employee::getName)
+                    .forEach(System.out::println);
+
+        System.out.println("----------------------------------");
+
+        /*Stream<Stream<Character>> stream = list.stream()
+                .map(TestStreamAPI2::filterCharacter);//{ {a, a, a}, {b, b, b}}
+
+        stream.forEach((sm) -> {
+            sm.forEach(System.out::println);
+        });*/
+
+        System.out.println("------------------------");
+
+        Stream<Character> sm = list.stream()
+                .flatMap(TestStreamAPI2::filterCharacter);//{a, a, a, b, b, b}
+
+        sm.forEach(System.out::println);
+    }
+
+    @Test
+    public void test6(){
+        List<String> list = Arrays.asList("aaa","bbb","ccc","ddd","eee");
+
+        List list2 = new ArrayList();
+
+        list2.add(11);
+        list2.add(22);
+        list2.addAll(list);
+
+        System.out.println(list2);
+    }
+
+    public static Stream<Character> filterCharacter(String str){//add(Object obj)  addAll(Collection coll)
+        List<Character> list = new ArrayList<>();
+
+        for (Character ch : str.toCharArray()) {
+            list.add(ch);
+        }
+
+        return list.stream();
+    }
+
+
+
+
     /*
         筛选与切片
         filter--接收 Lambda，从流中排除某些元素。

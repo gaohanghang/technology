@@ -12,9 +12,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="girl" target="1.8" />
-      <module name="java8" target="1.5" />
-      <module name="openresty" target="1.8" />
+      <module name="girl" target="8" />
+      <module name="java8" target="8" />
+      <module name="openresty" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
