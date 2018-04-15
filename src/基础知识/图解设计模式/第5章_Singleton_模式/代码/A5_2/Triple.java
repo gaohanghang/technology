@@ -1,4 +1,4 @@
-package 基础知识.图解设计模式.第五章_Singleton_模式.代码.A5_2;
+package 基础知识.图解设计模式.第5章_Singleton_模式.代码.A5_2;
 
 public class Triple {
     private static Triple[] triple = new Triple[]{

@@ -1,4 +1,4 @@
-package 基础知识.图解设计模式.第五章_Singleton_模式.代码.A5_3;
+package 基础知识.图解设计模式.第5章_Singleton_模式.代码.A5_3;
 
 public class Main extends Thread {
     public static void main(String[] args) {

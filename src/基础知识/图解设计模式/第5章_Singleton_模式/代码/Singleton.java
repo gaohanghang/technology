@@ -1,4 +1,4 @@
-package 基础知识.图解设计模式.第五章_Singleton_模式.代码;
+package 基础知识.图解设计模式.第5章_Singleton_模式.代码;
 
 public class Singleton {
     private static Singleton singleton = new Singleton();
