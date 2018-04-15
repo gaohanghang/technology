@@ -45,6 +45,14 @@ public class Employee implements Serializable {
         this.status = status;
     }
 
+    public Employee(Integer id, String name, Integer age, double salary, Status status) {
+        this.id = id;
+        this.name = name;
+        this.age = age;
+        this.salary = salary;
+        this.status = status;
+    }
+
     public Integer getId() {
         return id;
     }

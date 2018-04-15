@@ -25,6 +25,59 @@ public class TestStreamAPI3 {
         用于给Stream中元素汇总的方法
      */
     @Test
+    public void test10(){
+        String str = employees.stream()
+                .map(Employee::getName)
+                .collect(Collectors.joining(",","###","###"));
+
+        System.out.println(str);
+    }
+
+    @Test
+    public void test9(){
+        DoubleSummaryStatistics dss = employees.stream()
+                .collect(Collectors.summarizingDouble(Employee::getSalary));
+
+        System.out.println(dss.getSum());
+        System.out.println(dss.getAverage());
+        System.out.println(dss.getMax());
+    }
+
+    //分区
+    @Test
+    public void test8(){
+        Map<Boolean, List<Employee>> map = employees.stream()
+                .collect(Collectors.partitioningBy((e) -> e.getSalary() > 8000));
+        System.out.println(map);
+    }
+
+    //多级分组
+    @Test
+    public void test7(){
+        Map<Employee.Status, Map<String, List<Employee>>> map = employees.stream()
+                .collect(Collectors.groupingBy(Employee::getStatus, Collectors.groupingBy((e) -> {
+                    if (e.getSalary() <= 35) {
+                        return "青年";
+                    } else if (e.getAge() <= 50) {
+                        return "中年";
+                    } else {
+                        return "老年";
+                    }
+                })));
+        System.out.println(map);
+    }
+
+
+    //分组
+    @Test
+    public void test6(){
+        Map<Employee.Status, List<Employee>> map = employees.stream()
+                .collect(Collectors.groupingBy(Employee::getStatus));
+
+        System.out.println(map);
+    }
+
+    @Test
     public void test5(){
         Long count = employees.stream()
                 .collect(Collectors.counting());
