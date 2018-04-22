@@ -7,14 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="girl" />
+        <module name="itmayiedu_mysql" />
         <module name="java8" />
         <module name="openresty" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="girl" target="8" />
-      <module name="java8" target="8" />
-      <module name="openresty" target="8" />
+      <module name="girl" target="1.8" />
+      <module name="itmayiedu_mysql" target="1.6" />
+      <module name="java8" target="1.5" />
+      <module name="openresty" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
