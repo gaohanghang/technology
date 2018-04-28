@@ -17,8 +17,7 @@ public class Main {
                 st.add(nums[i]);
             }
             String result = "";
-            for (Character c :
-                    st) {
+            for (Character c : st) {
                 result += c+"";
             }
             System.out.println(result);

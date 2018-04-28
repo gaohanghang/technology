@@ -140,7 +140,7 @@ public class TestLocalDateTime {
         System.out.println(ins2);
     }
 
-    //1. LocalDate LocalTime LocalDateTime
+    //1. LocalDate LocalTimeTest LocalDateTime
     @Test
     public void test1(){
         LocalDateTime ldt = LocalDateTime.now();
