@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RestTemplate/RestTemplate.iml" filepath="$PROJECT_DIR$/RestTemplate/RestTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet3/Servlet3.iml" filepath="$PROJECT_DIR$/Servlet3/Servlet3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cglibTest/cglibTest.iml" filepath="$PROJECT_DIR$/cglibTest/cglibTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/girl/girl.iml" filepath="$PROJECT_DIR$/girl/girl.iml" />
       <module fileurl="file://$PROJECT_DIR$/itmayiedu_mysql/itmayiedu_mysql.iml" filepath="$PROJECT_DIR$/itmayiedu_mysql/itmayiedu_mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
