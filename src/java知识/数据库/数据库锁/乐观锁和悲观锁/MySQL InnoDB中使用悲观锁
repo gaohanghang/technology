@@ -1,0 +1,11 @@
+// 0.开始事务
+begin;/begin work;/start transaction; (三者选一就可以)
+// 1.查询出商品信息
+select status from t_goods where id=1 for update;
+// 2.根据商品信息生成订单
+insert into t_orders (id,goods_id) values (null,1);
+// 3.修改商品status为2
+update t_goods set status=2;
+// 4.提交事务
+commit;/commit work;
+
