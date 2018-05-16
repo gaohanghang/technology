@@ -1,8 +1,8 @@
 package java知识.公众号.Java技术栈.a2017.a9_18关于Java序列化你应该知道的一切;
 
-import org.apache.commons.lang3.SerializationUtils;
+/*import org.apache.commons.lang3.SerializationUtils;*/
 
-public class Test {
+/*public class Test {
 
     public static void main(String[] args) {
         User user = new User();
@@ -13,4 +13,4 @@ public class Test {
         User u = SerializationUtils.deserialize(bytes);
         System.out.println(u);
     }
-}
+}*/
