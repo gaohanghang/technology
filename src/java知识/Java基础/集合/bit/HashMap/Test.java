@@ -17,7 +17,8 @@ public class Test {
             name = map.get("悟空"+i);
         }
         Long end = System.currentTimeMillis();
-
         System.out.println("悟空老师"+name+"，消耗时间："+(end-start));
     }
+
+
 }
