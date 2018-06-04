@@ -9,8 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/girl/girl.iml" filepath="$PROJECT_DIR$/girl/girl.iml" />
       <module fileurl="file://$PROJECT_DIR$/itmayiedu_mysql/itmayiedu_mysql.iml" filepath="$PROJECT_DIR$/itmayiedu_mysql/itmayiedu_mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/java8-growing/java8-growing.iml" filepath="$PROJECT_DIR$/java8/java8-growing/java8-growing.iml" />
       <module fileurl="file://$PROJECT_DIR$/openresty/openresty.iml" filepath="$PROJECT_DIR$/openresty/openresty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springmvc_param/springmvc_param.iml" filepath="$PROJECT_DIR$/springmvc_param/springmvc_param.iml" />
       <module fileurl="file://$PROJECT_DIR$/technology.iml" filepath="$PROJECT_DIR$/technology.iml" />
     </modules>
   </component>
