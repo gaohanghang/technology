@@ -10,5 +10,6 @@
     <orderEntry type="library" name="servlet" level="project" />
     <orderEntry type="library" name="algs4" level="project" />
     <orderEntry type="library" name="commons-lang3-3.7" level="project" />
+    <orderEntry type="library" name="servlet-api1" level="project" />
   </component>
 </module>
