@@ -12,7 +12,7 @@ import java.time.temporal.TemporalAdjusters;
  * @author GaoHangHang
  * @date 2018/07/12 13:35
  **/
-public class LocalDate {
+public class LocalDateTest {
     public static void main(String[] args) {
         //LocalDate代表一个IOS格式(yyyy-MM-dd)的日期，可以存储 生日、纪念日等日期。 获取当前的日期：
         java.time.LocalDate localDate = java.time.LocalDate.now();
