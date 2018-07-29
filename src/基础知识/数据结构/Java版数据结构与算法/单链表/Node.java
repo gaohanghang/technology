@@ -1,4 +1,4 @@
-package 基础知识.数据结构.单链表;
+package 基础知识.数据结构.Java版数据结构与算法.单链表;
 
 /**
  * @author GaoHangHang

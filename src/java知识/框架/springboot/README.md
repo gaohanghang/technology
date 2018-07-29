@@ -577,7 +577,7 @@ public class IndexController {
 @ComponentScan(basePackages = { "com.itmayiedu" })
 @EnableJpaRepositories(basePackages = "com.itmayiedu.dao")
 @EnableAutoConfiguration
-@EntityScan(basePackages = "com.itmayiedu.entity")
+@EntityScan(basePackages = flightentity)
 public class App {
 	public static void main(String[] args) {
 		SpringApplication.run(App.class, args);
