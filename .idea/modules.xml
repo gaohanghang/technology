@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/java8/java8-growing/java8-growing.iml" filepath="$PROJECT_DIR$/java8/java8-growing/java8-growing.iml" />
       <module fileurl="file://$PROJECT_DIR$/openresty/openresty.iml" filepath="$PROJECT_DIR$/openresty/openresty.iml" />
       <module fileurl="file://$PROJECT_DIR$/technology.iml" filepath="$PROJECT_DIR$/technology.iml" />
+      <module fileurl="file://$PROJECT_DIR$/write-readable-code/write-readable-code.iml" filepath="$PROJECT_DIR$/write-readable-code/write-readable-code.iml" />
     </modules>
   </component>
 </project>
