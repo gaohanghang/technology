@@ -23,7 +23,6 @@
       <module name="openresty" target="1.8" />
       <module name="RestTemplate" target="1.8" />
       <module name="Servlet3" target="1.8" />
-      <module name="springboot-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

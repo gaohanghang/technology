@@ -1,4 +1,4 @@
-package java知识.知识星球.a44comparator接口与Comparable接口的区别.comparableTest;
+package java知识.知识星球.直面java.a44comparator接口与Comparable接口的区别.comparableTest;
 
 import java.util.Arrays;
 import java.util.Collections;

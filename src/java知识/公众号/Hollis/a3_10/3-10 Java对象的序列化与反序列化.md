@@ -231,7 +231,7 @@ public class User2 implements Externalizable {
 
    @Override
    public String toString() {
-       return "User{" +
+       return User1 +
                "name='" + name + '\'' +
                ", age=" + age +
                '}';

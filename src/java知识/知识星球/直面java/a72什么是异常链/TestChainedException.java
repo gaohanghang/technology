@@ -1,4 +1,4 @@
-package java知识.知识星球.a72什么是异常链;
+package java知识.知识星球.直面java.a72什么是异常链;
 
 import java.io.FileNotFoundException;
 

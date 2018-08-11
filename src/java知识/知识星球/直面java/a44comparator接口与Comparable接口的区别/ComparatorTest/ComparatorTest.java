@@ -1,8 +1,6 @@
-package java知识.知识星球.a44comparator接口与Comparable接口的区别.ComparatorTest;
+package java知识.知识星球.直面java.a44comparator接口与Comparable接口的区别.ComparatorTest;
 
-import java.time.Period;
 import java.util.*;
-import java.util.stream.Collectors;
 
 /**
  * Created by GaoHangHang 2018-05-17 10:56

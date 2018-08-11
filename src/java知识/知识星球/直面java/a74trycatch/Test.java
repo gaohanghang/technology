@@ -1,4 +1,4 @@
-package java知识.知识星球.a74trycatch;
+package java知识.知识星球.直面java.a74trycatch;
 
 /**
  * @author GaoHangHang

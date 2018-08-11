@@ -1,4 +1,4 @@
-package java知识.知识星球.a44comparator接口与Comparable接口的区别;
+package java知识.知识星球.直面java.a44comparator接口与Comparable接口的区别;
 
 /**
  * Created by GaoHangHang 2018-05-17 18:09
