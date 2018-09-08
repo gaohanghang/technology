@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cglibTest" />
-        <module name="girl" />
         <module name="itmayiedu_mysql" />
         <module name="java8" />
         <module name="openresty" />
