@@ -20,5 +20,5 @@ public class Main3 {
 
 class Base{}
 
-class Sub extends  Base{};
+class Sub extends  Base{}
 
