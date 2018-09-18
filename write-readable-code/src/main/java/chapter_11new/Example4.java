@@ -1,5 +1,6 @@
 package main.java.chapter_11new;
 
+import java.net.URLClassLoader;
 import java.time.LocalDate;
 
 /**
@@ -29,12 +30,22 @@ public class Example4 {
         Business business = new Business();
         business.name = request.param("name");
 
-        //business.url = "/biz/" + ;
+        business.url = "/biz/" + makePrettyURL(business);
+        business.created = LocalDate.now();
+        business.save();
     }
 
     private String makePrettyURL(Business business) {
-        return null;
+        String urlPathName = business.name.toLowerCase();
+        urlPathName = urlPathName.replaceAll("[\\.,\\']", "");
+        urlPathName = urlPathName.replaceAll("[^a-z0-9]+", "-");
+        if (urlPathName.charAt(0) == '-') {
+            urlPathName = urlPathName.substring(1);
+        }
+        if (urlPathName.charAt(urlPathName.length() - 1) == '-') {
+            urlPathName = urlPathName.substring(0, urlPathName.length() - 1);
+        }
+        return urlPathName;
     }
-
 
 }
