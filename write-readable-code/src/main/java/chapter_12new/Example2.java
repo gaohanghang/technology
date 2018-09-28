@@ -23,7 +23,7 @@ public class Example2 {
     }
 
     // 上海 - 浦东
-    public String part(Address address) {
+    public String part1(Address address) {
         String place = address.cityName;
         // 城市名称
         if (place == null) {
@@ -52,6 +52,19 @@ public class Example2 {
         //String firshHalf =
 
         return null;
+    }
+
+    public static void main(String[] args) {
+        Example2 example2 = new Example2();
+        String place = example2.part1(
+                new Address("中国","浦东","上海", "徐汇区")
+        );
+
+        place = example2.part1(
+                new Address("中国","山西省",null,"迎泽区")
+        );
+
+        System.out.println(place);
     }
 
 
