@@ -9,6 +9,15 @@
         <webroots>
           <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/resources" />
+          <root url="file://$MODULE_DIR$/src/main/java" />
+          <root url="file://$MODULE_DIR$/java8-growing/src/jdk5" />
+          <root url="file://$MODULE_DIR$/java8-growing/src/jdk6" />
+          <root url="file://$MODULE_DIR$/java8-growing/src/Jdk7" />
+          <root url="file://$MODULE_DIR$/java8-growing/src/jdk8" />
+          <root url="file://$MODULE_DIR$/lambda exception in java 8" />
+        </sourceRoots>
       </configuration>
     </facet>
   </component>
@@ -23,6 +32,7 @@
       <sourceFolder url="file://$MODULE_DIR$/java8-growing/src/Jdk7" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java8-growing/src/jdk8" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lambda exception in java 8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java8-growing/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
