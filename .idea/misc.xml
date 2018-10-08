@@ -10,7 +10,6 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/java8/pom.xml" />
         <option value="$PROJECT_DIR$/openresty/pom.xml" />
         <option value="$PROJECT_DIR$/girl/pom.xml" />
         <option value="$PROJECT_DIR$/itmayiedu_mysql/pom.xml" />
