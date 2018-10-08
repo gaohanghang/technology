@@ -1,3 +1,5 @@
+package jdk8;
+
 import java.time.*;
 
 /**
@@ -50,8 +52,6 @@ public class DateTimeAPI {
         final Duration duration = Duration.between(from, to);
         System.out.println("Duration in days: " + duration.toDays());
         System.out.println("Duration in hours: " + duration.toHours());
-
-
     }
 
 }
