@@ -90,7 +90,7 @@ public class OptionalDemo {
         } catch (Exception e) {
             return Optional.empty();
         }
-    }h
+    }
 
     private int readPoint(Properties props, String name) {
         return Optional.ofNullable(props.getProperty(name))

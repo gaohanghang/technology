@@ -1,3 +1,5 @@
+package jdk8;
+
 import java.util.function.Supplier;
 
 /**
