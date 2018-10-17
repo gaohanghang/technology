@@ -2,119 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinStudy/Kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinStudy/src/Greeter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinStudy/src/test.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8/target/classes/FunctionDefaultMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8/target/classes/Functional.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8/target/classes/Lambda.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8/target/classes/NashornDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8/target/classes/OptionalDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8/target/classes/ParallerlArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8/target/classes/Streams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8/target/classes/jdk5新特性.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8/target/classes/jdk6新特性.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8/target/classes/jdk7特性.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-default-methods/BasicCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-default-methods/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-default-methods/CalculatorFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-default-methods/Collection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-default-methods/UseCalc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-default-methods/conflict/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-default-methods/conflict/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-default-methods/conflict/App2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-default-methods/conflict/App3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-default-methods/conflict/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-default-methods/conflict/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-growing/jdk5新特性.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-growing/jdk6新特性.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-growing/jdk7特性.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lession1/FilterProjects.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lession1/Project.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lession1/ProjectPredicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lession1/predicate/ProjectLanguagePredicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lession1/predicate/ProjectStarPredicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lession2/FunctionalDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/ConstructorReference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/LambdaException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/LambdaExceptionDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/Lambdas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/MethodReference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/OtherReference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/ProjectFunction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-optional/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-optional/BeforeJava8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-optional/OptionalDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-optional/OptionalDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-optional/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-stream/lesson1/Java7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-stream/lesson1/Project.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-stream/lesson1/java8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java8-stream/lesson1/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/Blog/a10_3/正则表达式真的很骚，可惜你不会写.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/尚学堂/多线程/Thread_study01/StartThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/尚学堂/多线程/Thread_study01/WebDownloader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/CreateStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/FilterAndSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/Test3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/EulerTransform.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/FibonacciStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/FibonacciSupplier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/NaturalSupplier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/NaturalSupplierTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/PiStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/PiSupplier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/piStream2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/RangeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/ReduceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a146Java中创建对象的方法有几种/CloneTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a146Java中创建对象的方法有几种/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a146Java中创建对象的方法有几种/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a147泛型为Integer的ArrayList中存放一个String类型的对象/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/我终于搞清楚了和String有关的那点事儿/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/清华数据结构算法/a01/HailstoneSequence/HailstoneSequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/王爵的技术小黑屋/web开发/p1/web-design-in-4-minutes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_13/Example1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_13/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java提高篇/Husband.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java提高篇/Wife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/Java基础/工具类/HttpAsyn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/掘金/随机数使用不当引起的生产bug/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/CollectStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/FilterAndSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/FindAndMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/GroupByStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/MapAndFlatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/reduceStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/sumPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-tips/java-tips.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-tips/src/javatips/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-tips/src/javatips/Unchecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a1列出某个目录下的所有文件/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a2列出某个目录下的所有子目录/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a3判断一个文件或目录是否存在/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a4读写文件/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/Base64Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/Base64Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/DefaulableFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/DefaulableFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/FunctionDefaultMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/FunctionDefaultMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/Functional.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/Functional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/Lambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/NashornDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/NashornDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/OptionalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/OptionalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/ParallerlArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/ParallerlArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/Streams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/TypeInference.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/TypeInference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-optional/src/OptionalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-optional/src/OptionalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-stream/src/lesson1/Java7.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-stream/src/lesson1/Java7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/CreateStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/CreateStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology.iml" beforeDir="false" afterPath="$PROJECT_DIR$/technology.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglibTest/target/" />
     <ignored path="$PROJECT_DIR$/openresty/target/" />
@@ -122,6 +20,7 @@
     <ignored path="$PROJECT_DIR$/java8/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/itmayiedu_mysql/target/" />
+    <ignored path="$PROJECT_DIR$/java-tips/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +45,7 @@
     <session id="-442260083">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
@@ -159,12 +58,12 @@
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -172,13 +71,14 @@
           <entry key="groovy" value="1" />
           <entry key="html" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="314" />
+          <entry key="java" value="323" />
           <entry key="jpg" value="1" />
           <entry key="js" value="11" />
           <entry key="kt" value="3" />
           <entry key="md" value="24" />
           <entry key="png" value="4" />
           <entry key="txt" value="2" />
+          <entry key="xml" value="1" />
           <entry key="答疑" value="2" />
         </counts>
       </usages-collector>
@@ -188,11 +88,12 @@
           <entry key="HTML" value="2" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="5" />
-          <entry key="JAVA" value="314" />
+          <entry key="JAVA" value="323" />
           <entry key="JavaScript" value="11" />
           <entry key="Kotlin" value="3" />
           <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="3" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -201,11 +102,11 @@
           <entry key="ft" value="4" />
           <entry key="groovy" value="75" />
           <entry key="html" value="331" />
-          <entry key="java" value="50556" />
+          <entry key="java" value="51966" />
           <entry key="js" value="2176" />
           <entry key="kt" value="222" />
           <entry key="md" value="1094" />
-          <entry key="txt" value="96" />
+          <entry key="txt" value="126" />
           <entry key="答疑" value="90" />
         </counts>
       </usages-collector>
@@ -213,11 +114,11 @@
         <counts>
           <entry key="Groovy" value="75" />
           <entry key="HTML" value="331" />
-          <entry key="JAVA" value="50556" />
+          <entry key="JAVA" value="51966" />
           <entry key="JavaScript" value="2176" />
           <entry key="Kotlin" value="222" />
           <entry key="Markdown" value="1184" />
-          <entry key="PLAIN_TEXT" value="102" />
+          <entry key="PLAIN_TEXT" value="132" />
           <entry key="VTL" value="4" />
         </counts>
       </usages-collector>
@@ -226,10 +127,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/MapAndFlatMap.java">
+        <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a1列出某个目录下的所有文件/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            <state relative-caret-position="150">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -238,10 +139,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/GroupByStream.java">
+        <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a2列出某个目录下的所有子目录/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="150">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -250,78 +151,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/sumPerformance.java">
+        <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a3判断一个文件或目录是否存在/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/掘金/随机数使用不当引起的生产bug/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KotlinStudy/src/test.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KotlinStudy/src/Greeter.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/Java基础/工具类/HttpAsyn.java">
+        <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a4读写文件/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="12" column="80" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java知识/Java基础/Java提高篇/Husband.java">
+        <entry file="file://$PROJECT_DIR$/java-tips/src/javatips/Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+            <state relative-caret-position="315">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#596#597#0" expanded="true" />
-                <element signature="e#622#623#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#725#726#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-tips/src/javatips/Unchecked.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="260" column="27" selection-start-line="260" selection-start-column="27" selection-end-line="260" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -329,8 +216,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java知识/Java基础/Java提高篇/Wife.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="285">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#233#234#0" expanded="true" />
                 <element signature="e#260#261#0" expanded="true" />
@@ -395,16 +282,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/FibonacciSupplier.java" />
-        <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/FibonacciStream.java" />
-        <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/PiStream.java" />
-        <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/piStream2.java" />
-        <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/piStream2.java" />
-        <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test2.java" />
-        <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/ReduceTest.java" />
-        <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/RangeTest.java" />
-        <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/ArrayStream.java" />
         <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/FilesStream.java" />
         <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test3.java" />
         <option value="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test4.java" />
@@ -446,6 +323,16 @@
         <option value="$PROJECT_DIR$/src/java知识/Java基础/工具类/HttpAsyn.java" />
         <option value="$PROJECT_DIR$/src/java知识/Java基础/Java提高篇/Husband.java" />
         <option value="$PROJECT_DIR$/src/java知识/Java基础/Java提高篇/Wife.java" />
+        <option value="$PROJECT_DIR$/src/基础知识/Java基础/IO/a1列出某个目录下的所有文件/Test.java" />
+        <option value="$PROJECT_DIR$/src/基础知识/Java基础/IO/a2列出某个目录下的所有子目录/Test.java" />
+        <option value="$PROJECT_DIR$/src/基础知识/Java基础/IO/a3判断一个文件或目录是否存在/Test.java" />
+        <option value="$PROJECT_DIR$/src/基础知识/Java基础/IO/a4读写文件/Test.java" />
+        <option value="$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a4读写文件/Test.java" />
+        <option value="$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/Test.java" />
+        <option value="$PROJECT_DIR$/java-tips/pom.xml" />
+        <option value="$PROJECT_DIR$/java-tips/src/main/java/javatips/lambda/exception/Example.java" />
+        <option value="$PROJECT_DIR$/java-tips/src/javatips/Unchecked.java" />
+        <option value="$PROJECT_DIR$/java-tips/src/javatips/Example.java" />
       </list>
     </option>
   </component>
@@ -475,8 +362,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="105" />
-    <option name="y" value="43" />
+    <option name="x" value="103" />
+    <option name="y" value="202" />
     <option name="width" value="1400" />
     <option name="height" value="732" />
   </component>
@@ -506,7 +393,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -517,59 +403,34 @@
             <path>
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="ServletDemo1" type="462c0819:PsiDirectoryNode" />
+              <item name="java-tips" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="java-tips" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="java-tips" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
-              <item name="Java提高篇" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
-              <item name="JVM" type="462c0819:PsiDirectoryNode" />
+              <item name="javatips" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539136127514" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539779769682" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -599,52 +460,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.TestKt">
-    <configuration name="CollectStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.知识星球.成神之路.第014期Stream相关.Java8中stream相关用法.CollectStream" />
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础知识.Java基础.IO.java的IO_Socket笔试题.Test" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.知识星球.成神之路.第014期Stream相关.Java8中stream相关用法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DateTimeAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdk8.DateTimeAPI" />
-      <module name="java8-growing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jdk8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupByStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.知识星球.成神之路.第014期Stream相关.Java8中stream相关用法.GroupByStream" />
-      <module name="technology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java知识.知识星球.成神之路.第014期Stream相关.Java8中stream相关用法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapAndFlatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.知识星球.成神之路.第014期Stream相关.Java8中stream相关用法.MapAndFlatMap" />
-      <module name="technology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java知识.知识星球.成神之路.第014期Stream相关.Java8中stream相关用法.*" />
+          <option name="PATTERN" value="基础知识.Java基础.IO.java的IO_Socket笔试题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -653,11 +475,50 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.掘金.随机数使用不当引起的生产bug.Test" />
+      <option name="MAIN_CLASS_NAME" value="基础知识.Java基础.IO.java的IO_Socket笔试题.a1列出某个目录下的所有文件.Test" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.掘金.随机数使用不当引起的生产bug.*" />
+          <option name="PATTERN" value="基础知识.Java基础.IO.java的IO_Socket笔试题.a1列出某个目录下的所有文件.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础知识.Java基础.IO.java的IO_Socket笔试题.a2列出某个目录下的所有子目录.Test" />
+      <module name="technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="基础知识.Java基础.IO.java的IO_Socket笔试题.a2列出某个目录下的所有子目录.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础知识.Java基础.IO.java的IO_Socket笔试题.a3判断一个文件或目录是否存在.Test" />
+      <module name="technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="基础知识.Java基础.IO.java的IO_Socket笔试题.a3判断一个文件或目录是否存在.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础知识.Java基础.IO.java的IO_Socket笔试题.a4读写文件.Test" />
+      <module name="technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="基础知识.Java基础.IO.java的IO_Socket笔试题.a4读写文件.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -687,19 +548,14 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
-      <item itemvalue="Application.MapAndFlatMap" />
-      <item itemvalue="Application.CollectStream" />
-      <item itemvalue="Application.GroupByStream" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Kotlin.TestKt" />
+      <item itemvalue="Application.Test (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.TestKt" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.GroupByStream" />
-        <item itemvalue="Application.CollectStream" />
-        <item itemvalue="Application.MapAndFlatMap" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -736,7 +592,10 @@
       <workItem from="1538979313064" duration="212000" />
       <workItem from="1538979541330" duration="12552000" />
       <workItem from="1538994204841" duration="1132000" />
-      <workItem from="1539013229021" duration="21811000" />
+      <workItem from="1539013229021" duration="22590000" />
+      <workItem from="1539180829991" duration="6351000" />
+      <workItem from="1539414087784" duration="2212000" />
+      <workItem from="1539578787923" duration="5247000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1536395809116</created>
@@ -850,17 +709,23 @@
       <option name="project" value="LOCAL" />
       <updated>1538994280488</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="📱java学习">
+      <created>1539136300679</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1539136300679</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231066000" />
+    <option name="totallyTimeSpent" value="245655000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="495" y="45" width="1400" height="732" extended-state="0" />
-    <editor active="true" />
+    <frame x="103" y="202" width="1400" height="732" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26509574" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2687776" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -870,7 +735,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296875" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.3203125" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.3203125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3984375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -911,7 +776,8 @@
     <MESSAGE value="《跟上Java8》java8的发展" />
     <MESSAGE value="《跟上Java8》" />
     <MESSAGE value="java8学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="java8学习" />
+    <MESSAGE value="java学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="java学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -928,84 +794,20 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/Test.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/ReduceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="13" column="26" selection-start-line="13" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/RangeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/FilesStream.java" />
-    <entry file="file://$PROJECT_DIR$/java8/java8-growing/src/DateTimeAPI.java" />
-    <entry file="file://$PROJECT_DIR$/java8/java8-growing/src/jdk8/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="67" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1013,9 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="34" column="7" selection-start-line="12" selection-start-column="6" selection-end-line="34" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1023,26 +822,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java8/java8-growing/src/jdk8/rrr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/java8-growing/src/jdk8/rrr.java" />
     <entry file="file://$PROJECT_DIR$/java8/java8-growing/src/jdk8/ParallerlArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1127,9 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1158,9 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1192,9 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1202,9 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1219,83 +994,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#864#865#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#966#967#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/ParallelStream.java" />
+    <entry file="file://$PROJECT_DIR$/src/java知识/Kotlin/first.kt" />
     <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/MapAndFlatMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="225">
           <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/GroupByStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="645">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/ParallelStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/sumPerformance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="150">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/Kotlin/first.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/掘金/随机数使用不当引起的生产bug/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="195">
           <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1316,21 +1044,74 @@
     <entry file="file://$PROJECT_DIR$/src/java知识/Java基础/工具类/HttpAsyn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/Java基础/JVM/ReferenceCountingGC.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/Java基础/Java提高篇/Husband.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="405">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+          <folding>
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a1列出某个目录下的所有文件/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a2列出某个目录下的所有子目录/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a3判断一个文件或目录是否存在/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a4读写文件/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="80" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/Java基础/Java提高篇/Wife.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="285">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#233#234#0" expanded="true" />
             <element signature="e#260#261#0" expanded="true" />
@@ -1350,25 +1131,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/Java基础/Java提高篇/Husband.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/Java基础/JVM/ReferenceCountingGC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-tips/src/main/java/javatips/lambda/exception/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding>
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-tips/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="260" column="27" selection-start-line="260" selection-start-column="27" selection-end-line="260" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-tips/src/javatips/Unchecked.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-tips/src/javatips/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1427,7 +1244,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Kotlin</last-edited>
+          <last-edited>java-tips</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
