@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Kotlin/TestKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/META-INF/technology.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/Java提高篇/Husband.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/Java提高篇/Wife.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/工具类/HttpAsyn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/掘金/随机数使用不当引起的生产bug/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/CollectStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/FindAndMatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/GroupByStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/MapAndFlatMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/reduceStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/sumPerformance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/IO/java的IO_Socket笔试题/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/IO/java的IO_Socket笔试题/a1列出某个目录下的所有文件/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/IO/java的IO_Socket笔试题/a2列出某个目录下的所有子目录/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/IO/java的IO_Socket笔试题/a3判断一个文件或目录是否存在/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/IO/java的IO_Socket笔试题/a4读写文件/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/尚学堂/java300讲/testDate/cn/bjsxt/test/TestDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/尚学堂/java300讲/testwrappedclass/cn/bjsxt/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/尚学堂/java300讲/testwrappedclass/cn/bjsxt/test/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a1删除下标为k的元素/a1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a2找出常用的数字/a1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fastjson/JsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础知识/图解设计模式/第3章TeamplateMethod模式/AbstractDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglibTest/target/" />
@@ -59,11 +37,12 @@
     <session id="-442260083">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.19" value="2" />
@@ -73,11 +52,12 @@
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -85,7 +65,7 @@
           <entry key="groovy" value="1" />
           <entry key="html" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="337" />
+          <entry key="java" value="340" />
           <entry key="jpg" value="1" />
           <entry key="js" value="11" />
           <entry key="kt" value="5" />
@@ -102,7 +82,7 @@
           <entry key="HTML" value="2" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="5" />
-          <entry key="JAVA" value="337" />
+          <entry key="JAVA" value="340" />
           <entry key="JavaScript" value="11" />
           <entry key="Kotlin" value="5" />
           <entry key="Markdown" value="25" />
@@ -116,7 +96,7 @@
           <entry key="ft" value="4" />
           <entry key="groovy" value="75" />
           <entry key="html" value="331" />
-          <entry key="java" value="52961" />
+          <entry key="java" value="53514" />
           <entry key="js" value="2176" />
           <entry key="kt" value="222" />
           <entry key="md" value="1094" />
@@ -128,7 +108,7 @@
         <counts>
           <entry key="Groovy" value="75" />
           <entry key="HTML" value="331" />
-          <entry key="JAVA" value="52961" />
+          <entry key="JAVA" value="53514" />
           <entry key="JavaScript" value="2176" />
           <entry key="Kotlin" value="222" />
           <entry key="Markdown" value="1184" />
@@ -143,7 +123,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/java300讲/testwrappedclass/cn/bjsxt/test/Test02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
+            <state relative-caret-position="450">
               <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
@@ -177,20 +157,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式达内/代理模式/TestProxy01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/工作/sql/json数据.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/工作/代码学习/Conversion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -200,32 +166,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/工作/代码学习/Batch3SqlGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/cglibTest/src/main/java/project/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a1删除下标为k的元素/a1.java">
+        <entry file="file://$PROJECT_DIR$/src/Fastjson/JsonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-              <folding>
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a2找出常用的数字/a1.java">
+        <entry file="file://$PROJECT_DIR$/src/基础知识/图解设计模式/第3章TeamplateMethod模式/AbstractDisplay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="225">
+              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -267,8 +225,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java8/java8-growing/src/DateTimeAPI.java" />
-        <option value="$PROJECT_DIR$/java8/java8-growing/src/Jdk7/CatchMultiException.java" />
         <option value="$PROJECT_DIR$/java8/java8-growing/src/jdk8/DateTimeAPI.java" />
         <option value="$PROJECT_DIR$/java8/java8-stream/src/lesson1/Java7.java" />
         <option value="$PROJECT_DIR$/java8/java8-growing/src/jdk8/Base64Demo.java" />
@@ -318,6 +274,8 @@
         <option value="$PROJECT_DIR$/src/java知识/尚学堂/java300讲/testwrappedclass/cn/bjsxt/test/Test02.java" />
         <option value="$PROJECT_DIR$/src/java知识/尚学堂/java300讲/testDate/cn/bjsxt/test/TestDate.java" />
         <option value="$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a2找出常用的数字/a1.java" />
+        <option value="$PROJECT_DIR$/src/Fastjson/JsonTest.java" />
+        <option value="$PROJECT_DIR$/src/基础知识/图解设计模式/第3章TeamplateMethod模式/AbstractDisplay.java" />
       </list>
     </option>
   </component>
@@ -347,8 +305,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="62" />
+    <option name="x" value="157" />
+    <option name="y" value="203" />
     <option name="width" value="1400" />
     <option name="height" value="732" />
   </component>
@@ -378,7 +336,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -395,73 +352,6 @@
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="尚学堂" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="尚学堂" type="462c0819:PsiDirectoryNode" />
-              <item name="java300讲" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="尚学堂" type="462c0819:PsiDirectoryNode" />
-              <item name="java300讲" type="462c0819:PsiDirectoryNode" />
-              <item name="testDate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="尚学堂" type="462c0819:PsiDirectoryNode" />
-              <item name="java300讲" type="462c0819:PsiDirectoryNode" />
-              <item name="testDate" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="尚学堂" type="462c0819:PsiDirectoryNode" />
-              <item name="java300讲" type="462c0819:PsiDirectoryNode" />
-              <item name="testDate" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="bjsxt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="尚学堂" type="462c0819:PsiDirectoryNode" />
-              <item name="java300讲" type="462c0819:PsiDirectoryNode" />
-              <item name="testwrappedclass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="基础知识" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -469,44 +359,13 @@
               <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="基础知识" type="462c0819:PsiDirectoryNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="基础知识" type="462c0819:PsiDirectoryNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
-              <item name="面向对象" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="基础知识" type="462c0819:PsiDirectoryNode" />
-              <item name="算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="基础知识" type="462c0819:PsiDirectoryNode" />
-              <item name="算法" type="462c0819:PsiDirectoryNode" />
-              <item name="十道算法题Java实现" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="基础知识" type="462c0819:PsiDirectoryNode" />
-              <item name="算法" type="462c0819:PsiDirectoryNode" />
-              <item name="十道算法题Java实现" type="462c0819:PsiDirectoryNode" />
-              <item name="a1删除下标为k的元素" type="462c0819:PsiDirectoryNode" />
+              <item name="图解设计模式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -514,7 +373,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540109241798" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540516694562" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -544,13 +403,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test02">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础知识.Java基础.IO.java的IO_Socket笔试题.Test" />
+  <component name="RunManager" selected="Application.JsonTest">
+    <configuration name="JsonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fastjson.JsonTest" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="基础知识.Java基础.IO.java的IO_Socket笔试题.*" />
+          <option name="PATTERN" value="Fastjson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -577,19 +436,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java知识.尚学堂.java300讲.testwrappedclass.cn.bjsxt.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础知识.Java基础.IO.java的IO_Socket笔试题.a2列出某个目录下的所有子目录.Test" />
-      <module name="technology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="基础知识.Java基础.IO.java的IO_Socket笔试题.a2列出某个目录下的所有子目录.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -659,18 +505,18 @@
     <list>
       <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
       <item itemvalue="Kotlin.TestKt" />
-      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.a1" />
       <item itemvalue="Application.Test01" />
       <item itemvalue="Application.Test02" />
+      <item itemvalue="Application.JsonTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JsonTest" />
         <item itemvalue="Application.Test02" />
         <item itemvalue="Application.Test01" />
         <item itemvalue="Application.a1" />
         <item itemvalue="Kotlin.TestKt" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -712,7 +558,11 @@
       <workItem from="1539414087784" duration="2212000" />
       <workItem from="1539578787923" duration="5269000" />
       <workItem from="1539865630551" duration="1746000" />
-      <workItem from="1540013954519" duration="7134000" />
+      <workItem from="1540013954519" duration="7171000" />
+      <workItem from="1540449399190" duration="796000" />
+      <workItem from="1540450677747" duration="93000" />
+      <workItem from="1540450843651" duration="18000" />
+      <workItem from="1540452181759" duration="1377000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1536395809116</created>
@@ -840,17 +690,33 @@
       <option name="project" value="LOCAL" />
       <updated>1539779808868</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="java学习">
+      <created>1540110270859</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1540110270859</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="254557000" />
+    <option name="totallyTimeSpent" value="256878000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="62" width="1400" height="732" extended-state="0" />
+    <frame x="157" y="203" width="1400" height="732" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27614138" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2916053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -859,8 +725,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3296875" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.3203125" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296875" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.3203125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3984375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -878,7 +744,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Remote Host" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3298969" />
+      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.3298969" />
       <window_info anchor="right" id="Database" order="7" weight="0.3298969" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -929,16 +795,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java8/java8-optional/src/OptionalDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="92" column="5" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java8/java8-growing/src/jdk5新特性.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/java8/java8-growing/src/jdk6新特性.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1079,9 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="11" column="48" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1089,9 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="11" column="48" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1106,9 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="80" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1140,22 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1170,9 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="1" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1180,13 +1008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a1删除下标为k的元素/a1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1211,9 +1032,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a2找出常用的数字.java" />
+    <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式达内/代理模式/TestProxy01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/工作/sql/json数据.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a2找出常用的数字/a1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a1删除下标为k的元素/a1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/工作/代码学习/Batch3SqlGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/java300讲/testwrappedclass/cn/bjsxt/test/Test02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
+        <state relative-caret-position="450">
           <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
@@ -1239,16 +1092,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式达内/代理模式/TestProxy01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/工作/sql/json数据.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/工作/代码学习/Conversion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1256,35 +1099,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/工作/代码学习/Batch3SqlGenerator.java">
+    <entry file="file://$PROJECT_DIR$/cglibTest/src/main/java/project/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fastjson/JsonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="225">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a2找出常用的数字.java">
+    <entry file="file://$PROJECT_DIR$/src/基础知识/图解设计模式/第3章TeamplateMethod模式/AbstractDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a1删除下标为k的元素/a1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a2找出常用的数字/a1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="225">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
         </state>
       </provider>
     </entry>
