@@ -1,4 +1,4 @@
-package java知识.尚学堂.a01java入门阶段;
+package java知识.尚学堂.a01java入门阶段.第三章控制语句;
 
 /**
  * 测试循环语句中的break

@@ -1,0 +1,9 @@
+主要的选择结构有：if选择结构和switch多选择结构。有如下结构：
+
+   if单选择结构
+
+   if-else双选择结构
+
+   if-else if-else多选择结构
+
+   switch结构
