@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac28f03d-1ada-4909-a27b-0e806c572af8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2120526545">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Workproject/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/tmc-adapter-ctrip-d63f66dd84f331806601007961631740a74386f6" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/tmc-adapter-ctrip-e7e296f326827e034ef2465c45af46af5ec27499/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/tmc-adapter-meiya" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/tmc-adapter-meiya-e2acd9e9f1e98951afe2bbe501e532a6f246e661" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/tmc-adapter-meiya-team-data/tmc-adapter-meiya-team-data" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/代码学习/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/工作文件/峰姐代码/tmc-adapter-ctrip-dump" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/工作文件/阿龙/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-10 订单详情/0 原始项目/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-10 订单详情/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-11 1 美亚订单找回项目优化/1 小美亚参考项目/tmc-adapter-meiya" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-14 1 美亚项目改造/0 原始项目/tmc-adapter-meiya" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-14 1 美亚项目改造/tmc-adapter-meiya" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-16 大TMC订单详情/0 基础数据项目/jinglimarshmallow" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-16 大TMC订单详情/3 推送项目/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-16 大TMC订单详情/4 推送项目2/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-16 大TMC订单详情/5 推送项目/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-17 美亚下单测试/0 原始项目/tmc-adapter-meiya" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-18 大TMC推送/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-18 携程酒店更新修复/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-19 改写基础数据项目/jingli-marshmallow" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-23 大TMC回调/tmc-adapter-meiya" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-23 美亚回调修改/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-24 美亚回调推送/tmc-adapter-meiya" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-24 美亚回调推送/新建项目/tmc-adapter-meiya" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-26 携程更新优化/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-29 美亚测试/tmc-adapter-meiya" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-30 携程报错修改/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-31 携程建表/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-8 3 大tmc/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-8 项目学习/0 用车项目/tmc/car-adapter" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-8 项目学习/2 携程项目/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-9 大TMC订单录入/0 学习项目/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-9 大TMC订单录入/0 学习项目/jingli-tmc/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-10-9 大TMC订单录入/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-11-1 大TMC火车详情/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-11-8 美亚验价/tmc-adapter-meiya" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-9-21 保存预定订单/原始项目/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-9-21 保存预定订单/大TMC/jingli-tmc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-9-28 酒店更新优化/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-9-30 1 美亚项目结构调整/0 原始项目" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/2018-9-30 1 美亚项目结构调整/0 原始项目/tmc-adapter-meiya" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/运行项目/推送床型数据2/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/阿龙/tmc-adapter-ctrip-d4e6dc2dc5059ff43768df7a7dc3863567df848c (2)/tmc-adapter-ctrip-d4e6dc2dc5059ff43768df7a7dc3863567df848c" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../jingli-tmc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/NewWorkProject" value="PREVIEW" />
+        <entry key="$USER_HOME$/NewWorkProject/car-adapter" value="PREVIEW" />
+        <entry key="$USER_HOME$/NewWorkProject/java-ctrip-push-basic-data" value="PREVIEW" />
+        <entry key="$USER_HOME$/NewWorkProject/jingli-ctrip-push-data" value="PREVIEW" />
+        <entry key="$USER_HOME$/NewWorkProject/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="$USER_HOME$/NewWorkProject/tmc-adapter-meiya" value="PREVIEW" />
+        <entry key="$USER_HOME$/NewWorkProject/tmc-adapter-yeego" value="PREVIEW" />
+        <entry key="$USER_HOME$/WorkProject/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="E:/IdeaProjects/git/tmc-xiecheng" value="PREVIEW" />
+        <entry key="E:/WorkProject/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="F:/IdeaProjects/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="F:/IdeaProjects/tmc-xiecheng" value="PREVIEW" />
+        <entry key="F:/IdeaProjects/xiecheng-study" value="PREVIEW" />
+        <entry key="F:/WorkProject/jingli-skeleton" value="PREVIEW" />
+        <entry key="F:/WorkProject/jingli-tmc" value="PREVIEW" />
+        <entry key="F:/WorkProject/jingli-tmc1" value="PREVIEW" />
+        <entry key="F:/WorkProject/technology-xiecheng" value="PREVIEW" />
+        <entry key="F:/WorkProject/tmc-adapter-ctrip" value="PREVIEW" />
+        <entry key="F:/WorkProject/tmc-elutong" value="PREVIEW" />
+        <entry key="F:/WorkProject/tmc-huidarui" value="PREVIEW" />
+        <entry key="F:/WorkProject/tmc-xiecheng" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/jingli/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$USER_HOME$/jingli/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="807" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac28f03d-1ada-4909-a27b-0e806c572af8" name="Default Changelist" comment="" />
+      <created>1542096117709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542096117709</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="JIRA" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
