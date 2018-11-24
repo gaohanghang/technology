@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3_4_2/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_6/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_7/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglibTest/target/" />
@@ -40,9 +38,9 @@
     <session id="-442260083">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="39" />
+          <entry key="project.closed" value="40" />
           <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
@@ -64,7 +62,7 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="40" />
+          <entry key="project.opened" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -73,7 +71,7 @@
           <entry key="groovy" value="1" />
           <entry key="html" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="385" />
+          <entry key="java" value="388" />
           <entry key="jpg" value="1" />
           <entry key="js" value="11" />
           <entry key="kt" value="5" />
@@ -93,7 +91,7 @@
           <entry key="HTML" value="2" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="5" />
-          <entry key="JAVA" value="385" />
+          <entry key="JAVA" value="388" />
           <entry key="JavaScript" value="11" />
           <entry key="Kotlin" value="5" />
           <entry key="Markdown" value="25" />
@@ -107,7 +105,7 @@
           <entry key="ft" value="4" />
           <entry key="groovy" value="75" />
           <entry key="html" value="331" />
-          <entry key="java" value="61066" />
+          <entry key="java" value="61439" />
           <entry key="js" value="2176" />
           <entry key="kt" value="222" />
           <entry key="md" value="1094" />
@@ -120,7 +118,7 @@
         <counts>
           <entry key="Groovy" value="75" />
           <entry key="HTML" value="331" />
-          <entry key="JAVA" value="61066" />
+          <entry key="JAVA" value="61439" />
           <entry key="JavaScript" value="2176" />
           <entry key="Kotlin" value="222" />
           <entry key="Markdown" value="1184" />
@@ -145,7 +143,7 @@
         <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_1/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -163,16 +161,47 @@
         <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_3/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_4/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_5/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_6/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_4/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_7/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="105">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -217,9 +246,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-tips/src/javatips/Unchecked.java" />
-        <option value="$PROJECT_DIR$/java-tips/src/javatips/Example.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a1删除下标为k的元素/deleteK.java" />
         <option value="$PROJECT_DIR$/src/基础知识/算法/十道算法题Java实现/a1删除下标为k的元素/a1.java" />
         <option value="$PROJECT_DIR$/src/java知识/尚学堂/java300讲/testwrappedclass/cn/bjsxt/test/Test01.java" />
         <option value="$PROJECT_DIR$/src/java知识/尚学堂/java300讲/testwrappedclass/cn/bjsxt/test/Test02.java" />
@@ -268,6 +294,9 @@
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_2/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_3/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_4/Test.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_5/Test.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_6/Test.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3_5_7/Test.java" />
       </list>
     </option>
   </component>
@@ -297,8 +326,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
-    <option name="y" value="29" />
+    <option name="x" value="-1650" />
+    <option name="y" value="-505" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -328,7 +357,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -339,32 +367,6 @@
             <path>
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -386,52 +388,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java知识" type="462c0819:PsiDirectoryNode" />
               <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
-              <item name="a3_4_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
-              <item name="a3_5_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
-              <item name="a3_5_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
-              <item name="a3_5_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
-              <item name="a3_5_4" type="462c0819:PsiDirectoryNode" />
+              <item name="a3_5_7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542950926431" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543052807055" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -464,20 +435,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
-    <configuration name="Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a3_4_2.Constants" />
-      <module name="technology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java知识.java核心技术.a3_4_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test (5)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a3_5_2.Test" />
       <module name="technology" />
@@ -517,12 +475,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a3_5_1.Test" />
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a3_5_5.Test" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.java核心技术.a3_5_1.*" />
+          <option name="PATTERN" value="java知识.java核心技术.a3_5_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a3_5_7.Test" />
+      <module name="technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java知识.java核心技术.a3_5_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -539,19 +510,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
-      <item itemvalue="Application.Constants" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Test (4)" />
+      <item itemvalue="Application.Test (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (5)" />
+        <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Constants" />
       </list>
     </recent_temporary>
   </component>
@@ -604,7 +575,8 @@
       <workItem from="1541823973207" duration="12998000" />
       <workItem from="1542177546853" duration="3924000" />
       <workItem from="1542425072092" duration="4810000" />
-      <workItem from="1542757000669" duration="4932000" />
+      <workItem from="1542757000669" duration="5099000" />
+      <workItem from="1543048101210" duration="2450000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1536395809116</created>
@@ -774,11 +746,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542591321905</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary=":bento: Java学习">
+      <created>1542951926980</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1542951926984</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301520000" />
+    <option name="totallyTimeSpent" value="304137000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -790,10 +769,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="29" width="1440" height="797" extended-state="0" />
+    <frame x="-1129" y="-489" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22460657" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2274678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -803,7 +782,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296875" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.2496454" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.2496454" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3984375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -874,23 +853,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式达内/代理模式/UserImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/工作/代码学习/Conversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cglibTest/src/main/java/project/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Fastjson/JsonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1192,13 +1154,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_4_2/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -1213,10 +1168,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_4_2/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_1/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1230,14 +1192,39 @@
     <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_3/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_4/Test.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_5/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_6/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3_5_7/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
