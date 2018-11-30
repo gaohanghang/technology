@@ -1,4 +1,4 @@
-package java知识.java核心技术.a3_5_4;
+package java知识.java核心技术.a3_5.a3_5_4;
 
 /**
  * 结合赋值和运算符

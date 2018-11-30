@@ -1,4 +1,4 @@
-package java知识.java核心技术.a3_4_2;
+package java知识.java核心技术.a3_5.a3_4_2;
 
 public class Constants {
     public static void main(String[] args) {

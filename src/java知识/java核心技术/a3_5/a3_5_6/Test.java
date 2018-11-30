@@ -1,4 +1,4 @@
-package java知识.java核心技术.a3_5_6;
+package java知识.java核心技术.a3_5.a3_5_6;
 
 /**
  * 关系和 boolean 运算符

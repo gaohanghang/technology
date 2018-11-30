@@ -12,12 +12,15 @@ import org.apache.commons.lang3.StringUtils;
  */
 public class Test {
     public static void main(String[] args) {
-        String brandName = "艾美ff(Le Meridien)";//艾美(Le Meridien)
-        if (StringUtils.isNotEmpty(brandName)){
-            int index = brandName.indexOf('(');
-            brandName = brandName.substring(0, index);
-            System.out.println(brandName);
-        }
+        // String brandName = "艾美ff(Le Meridien)";//艾美(Le Meridien)
+        // if (StringUtils.isNotEmpty(brandName)){
+        //     int index = brandName.indexOf('(');
+        //     brandName = brandName.substring(0, index);
+        //     System.out.println(brandName);
+        // }
+
+        DemoClass demoClass = new DemoClass();
+        System.out.println(demoClass);
 
     }
 }

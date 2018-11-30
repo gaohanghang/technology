@@ -1,4 +1,4 @@
-package java知识.java核心技术.a3_5_3;
+package java知识.java核心技术.a3_5.a3_5_3;
 
 /**
  * 强制类型转换
