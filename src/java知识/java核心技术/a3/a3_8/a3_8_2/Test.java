@@ -1,7 +1,7 @@
 package java知识.java核心技术.a3.a3_8.a3_8_2;
 
 /**
- * @Description:
+ * @Description: 条件语句
  * @author: Gao Hang Hang
  * @date 2018/12/01 2:34 PM
  */
