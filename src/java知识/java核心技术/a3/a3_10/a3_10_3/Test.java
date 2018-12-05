@@ -3,7 +3,7 @@ package java知识.java核心技术.a3.a3_10.a3_10_3;
 import java.util.Arrays;
 
 /**
- * @Description:
+ * @Description: 数组拷贝
  * @author: Gao Hang Hang
  * @date 2018/12/04 10:37 PM
  */
