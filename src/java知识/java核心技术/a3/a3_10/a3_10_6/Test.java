@@ -7,6 +7,15 @@ package java知识.java核心技术.a3.a3_10.a3_10_6;
  */
 public class Test {
     public static void main(String[] args) {
+        double[][] balances;
+        // balances = new double[][];
 
+        int[][] magicSquare =
+        {
+                {16, 3, 2, 13},
+                {5, 10, 11, 8},
+                {9, 6, 7, 12},
+                {4, 15, 14, 1}
+        };
     }
 }
