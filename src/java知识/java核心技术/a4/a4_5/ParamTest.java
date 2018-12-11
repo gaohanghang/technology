@@ -1,4 +1,4 @@
-package java知识.java核心技术.a4;
+package java知识.java核心技术.a4.a4_5;
 
 /**
  * This program demonstrates parameter passing in Java.
