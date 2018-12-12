@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_7/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_8/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/META-INF/technology.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/ParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_5/ParamTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglibTest/target/" />
     <ignored path="$PROJECT_DIR$/openresty/target/" />
@@ -39,12 +40,47 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_5/ParamTest.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_6/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_7/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/ConstructorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="e#1346#1347#0" expanded="true" />
+                <element signature="e#1373#1374#0" expanded="true" />
+                <element signature="e#1406#1407#0" expanded="true" />
+                <element signature="e#1435#1436#0" expanded="true" />
+                <element signature="e#1406#1407#0" expanded="true" />
+                <element signature="e#1431#1432#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_8/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -73,12 +109,15 @@
       <find>知识星球</find>
       <find>算法</find>
       <find>a3_5</find>
+      <find>核心技术</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/java8/java8-stream/src/lesson1</dir>
+      <dir>$PROJECT_DIR$/src/算法第四版</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -92,10 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_3.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/Retirement.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/Retirement2.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_4/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/LotteryOdds.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_5/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_6/Test.java" />
@@ -143,6 +178,10 @@
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_4/a4_4_5/StaticTest.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/ParamTest.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_5/ParamTest.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_1/Test.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_7/Employee.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/ConstructorTest.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_8/Test.java" />
       </list>
     </option>
   </component>
@@ -165,9 +204,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="254" />
-    <option name="y" value="30" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="38" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -198,6 +237,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,18 +271,32 @@
               <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
               <item name="a4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
+              <item name="a4" type="462c0819:PsiDirectoryNode" />
+              <item name="a4_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="算法第四版" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544530008514" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544617139016" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -275,7 +329,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ParamTest">
+  <component name="RunManager" selected="Application.ConstructorTest">
+    <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a4.a4_6.ConstructorTest" />
+      <module name="technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java知识.java核心技术.a4.a4_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a4.a4_4.a4_4_5.Employee" />
       <module name="technology" />
@@ -328,19 +395,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a4.a4_3.a4_3_6.Test" />
-      <module name="technology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java知识.java核心技术.a4.a4_3.a4_3_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ItmayieduMysqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="itmayiedu_mysql" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmayiedu.ItmayieduMysqlApplication" />
@@ -349,20 +403,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Employee" />
       <item itemvalue="Application.StaticTest" />
       <item itemvalue="Application.ParamTest" />
       <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
+      <item itemvalue="Application.ConstructorTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorTest" />
         <item itemvalue="Application.ParamTest" />
         <item itemvalue="Application.StaticTest" />
         <item itemvalue="Application.Employee" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +483,8 @@
       <workItem from="1544240137663" duration="9300000" />
       <workItem from="1544272071407" duration="4121000" />
       <workItem from="1544336571209" duration="3938000" />
-      <workItem from="1544529752091" duration="252000" />
+      <workItem from="1544529752091" duration="317000" />
+      <workItem from="1544614311003" duration="2535000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1536395809116</created>
@@ -669,11 +724,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544340761057</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="java核心技术学习">
+      <created>1544530043711</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1544530043711</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="365401000" />
+    <option name="totallyTimeSpent" value="368001000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -685,9 +747,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17453505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -695,17 +758,18 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296875" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.24397163" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39574468" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39518073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50073636" side_tool="true" weight="0.3296875" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4992636" weight="0.3224432" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4992636" weight="0.3220748" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3296875" />
       <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32909605" />
@@ -766,45 +830,16 @@
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/ConstructorTest.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_9/a3_9_1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_9/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="14" column="83" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java3y/阿里巴巴Java开发手册读后感/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java3y/阿里巴巴Java开发手册读后感/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_5/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/LotteryOdds.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1124,10 +1159,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_5/ParamTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_6/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_7/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/ConstructorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#1346#1347#0" expanded="true" />
+            <element signature="e#1373#1374#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+            <element signature="e#1431#1432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_8/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
