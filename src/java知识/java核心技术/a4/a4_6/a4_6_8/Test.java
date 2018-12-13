@@ -7,6 +7,6 @@ package java知识.java核心技术.a4.a4_6.a4_6_8;
  */
 public class Test {
     public static void main(String[] args) {
-
+        System.runFinalizersOnExit(true); // 可以确保 finalizer 方法在 Java 关闭前被调用
     }
 }
