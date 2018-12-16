@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_7/a4_7_2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_7/a4_7_2/PackageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_7/a4_7_2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/ManagerTest.java" afterDir="false" />
+    <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="java核心技术学习">
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/MyObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/ThreadB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglibTest/target/" />
@@ -45,120 +55,108 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_8/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_7/a4_7_2/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/Run.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/MyList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_7/a4_7_2/PackageTest.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/MyList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="285">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/ThreadA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/ThreadB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/ManagerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="192">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/Manager.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/ThreadA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/ThreadB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="446" column="11" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="11" />
               <folding>
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-              <folding>
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#525#526#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/awt/Window.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="255" column="8" lean-forward="true" selection-start-line="255" selection-start-column="8" selection-end-line="255" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/javax/accessibility/Accessible.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/awt/Container.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_7/a4_7_2/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-              <folding>
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#15020#15021#0" expanded="true" />
+                <element signature="e#15084#15085#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -210,24 +208,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java知识/公众号/java3y/阿里巴巴Java开发手册读后感/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/公众号/java3y/阿里巴巴Java开发手册读后感/Test2.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_1/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_2/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_3/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_4/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_4/Message.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_5/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_5/LotteryDrawing.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_6/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_6/CompoundInterest.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_7/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_7/LotteryArray.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_1/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_2/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_3/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_3/CalenderTest.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/Main.java" />
@@ -261,6 +241,24 @@
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/Manager.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/Employee.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/ManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Person.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Employee.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Student.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/PersonTest.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/Run.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/MyList.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/MyList.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/Test.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/MyList.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/Run.java" />
       </list>
     </option>
   </component>
@@ -284,8 +282,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-13" />
-    <option name="y" value="26" />
+    <option name="x" value="68" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="778" />
   </component>
@@ -354,6 +352,49 @@
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
+              <item name="a5" type="462c0819:PsiDirectoryNode" />
+              <item name="a5_1_9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="公众号" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="公众号" type="462c0819:PsiDirectoryNode" />
+              <item name="java知音" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="公众号" type="462c0819:PsiDirectoryNode" />
+              <item name="java知音" type="462c0819:PsiDirectoryNode" />
+              <item name="a2018_12_16JAVA多线程之线程间的通信方式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="公众号" type="462c0819:PsiDirectoryNode" />
+              <item name="java知音" type="462c0819:PsiDirectoryNode" />
+              <item name="a2018_12_16JAVA多线程之线程间的通信方式" type="462c0819:PsiDirectoryNode" />
+              <item name="a3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="算法第四版" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -396,7 +437,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544879563436" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544960474423" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -429,20 +470,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ManagerTest">
-    <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a4.a4_6.ConstructorTest" />
-      <module name="technology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java知识.java核心技术.a4.a4_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Run">
     <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a5.ManagerTest" />
       <module name="technology" />
@@ -456,12 +484,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a4.a4_5.ParamTest" />
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a5.a5_1_9.PersonTest" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.java核心技术.a4.a4_5.*" />
+          <option name="PATTERN" value="java知识.java核心技术.a5.a5_1_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -469,12 +497,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a4.a4_4.a4_4_5.StaticTest" />
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.java知音.a2018_12_16JAVA多线程之线程间的通信方式.a3.Run" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.java核心技术.a4.a4_4.a4_4_5.*" />
+          <option name="PATTERN" value="java知识.公众号.java知音.a2018_12_16JAVA多线程之线程间的通信方式.a3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.java知音.a2018_12_16JAVA多线程之线程间的通信方式.a2.Test" />
+      <module name="technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java知识.公众号.java知音.a2018_12_16JAVA多线程之线程间的通信方式.a2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -503,20 +544,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StaticTest" />
-      <item itemvalue="Application.ParamTest" />
-      <item itemvalue="Application.ConstructorTest" />
       <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.ManagerTest" />
+      <item itemvalue="Application.PersonTest" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Run" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.ManagerTest" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ConstructorTest" />
-        <item itemvalue="Application.ParamTest" />
-        <item itemvalue="Application.StaticTest" />
       </list>
     </recent_temporary>
   </component>
@@ -586,7 +627,7 @@
       <workItem from="1544529752091" duration="317000" />
       <workItem from="1544614311003" duration="2593000" />
       <workItem from="1544662216898" duration="1351000" />
-      <workItem from="1544865736265" duration="8390000" />
+      <workItem from="1544865736265" duration="16115000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1536395809116</created>
@@ -847,11 +888,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544663415350</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="java核心技术学习">
+      <created>1544879589003</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1544879589004</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="377800000" />
+    <option name="totallyTimeSpent" value="385525000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -863,10 +911,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="234" y="25" width="1440" height="797" extended-state="0" />
+    <frame x="702" y="23" width="1440" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1788269" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1788269" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -876,7 +924,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296875" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.24113475" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.24635568" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39518073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -884,7 +932,7 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50073636" side_tool="true" weight="0.3296875" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4992636" weight="0.32102272" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4992636" weight="0.31970802" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3296875" />
       <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32909605" />
@@ -956,128 +1004,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" selection-start-line="9" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_4/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_5/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_5/LotteryDrawing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_6/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_6/CompoundInterest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_7/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_7/LotteryArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/time/LocalDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="137" column="24" lean-forward="true" selection-start-line="137" selection-end-line="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/a4_3_1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/a4_3_1/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="36" column="41" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/a4_3_1/EmployeeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1344,10 +1270,171 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="27" />
+          <folding>
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/ManagerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="195">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="446" column="11" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="11" />
+          <folding>
+            <element signature="e#15020#15021#0" expanded="true" />
+            <element signature="e#15084#15085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a3/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
