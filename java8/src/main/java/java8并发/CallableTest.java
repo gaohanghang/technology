@@ -1,7 +1,6 @@
 package java8并发;
 
-import java.util.concurrent.Callable;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 
 /**
  * @Description:
@@ -9,7 +8,7 @@ import java.util.concurrent.TimeUnit;
  * @date 2018/12/17 21:07
  */
 public class CallableTest {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         Callable<Integer> task = () -> {
             try {
                 TimeUnit.SECONDS.sleep(1);
@@ -18,5 +17,18 @@ public class CallableTest {
                 throw new IllegalStateException("task interrupted", e);
             }
         };
+
+        ExecutorService executor = Executors.newFixedThreadPool(1);
+        Future<Integer> future = executor.submit(task);
+
+        System.out.println("future done? " + future.isDone());
+
+        Integer result = future.get(1, TimeUnit.SECONDS);
+
+        System.out.println("future done? " + future.isDone());
+        System.out.println("result: " + result);
+
+        executor.shutdownNow();
+        future.get();
     }
 }
