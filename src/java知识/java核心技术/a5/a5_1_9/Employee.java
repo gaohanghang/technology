@@ -5,7 +5,7 @@ import java.time.LocalDate;
 /**
  * @Description:
  * @author: Gao Hang Hang
- * @date 2018/12/16 17:17
+ * @date 2018/12/20 10:00
  */
 public class Employee extends Person {
     private double salary;
@@ -26,8 +26,8 @@ public class Employee extends Person {
     }
 
     @Override
-    public String getlDescription() {
-        return String.format("an employee with a salary with a salary of $%.2f", salary);
+    public String getDescription() {
+        return String.format("an employee with a salary of $%.2f", salary);
     }
 
     public void raiseSalary(double byPercent) {

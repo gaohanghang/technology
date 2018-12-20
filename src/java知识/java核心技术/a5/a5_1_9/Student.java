@@ -3,10 +3,10 @@ package java知识.java核心技术.a5.a5_1_9;
 /**
  * @Description:
  * @author: Gao Hang Hang
- * @date 2018/12/16 17:24
+ * @date 2018/12/20 10:07
  */
-public class Student extends Person{
-    private String major; // 主修
+public class Student extends Person {
+    private String major;
 
     /**
      * @param name the student's name
@@ -18,7 +18,8 @@ public class Student extends Person{
         this.major = major;
     }
 
-    public String getlDescription() {
+    @Override
+    public String getDescription() {
         return "a student majoring in " + major;
     }
 }
