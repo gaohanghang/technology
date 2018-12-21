@@ -4,6 +4,7 @@ import java知识.java核心技术.a5.a5_1_9.Person;
 
 import java.rmi.Naming;
 import java.time.LocalDate;
+import java.util.Objects;
 
 /**
  * @Description:
@@ -31,6 +32,8 @@ public class Employee {
         Employee other = (Employee) otherObject;
 
         // test whether the fields have identical values
-        return name.equals(other.name) && salary == other.salary && hireDay.equals(other.hireDay);
+        // return name.equals(other.name) && salary == other.salary && hireDay.equals(other.hireDay);
+
+        return Objects.equals(name, other.name) && salary == other.salary && Objects.equals(hireDay, other.hireDay);
     }
 }
