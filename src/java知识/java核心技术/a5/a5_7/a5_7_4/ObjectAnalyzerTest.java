@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 /**
  * @Description: This program users reflection to spy on objects.
+ * 这个程序使用反射来分析对象
  * @author: Gao Hang Hang
  * @date 2018/12/21 15:37
  */
@@ -13,6 +14,6 @@ public class ObjectAnalyzerTest {
         for (int i = 0; i < 5; i++) {
             squares.add(i * i);
         }
-        // System.out.println(new ObjectAnaly);
+        System.out.println(new ObjectAnalyzer().toString(squares));
     }
 }

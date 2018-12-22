@@ -26,6 +26,7 @@ public class ObjectAnalyzer {
         if (visited.contains(obj)) return "...";
         visited.add(obj);
         Class cl = obj.getClass();
+        if (cl == String.class) return (String) obj;
         if (cl.isArray()) {
             String r = cl .getComponentType() + "[]{";
             for (int i = 0; i < Array.getLength(obj); i++) {
@@ -57,6 +58,8 @@ public class ObjectAnalyzer {
                         e.printStackTrace();
                     }
                 }
+                r += "]";
+                cl = cl.getSuperclass();
             }
         } while (cl != null);
         return r;
