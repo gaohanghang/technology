@@ -5,6 +5,7 @@ import java.lang.reflect.Method;
 
 /**
  * @Description: This program shows shows how to invoke methods through reflection.
+ * 演示如何通过反射调用方法
  * @author: Gao Hang Hang
  * @date 2018/12/21 20:25
  */
@@ -21,7 +22,7 @@ public class MethodTableTest {
     }
 
     /**
-     * Return the square of a number
+     * Return the square of a number 平方
      * @param x a number
      * @return x squared
      */
@@ -31,7 +32,6 @@ public class MethodTableTest {
 
     /**
      * Prints a table with x- and y-values for a method
-     *
      */
     public static void printTable(double from, double to, int n, Method f) throws Exception {
         // print out the method as table header
@@ -39,8 +39,12 @@ public class MethodTableTest {
         double dx = (to - from) / (n - 1);
 
         for (double x = from; x <= to; x += dx) {
-            double y = (Double) f.invoke(null, x);
-            System.out.println("%10.4f | ");
+            try {
+                double y = (Double) f.invoke(null, x);
+                System.out.printf("%10.4f | %10.4f%n", x, y);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
 }
