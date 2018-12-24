@@ -1,4 +1,4 @@
-package java知识.java核心技术.a6.a6_2;
+package java知识.java核心技术.a6.a6_2.a6_2_1;
 
 /**
  * @Description:
