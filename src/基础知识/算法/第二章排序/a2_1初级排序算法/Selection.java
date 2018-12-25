@@ -11,27 +11,27 @@ import java.util.stream.IntStream;
  * Created by GaoHangHang 2018-05-26 9:46
  **/
 public class Selection {
-    public static void sort(Comparable[] a){
+    public static void sort(Comparable[] a) {
         // 将a[]按升序排列
         int N = a.length;
         for (int i = 0; i < N; i++) {
             // 将a[i]和a[i+1..N]中最小的元素交换
             int min = i;
             for (int j = 0; j < N; j++) {
-                if (less(a[j],a[min]))
+                if (less(a[j], a[min]))
                     min = j;
-                exch(a,i,min);
+                exch(a, i, min);
             }
         }
     }
 
     // 对元素进行比较
-    public static boolean less(Comparable v,Comparable w){
+    public static boolean less(Comparable v, Comparable w) {
         return v.compareTo(w) < 0;
     }
 
     // 将元素交换位置
-    public static void exch(Comparable[] a, int i,int j){
+    public static void exch(Comparable[] a, int i, int j) {
         Comparable t = a[i];
         a[i] = a[j];
         a[j] = t;
@@ -48,7 +48,7 @@ public class Selection {
     private static boolean isSorted(Comparable[] a) {
         // 测试数组元素是否有序
         for (int i = 1; i < a.length; i++) {
-            if (less(a[i],a[i-1]))
+            if (less(a[i], a[i - 1]))
                 return false;
         }
         return true;

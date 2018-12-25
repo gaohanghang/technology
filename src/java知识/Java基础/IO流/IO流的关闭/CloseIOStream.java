@@ -14,19 +14,18 @@ public class CloseIOStream {
         OutputStream os = null;
         try {
             // ...
-        }
-        finally {
+        } finally {
             if (is != null)
-                try{
+                try {
                     is.close();
+                } catch (IOException e) {
                 }
-                catch (IOException e) {}
 
             if (os != null)
-                try{
+                try {
                     os.close();
+                } catch (IOException e) {
                 }
-                catch (IOException e){}
         }
     }
 }

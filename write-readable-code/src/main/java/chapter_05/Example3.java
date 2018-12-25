@@ -24,18 +24,18 @@ public class Example3 {
 
     public void part1() {
         // POST 中获取数据
-        String company      = request.POST.get("company");
+        String company = request.POST.get("company");
         String kindergarten = request.POST.get("kindergarten");
         String subwaySation = request.POST.get("kindergarten");
-        String zoo          = request.POST.get("zoo");
+        String zoo = request.POST.get("zoo");
     }
 
     public void par2() {
         // 从 POST 中获取数据
-        String company       = request.POST.get("company");
-        String kindergarten  = request.POST.get("kindergarten");
+        String company = request.POST.get("company");
+        String kindergarten = request.POST.get("kindergarten");
         String subwayStation = request.POST.get("subwayStation");
-        String zoo           = request.POST.get("zoo");
+        String zoo = request.POST.get("zoo");
 
         if (null != company) { /* company */}
         if (null != subwayStation) { /* subwayStation  // 这不是去幼儿园的车？*/}

@@ -17,9 +17,9 @@ public class Test1 {
 
         List<Abc> arrayList = new ArrayList<Abc>();
 
-        Abc abc1 = new Abc(1,true);
-        Abc abc2 = new Abc(2,false);
-        Abc abc3 = new Abc(3,true);
+        Abc abc1 = new Abc(1, true);
+        Abc abc2 = new Abc(2, false);
+        Abc abc3 = new Abc(3, true);
         arrayList.add(abc1);
         arrayList.add(abc2);
         arrayList.add(abc3);
@@ -30,7 +30,7 @@ public class Test1 {
         Collections.sort(arrayList, new Comparator<Abc>() {
             @Override
             public int compare(Abc abc1, Abc abc2) {
-                return Boolean.compare(abc2.isClickable,abc1.isClickable);
+                return Boolean.compare(abc2.isClickable, abc1.isClickable);
             }
         });
 

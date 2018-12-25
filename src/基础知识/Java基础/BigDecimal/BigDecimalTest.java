@@ -4,6 +4,7 @@ import java.math.BigDecimal;
 
 /**
  * 参数为
+ *
  * @author GaoHangHang
  * @date 2018/07/27 14:21
  **/
@@ -35,10 +36,10 @@ public class BigDecimalTest {
         BigDecimal aDouble = new BigDecimal(1.22);
         System.out.println("construct with a double value:" + aDouble);
         BigDecimal aString = new BigDecimal("1.22");
-        System.out.println("construct with a String value:"+ aString);
+        System.out.println("construct with a String value:" + aString);
 
         BigDecimal aDoubletoString = new BigDecimal(Double.toString(1.22));
-        System.out.println("aDoubletoString"+aDoubletoString);
+        System.out.println("aDoubletoString" + aDoubletoString);
 
         /*
         2.加法操作

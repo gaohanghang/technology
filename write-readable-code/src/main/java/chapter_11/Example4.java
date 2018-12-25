@@ -15,7 +15,7 @@ public class Example4 {
         }
     }
 
-    static class  Business {
+    static class Business {
         String name;
         String url;
         LocalDate created;
@@ -35,7 +35,7 @@ public class Example4 {
 
     private String makePrettyURL(Business business) {
         String urlPathName = business.name.toLowerCase();
-        urlPathName = urlPathName.replaceAll("[\\.,\\']","");
+        urlPathName = urlPathName.replaceAll("[\\.,\\']", "");
         urlPathName = urlPathName.replaceAll("[^a-z0-9]+", "-");
         if (urlPathName.charAt(0) == '-') {
             urlPathName = urlPathName.substring(1);

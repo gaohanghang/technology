@@ -21,7 +21,7 @@ public class LambdaException {
             try {
                 return b.readLine();
             } catch (IOException e) {
-                throw  new RuntimeException(e);
+                throw new RuntimeException(e);
             }
         };
     }

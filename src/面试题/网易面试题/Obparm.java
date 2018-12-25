@@ -24,18 +24,19 @@ public class Obparm {
         int i = 99;
         ValHold v = new ValHold();
         v.i = 30;
-        another(v,i);
+        another(v, i);
     }
 
-    public void another(ValHold v,int i) {
-        i=0;
+    public void another(ValHold v, int i) {
+        i = 0;
         v.i = 20;
         ValHold vh = new ValHold();
         v = vh;
         System.out.println(v.i + " " + i);
     }
 }
-class ValHold{
+
+class ValHold {
     public int i = 10;
 }
 // end

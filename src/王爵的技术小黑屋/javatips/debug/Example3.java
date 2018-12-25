@@ -10,7 +10,7 @@ public class Example3 {
 
     private static int exclude0(String str) {
         str = str.toLowerCase();
-        int count = str.replaceAll("[^0]+","").length();
+        int count = str.replaceAll("[^0]+", "").length();
         return count;
     }
 
@@ -23,13 +23,14 @@ public class Example3 {
             this.password = password;
         }
     }
+
     public static void main(String[] args) {
-        User user = new User("biezhi","123456");
-        if (user.username.isEmpty()){
+        User user = new User("biezhi", "123456");
+        if (user.username.isEmpty()) {
             System.out.println("username is empty.");
         }
         String name = "Hello W0rld";
-        int   count = exclude0(name);
+        int count = exclude0(name);
         System.out.println(count);
     }
 

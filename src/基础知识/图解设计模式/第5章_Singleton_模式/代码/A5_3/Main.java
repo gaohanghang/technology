@@ -8,10 +8,12 @@ public class Main extends Thread {
         new Main("C").start();
         System.out.println("End.");
     }
+
     public void run() {
         Singleton obj = Singleton.getInstance();
         System.out.println(getName() + ": obj = " + obj);
     }
+
     public Main(String name) {
         super(name);
     }

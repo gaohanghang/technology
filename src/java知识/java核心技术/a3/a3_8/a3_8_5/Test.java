@@ -13,7 +13,7 @@ public class Test {
         Scanner in = new Scanner(System.in);
         System.out.println("Select an option (1, 2, 3, 4)");
         int choice = in.nextInt();
-        switch (choice){
+        switch (choice) {
             case 1:
                 break;
             case 2:

@@ -23,8 +23,7 @@ class Employee {
     private double salary;
 
     // static initialization block
-    static
-    {
+    static {
         Random generator = new Random();
         // set  nextId to a random number between 0 and 9999
         nextId = generator.nextInt(10000);
@@ -45,7 +44,7 @@ class Employee {
 
     public Employee(double s) {
         // class the Employee(String, double) contructor
-        this("Employee #" + nextId,s);
+        this("Employee #" + nextId, s);
     }
 
     // the default constructor

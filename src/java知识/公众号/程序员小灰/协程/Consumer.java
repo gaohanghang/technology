@@ -10,9 +10,10 @@ class Consumer extends Thread {
         super();
         this.sharedQueue = sharedQueue;
     }
+
     @Override
     public void run() {
-        while(true) {
+        while (true) {
             synchronized (sharedQueue) {
                 while (sharedQueue.size() == 0) {
                     try {
@@ -23,7 +24,7 @@ class Consumer extends Thread {
                     }
                 }
                 int number = (int) sharedQueue.poll();
-                System.out.println("进行消费 : " + number );
+                System.out.println("进行消费 : " + number);
                 sharedQueue.notify();
             }
         }

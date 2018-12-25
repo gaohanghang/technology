@@ -6,6 +6,7 @@ import java.util.*;
 /**
  * 实现
  * ArrayList
+ *
  * @author GaoHangHang
  * @date 2018/07/16 13:59
  **/
@@ -48,8 +49,8 @@ public class ArrayListImplement<E> extends AbstractList<E> implements RandomAcce
             this.elementData = new Object[initialCapacity];
         } else if (initialCapacity == 0) {
             this.elementData = EMPTY_ELEMENTDATA;
-        }else {
-            throw new IllegalArgumentException("Illegal Capacity: "+initialCapacity);
+        } else {
+            throw new IllegalArgumentException("Illegal Capacity: " + initialCapacity);
         }
     }
 
@@ -61,13 +62,13 @@ public class ArrayListImplement<E> extends AbstractList<E> implements RandomAcce
 
         注意：this.elementData = arg0.toArray(); 这里执行的简单赋值时浅拷贝，所以要执行Arrays,copy 做深拷贝
      */
-    public ArrayListImplement(Collection<? extends E> c){
+    public ArrayListImplement(Collection<? extends E> c) {
         elementData = c.toArray();
-        if ((size = elementData.length) != 0){
+        if ((size = elementData.length) != 0) {
             // c.toArray might (incorrectly) not return Object[] (see 6260652)
             if (elementData.getClass() != Object[].class)
-                elementData = Arrays.copyOf(elementData,size,Object[].class);
-        }else {
+                elementData = Arrays.copyOf(elementData, size, Object[].class);
+        } else {
             // replace with empty array.
             this.elementData = EMPTY_ELEMENTDATA;
         }
@@ -96,22 +97,22 @@ public class ArrayListImplement<E> extends AbstractList<E> implements RandomAcce
     }
 
     /**
-     *  add(int index, E element)方法
-     *
-     *  这个方法其实和上面的add类似，该方法可以按照元素的位置，指定位置插入元素，具体的执行逻辑如下：
+     * add(int index, E element)方法
+     * <p>
+     * 这个方法其实和上面的add类似，该方法可以按照元素的位置，指定位置插入元素，具体的执行逻辑如下：
      * 1）确保数插入的位置小于等于当前数组长度，并且不小于0，否则抛出异常
      * 2）确保数组已使用长度（size）加1之后足够存下 下一个数据
      * 3）修改次数（modCount）标识自增1，如果当前数组已使用长度（size）加1后的大于当前的数组长度，则调用grow方法，增长数组
      * 4）grow方法会将当前数组的长度变为原来容量的1.5倍。
      * 5）确保有足够的容量之后，使用System.arraycopy 将需要插入的位置（index）后面的元素统统往后移动一位。
      * 6）将新的数据内容存放到数组的指定位置（index）上
-     *
+     * <p>
      * 注意：使用该方法的话将导致指定位置后面的数组元素全部重新移动，即往后移动一位。
      */
     public void add(int index, E element) {
         // rangeCheckForAdd(index);
 
-        ensureCapacityInternal(size +1); //
+        ensureCapacityInternal(size + 1); //
         System.arraycopy(elementData, index, elementData, index + 1,
                 size - index);
         elementData[index] = element;
@@ -119,12 +120,12 @@ public class ArrayListImplement<E> extends AbstractList<E> implements RandomAcce
     }
 
     /**
-     *  确保添加的元素有地方存储，当第一次添加元素的时候this.size+1 的值是1，
-     *  所以第一次添加的时候会将当前elementData数组的长度变为10：
+     * 确保添加的元素有地方存储，当第一次添加元素的时候this.size+1 的值是1，
+     * 所以第一次添加的时候会将当前elementData数组的长度变为10：
      */
-    private void ensureCapacityInternal(int minCapacity){
+    private void ensureCapacityInternal(int minCapacity) {
         if (elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA) {
-            minCapacity = Math.max(DEFAULT_CAPACITY,minCapacity);
+            minCapacity = Math.max(DEFAULT_CAPACITY, minCapacity);
         }
 
 
@@ -133,6 +134,7 @@ public class ArrayListImplement<E> extends AbstractList<E> implements RandomAcce
     /**
      * 将修改次数（modCount）自增1，判断是否需要扩充数组长度,
      * 判断条件就是用当前所需的数组最小长度与数组的长度对比，如果大于0，则增长数组长度。
+     *
      * @param minCapacity
      */
     private void ensureExplicitCapacity(int minCapacity) {
@@ -157,7 +159,7 @@ public class ArrayListImplement<E> extends AbstractList<E> implements RandomAcce
             // arg2 = hugeCapacity(arg0);
         }
 
-        this.elementData = Arrays.copyOf(this.elementData,arg2);
+        this.elementData = Arrays.copyOf(this.elementData, arg2);
     }
 
     @Override
@@ -174,6 +176,7 @@ public class ArrayListImplement<E> extends AbstractList<E> implements RandomAcce
      * 获取指定位置（index）元素，然后放到oldValue存放，
      * 将需要设置的元素放到指定的位置（index）上，
      * 然后将原来位置上的元素oldValue返回给用户。
+     *
      * @param index
      * @param element
      * @return
@@ -190,10 +193,10 @@ public class ArrayListImplement<E> extends AbstractList<E> implements RandomAcce
     public int indexOf(Object o) {
         if (o == null) {
             for (int i = 0; i < size; i++) {
-                if (elementData[i]==null)
+                if (elementData[i] == null)
                     return i;
             }
-        }else {
+        } else {
             for (int i = 0; i < size; i++) {
                 if (o.equals(elementData[i]))
                     return i;
@@ -207,15 +210,10 @@ public class ArrayListImplement<E> extends AbstractList<E> implements RandomAcce
     }
 
 
-
-
-
     @Override
     public int size() {
         return 0;
     }
-
-
 
 
 }

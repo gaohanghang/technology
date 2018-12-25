@@ -16,9 +16,9 @@ public class FunctionalDemo {
     /**
      * 断言
      */
-    public void predicate(){
+    public void predicate() {
         Predicate<String> namesStartingWithS = name -> name.startsWith("s");
-        boolean           hello              = namesStartingWithS.test("Hello");
+        boolean hello = namesStartingWithS.test("Hello");
         // false
     }
 
@@ -63,21 +63,21 @@ public class FunctionalDemo {
         oddNumbers.test(100);
 
         Function<Integer, Integer> add1 = x -> x + 1;
-        Function<String, String>   concat = x -> x + 1;
+        Function<String, String> concat = x -> x + 1;
 
-        Integer two    = add1.apply(1); //yields 2
-        String  answer = concat.apply("0 + 1 = "); // "0 + 1 = 1"
+        Integer two = add1.apply(1); //yields 2
+        String answer = concat.apply("0 + 1 = "); // "0 + 1 = 1"
 
         BinaryOperator<Integer> sum = (a, b) -> a + b;
-        Integer                 res = sum.apply(1, 2); // 3
+        Integer res = sum.apply(1, 2); // 3
 
-        BinaryOperator<Function<Integer,Integer>> compose = (f, g) -> x -> g.apply(f.apply(x));
+        BinaryOperator<Function<Integer, Integer>> compose = (f, g) -> x -> g.apply(f.apply(x));
 
         UnaryOperator<Integer> add2 = n -> n + 1;
-        UnaryOperator<String>                     concat1 = s -> s + 1;
+        UnaryOperator<String> concat1 = s -> s + 1;
 
-        Function<Integer, UnaryOperator<Integer>> sum2    = x -> y -> x + y;
-        UnaryOperator<Integer>                    sum10 = sum2.apply(10);
+        Function<Integer, UnaryOperator<Integer>> sum2 = x -> y -> x + y;
+        UnaryOperator<Integer> sum10 = sum2.apply(10);
 
     }
 }

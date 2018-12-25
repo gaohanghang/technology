@@ -11,6 +11,7 @@ public class emailFormat {
     public static void main(String[] args) {
 
     }
+
     public static boolean emailFormat(String email) {
         boolean tag = true;
         final String pattern1 = "^([a-z0-9A-Z]+[-|//.]?)+[a-z0-9A-Z]@([a-z0-9A-Z]+(-[a-z0-9A-Z]+)?//.)+[a-zA-Z]{2,}$";

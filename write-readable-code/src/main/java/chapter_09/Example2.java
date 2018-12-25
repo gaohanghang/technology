@@ -25,7 +25,7 @@ public class Example2 {
         long owerId;
     }
 
-    public void  part1(Request request, Document document) {
+    public void part1(Request request, Document document) {
         if (request.user.id == document.owerId) {
             // 允许该用户编辑文档
         }

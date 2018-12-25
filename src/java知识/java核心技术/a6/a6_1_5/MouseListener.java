@@ -8,5 +8,8 @@ import java.awt.event.MouseEvent;
  * @date 2018/12/24 14:53
  */
 public interface MouseListener {
-    default void mousePressed(MouseEvent mouseEvent){};
+    default void mousePressed(MouseEvent mouseEvent) {
+    }
+
+    ;
 }

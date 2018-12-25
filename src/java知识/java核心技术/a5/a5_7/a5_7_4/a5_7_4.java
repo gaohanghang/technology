@@ -14,12 +14,12 @@ public class a5_7_4 {
     public static void main(String[] args) throws Exception {
         Employee harry = new Employee("Hary Hacker", 35000, 1989, 10, 1);
         Class cl = harry.getClass();
-            // the name field of the Employee class
+        // the name field of the Employee class
         Field f = cl.getDeclaredField("name");
         f.setAccessible(true);
-            // the name field of the Employee class
+        // the name field of the Employee class
         Object v = f.get(harry);
-            // the value of the name field of harry object, i.e.，the String object "Harry Hacker"
+        // the value of the name field of harry object, i.e.，the String object "Harry Hacker"
         System.out.println(v.toString());
     }
 }

@@ -26,7 +26,7 @@ public class UserService {
 
     public String get(Long id) {
         String tableName = "user" + id % 3;
-        String sql = "select name from " + tableName + "  where id="+id;
+        String sql = "select name from " + tableName + "  where id=" + id;
         System.out.println("SQL:" + sql);
         String name = jdbcTemplate.queryForObject(sql, String.class);
         return name;

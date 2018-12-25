@@ -34,12 +34,12 @@ public class CollectStream {
         //// 价格最低的图书
         //Optional<Book> cheapest = books.stream().collect(minBy(comparing(Book::getPrice)));
 
-        DoubleSummaryStatistics dss     = books.stream().collect(summarizingDouble(Book::getPrice));
-        double                  sum     = dss.getSum();          // 汇总
-        double                  average = dss.getAverage();  // 求平均数
-        long                    count   = dss.getCount();        // 计算总数
-        double                  max     = dss.getMax();          // 最大值
-        double                  min     = dss.getMin();          // 最小值
+        DoubleSummaryStatistics dss = books.stream().collect(summarizingDouble(Book::getPrice));
+        double sum = dss.getSum();          // 汇总
+        double average = dss.getAverage();  // 求平均数
+        long count = dss.getCount();        // 计算总数
+        double max = dss.getMax();          // 最大值
+        double min = dss.getMin();          // 最小值
 
         String str = Stream.of("A", "B", "C", "D").collect(joining(","));
 

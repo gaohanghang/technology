@@ -12,7 +12,7 @@ public class Battery {
         // power <= 1
         if (this.power + p < 1.) {
             this.power = this.power + p;
-        }else {
+        } else {
             this.power = 1.;
         }
     }
@@ -32,7 +32,7 @@ public class Battery {
         if (this.power >= p) {
             this.power = this.power - p;
             return true;
-        }else {
+        } else {
             this.power = 0.0;
             return false;
         }
@@ -41,8 +41,8 @@ public class Battery {
     /**
      * test usage
      */
-    private void test(double p) throws Exception{  // I just throw, don't handle
-        if (p<0){
+    private void test(double p) throws Exception {  // I just throw, don't handle
+        if (p < 0) {
             Exception e = new Exception("p must be positive");
             throw e;
         }

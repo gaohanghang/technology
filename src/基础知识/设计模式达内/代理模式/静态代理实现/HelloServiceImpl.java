@@ -4,7 +4,7 @@ public class HelloServiceImpl implements HelloService {
     @Override
     public void sayHello(String msg) {
 //        System.out.println("method.start:"+System.nanoTime());
-        System.out.println("hello "+msg);
+        System.out.println("hello " + msg);
 //        System.out.println("method.end:"+System.nanoTime());
     }
 }

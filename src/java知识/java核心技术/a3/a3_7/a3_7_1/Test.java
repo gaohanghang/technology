@@ -9,18 +9,17 @@ import java.io.Console;
  */
 public class Test {
     public static void main(String[] args) {
-        Console console=System.console();
-        if(console!=null)
-        {
+        Console console = System.console();
+        if (console != null) {
             System.out.println("input data");
-            String data=console.readLine();
-            System.out.println("data="+data);
-            char[] pwds=console.readPassword();
-            System.out.println("pwds="+pwds);
-            data=console.readLine("hello %s", "test");
+            String data = console.readLine();
+            System.out.println("data=" + data);
+            char[] pwds = console.readPassword();
+            System.out.println("pwds=" + pwds);
+            data = console.readLine("hello %s", "test");
             System.out.println(data);
 
-            pwds=console.readPassword("hello password %s", "test");
+            pwds = console.readPassword("hello password %s", "test");
             System.out.println(pwds);
             //输出
             console.format("fuck %s\n", "you");
@@ -29,7 +28,7 @@ public class Test {
             console.flush();
 
 
-        }else{
+        } else {
             System.out.println("console==null");
         }
     }

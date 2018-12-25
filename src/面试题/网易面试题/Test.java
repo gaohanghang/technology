@@ -14,6 +14,6 @@ public class Test {
     public static void main(String[] args) {
         Long a = new Long(3000);
         Long b = 30000l;
-        a= b;
+        a = b;
     }
 }

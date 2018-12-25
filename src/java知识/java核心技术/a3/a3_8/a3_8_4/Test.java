@@ -12,7 +12,7 @@ public class Test {
         //     System.out.println("Blastoff!");
         // }
 
-        for (double x = 0; x != 10; x+= 0.1) {
+        for (double x = 0; x != 10; x += 0.1) {
             System.out.println(x);
         }
 

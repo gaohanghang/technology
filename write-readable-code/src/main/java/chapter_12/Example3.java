@@ -23,7 +23,7 @@ public class Example3 {
     }
 
     class HttpHeaders {
-        int    code;
+        int code;
         String contentType;
 
         boolean hasResponseCode() {
@@ -36,7 +36,7 @@ public class Example3 {
     }
 
     class HttpDownload {
-        EventLog    eventLog;
+        EventLog eventLog;
         HttpHeaders httpHeaders;
 
         boolean hasEventLog() {

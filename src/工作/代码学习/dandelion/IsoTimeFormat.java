@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
  * @author: Gao HangHang
  * @date 2018/09/19
  */
-public class IsoTimeFormat extends TimeFormat{
+public class IsoTimeFormat extends TimeFormat {
     private final static Pattern pattern = Pattern.compile("([0-9]+)-([0-9]+)-([0-9]+)T([0-9]+):([0-9]+):([0-9]+)(\\.([0-9]+))?Z");
 
 
@@ -35,6 +35,6 @@ public class IsoTimeFormat extends TimeFormat{
 
     @Override
     public String toString(LocalDateTime t) {
-        return String.format("%d-%02d-%02dT%02d:%02d:%02d.%03dZ", t.getYear(), t.getMonth().getValue(), t.getDayOfMonth(), t.getHour(), t.getMinute(), t.getSecond(), (int)(t.getNano() / 1000000));
+        return String.format("%d-%02d-%02dT%02d:%02d:%02d.%03dZ", t.getYear(), t.getMonth().getValue(), t.getDayOfMonth(), t.getHour(), t.getMinute(), t.getSecond(), (int) (t.getNano() / 1000000));
     }
 }

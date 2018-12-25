@@ -31,7 +31,7 @@ public class Concurrent {
         线程池
      */
     public void condition() throws InterruptedException {
-        Lock      lock      = new ReentrantLock();
+        Lock lock = new ReentrantLock();
         Condition condition = lock.newCondition();
         // do something
         condition.await(10, TimeUnit.SECONDS);

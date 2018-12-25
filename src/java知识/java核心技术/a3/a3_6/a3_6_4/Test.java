@@ -13,10 +13,10 @@ public class Test {
 
         }
 
-        if (greeting == "Hello");
-            // probably true
-        if (greeting.substring(0, 3) == "Hel");
-            // probably false
+        if (greeting == "Hello") ;
+        // probably true
+        if (greeting.substring(0, 3) == "Hel") ;
+        // probably false
 
         System.out.println(greeting.compareTo("Hello") == 0);
     }

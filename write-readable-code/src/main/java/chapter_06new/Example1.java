@@ -32,7 +32,7 @@ public class Example1 {
 
         // 删除第二个 ":" 之后的元素
         String[] newLines = Arrays.copyOfRange(line.split(":"), 0, 2);
-        String   name     = String.join(":", newLines);
+        String name = String.join(":", newLines);
     }
 
 }

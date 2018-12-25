@@ -2,6 +2,7 @@ package java知识.java核心技术.a3.a3_10.a3_10_6;
 
 /**
  * This program shows how to store tbular data int a 20 array.
+ *
  * @Description:
  * @author: Gao Hang Hang
  * @date 2018/12/06 9:02 PM
@@ -41,7 +42,7 @@ public class CompoundInterest {
 
         // print one row of interest rates
         for (int j = 0; j < interestRate.length; j++)
-            System.out.printf("%9.0f%%",100 * interestRate[j]);
+            System.out.printf("%9.0f%%", 100 * interestRate[j]);
 
 
         System.out.println();

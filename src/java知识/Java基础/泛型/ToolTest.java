@@ -23,10 +23,10 @@ public class ToolTest {
         ls.add(23);
         //ls.add("text");
         try {
-            Method method = ls.getClass().getDeclaredMethod("add",Object.class);
+            Method method = ls.getClass().getDeclaredMethod("add", Object.class);
 
-            method.invoke(ls,"test");
-            method.invoke(ls,42.9f);
+            method.invoke(ls, "test");
+            method.invoke(ls, 42.9f);
         } catch (NoSuchMethodException e) {
             e.printStackTrace();
         } catch (IllegalAccessException e) {

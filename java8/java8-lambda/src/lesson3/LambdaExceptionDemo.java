@@ -10,7 +10,7 @@ import java.util.stream.Stream;
 public class LambdaExceptionDemo {
     // 编写一个泛型方法对异常进行包装
     static <E extends Exception> void doThrow(Exception e) throws E {
-        throw  (E)e;
+        throw (E) e;
     }
 
     //编译通过

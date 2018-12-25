@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
  */
 public class Example5 {
 
-    private String findGameAccount(String username){
+    private String findGameAccount(String username) {
         return null;
     }
 
@@ -36,7 +36,7 @@ public class Example5 {
 //                e.printStackTrace();
 //            }
 //        }
-        System.out.println("2018-07-03 发送了["+ successUsers.size() +"]个 xxx 游戏道具");
+        System.out.println("2018-07-03 发送了[" + successUsers.size() + "]个 xxx 游戏道具");
         return successUsers;
     }
 
@@ -47,21 +47,21 @@ public class Example5 {
 
         // 给账号发送道具，并发送邮件通知
         List<String> successUsers = accountArea.entrySet().stream()
-                     .map(this::sendGameProp).collect(Collectors.toList());
+                .map(this::sendGameProp).collect(Collectors.toList());
 
         // 记录日志
-        System.out.println("2018-07-03 发送了["+ successUsers.size() +"]个 xxx 游戏道具");
+        System.out.println("2018-07-03 发送了[" + successUsers.size() + "]个 xxx 游戏道具");
         return successUsers;
 
     }
 
-    private String sendGameProp(Map.Entry<String,String> accountEntry) {
+    private String sendGameProp(Map.Entry<String, String> accountEntry) {
         try {
-            System.out.println("给 ["+ accountEntry.getKey() +"] [" + accountEntry.getValue() +"] 发送游戏道具");
-            System.out.println("给 ["+ accountEntry.getKey() +"] 发送邮件通知");
+            System.out.println("给 [" + accountEntry.getKey() + "] [" + accountEntry.getValue() + "] 发送游戏道具");
+            System.out.println("给 [" + accountEntry.getKey() + "] 发送邮件通知");
             return accountEntry.getKey();
         } catch (Exception e) {
-            throw  new RuntimeException(e);
+            throw new RuntimeException(e);
         }
     }
 }

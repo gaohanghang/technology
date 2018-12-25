@@ -10,29 +10,29 @@ import java.util.Map;
  **/
 public class Main {
     public static void main(String[] args) {
-        Map<Integer,Integer> map = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
 
 
         //方法一 在for-each循环中使用entries来遍历
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()){
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
 
-            System.out.println("Key = "+entry.getKey()+",Value = "+entry.getValue());
+            System.out.println("Key = " + entry.getKey() + ",Value = " + entry.getValue());
 
         }
 
         //方法二 在for-each循环中遍历keys或values。
 
         //遍历map中的键
-        for (Integer key : map.keySet()){
+        for (Integer key : map.keySet()) {
 
-            System.out.println("Key = "+key);
+            System.out.println("Key = " + key);
 
         }
 
         //遍历map中的值
         for (Integer value : map.values()) {
 
-            System.out.println("Value = "+ value);
+            System.out.println("Value = " + value);
 
         }
 
@@ -52,7 +52,7 @@ public class Main {
 
         Iterator entries = map.entrySet().iterator();
 
-        while (entries.hasNext()){
+        while (entries.hasNext()) {
 
             Map.Entry entry = (Map.Entry) entries.next();
 
@@ -60,17 +60,17 @@ public class Main {
 
             Integer value = (Integer) entry.getValue();
 
-            System.out.println("Key= "+ key + ",Value="+value);
+            System.out.println("Key= " + key + ",Value=" + value);
 
         }
 
         //方法四、通过键找值遍历（效率低）
 
-        for (Integer key : map.keySet()){
+        for (Integer key : map.keySet()) {
 
             Integer value = map.get(key);
 
-            System.out.println("Key = " + key +",Value = "+ value);
+            System.out.println("Key = " + key + ",Value = " + value);
 
         }
 

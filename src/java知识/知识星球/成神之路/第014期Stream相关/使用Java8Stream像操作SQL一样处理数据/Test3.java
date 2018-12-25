@@ -15,8 +15,8 @@ import java.util.stream.Stream;
 public class Test3 {
     public static void main(String[] args) throws IOException {
         Stream<Integer> numbersFromValues = Stream.of(1, 2, 3, 4);
-        int[]           numbers           = {1, 2, 3, 4};
-        IntStream       numbersFromArray  = Arrays.stream(numbers);
+        int[] numbers = {1, 2, 3, 4};
+        IntStream numbersFromArray = Arrays.stream(numbers);
         long numberOfLines = Files.lines(Paths.get("yourFile.txt"), Charset.defaultCharset())
                 .count();
     }

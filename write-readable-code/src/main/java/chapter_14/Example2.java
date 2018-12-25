@@ -22,7 +22,7 @@ public class Example2 {
     // 加载磁盘文件
     public DiskText loadDikText(String key) {
         // 从本地加载
-        return new DiskText(key,"");
+        return new DiskText(key, "");
     }
 
     // 根据 key 获取磁盘文件

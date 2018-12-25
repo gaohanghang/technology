@@ -17,7 +17,7 @@ public class Main {
          *
          */
         // 1. 使用Stream中的Collector收集器
-        String[] arrays = new String[]{"a","b","c"};
+        String[] arrays = new String[]{"a", "b", "c"};
         List<String> listStrings = Stream.of(arrays).collect(Collectors.toList());
         // 2. 使用java.util.Arrays工具类中的asList()方法（这个不是Java8中新增的内容）:
         String[] arrays2 = new String[]{"a", "b", "c"};

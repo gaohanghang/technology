@@ -16,11 +16,11 @@ public class TestStreamAPI {
 
      */
     @Test
-    public void test1(){
-        Integer[] nums = new Integer[]{1,2,3,4,5};
+    public void test1() {
+        Integer[] nums = new Integer[]{1, 2, 3, 4, 5};
 
         Arrays.stream(nums)
-                .map((x) -> x*x)
+                .map((x) -> x * x)
                 .forEach(System.out::println);
     }
 
@@ -28,16 +28,17 @@ public class TestStreamAPI {
         2. 怎么用map 和 reduce 方法数数流中有多少个Employee呢？
      */
     List<Employee> emps = Arrays.asList(
-            new Employee(101,"张三",18,9999.99, Employee.Status.FREE),
-            new Employee(102,"李四",39,5555.55,Employee.Status.BUSY),
-            new Employee(103,"王五",50,3333.33,Employee.Status.VOCATION),
-            new Employee(104,"赵六",16,6666.66,Employee.Status.FREE),
-            new Employee(105,"赵六",16,6666.66,Employee.Status.FREE),
-            new Employee(106,"赵六",16,6666.66,Employee.Status.FREE),
-            new Employee(107,"田七",8,8888.88,Employee.Status.BUSY)
+            new Employee(101, "张三", 18, 9999.99, Employee.Status.FREE),
+            new Employee(102, "李四", 39, 5555.55, Employee.Status.BUSY),
+            new Employee(103, "王五", 50, 3333.33, Employee.Status.VOCATION),
+            new Employee(104, "赵六", 16, 6666.66, Employee.Status.FREE),
+            new Employee(105, "赵六", 16, 6666.66, Employee.Status.FREE),
+            new Employee(106, "赵六", 16, 6666.66, Employee.Status.FREE),
+            new Employee(107, "田七", 8, 8888.88, Employee.Status.BUSY)
     );
+
     @Test
-    public void test2(){
+    public void test2() {
         Optional<Integer> count = emps.stream()
                 .map((e) -> 1)
                 .reduce(Integer::sum);

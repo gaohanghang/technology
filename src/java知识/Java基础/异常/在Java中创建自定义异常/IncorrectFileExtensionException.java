@@ -8,7 +8,7 @@ package java知识.Java基础.异常.在Java中创建自定义异常;
  * @email: hanghang.gao@jingli365.com
  * @date 2018/11/11 6:00 PM
  */
-public class IncorrectFileExtensionException extends RuntimeException{
+public class IncorrectFileExtensionException extends RuntimeException {
     public IncorrectFileExtensionException(String errorMessage, Throwable err) {
         super(errorMessage, err);
     }

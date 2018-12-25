@@ -8,7 +8,9 @@ package java知识.知识星球.直面java.a118Java枚举继承问题.单例模�
  **/
 public class Singleton {
     private static Singleton instance;
-    private Singleton (){}
+
+    private Singleton() {
+    }
 
     public static Singleton getInstance() {
         if (instance == null) {

@@ -15,7 +15,7 @@ public class Example10 {
 
     /**
      * 从 src 中移除以 chars 开头/结尾的字符
-     *
+     * <p>
      * Example: strip("abba/a/ba", "ab") return "/a/"
      */
     public String strip(String src, String chars) {

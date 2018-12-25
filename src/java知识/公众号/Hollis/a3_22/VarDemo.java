@@ -3,8 +3,7 @@ package java知识.公众号.Hollis.a3_22;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class VarDemo
-{
+public class VarDemo {
 //    public static void main(String args[])
 //    {
 //        //初始化局部变量

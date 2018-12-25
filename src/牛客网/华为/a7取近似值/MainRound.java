@@ -9,7 +9,7 @@ public class MainRound {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        while (sc.hasNextDouble()){
+        while (sc.hasNextDouble()) {
             double l = sc.nextDouble();
             System.out.println(Math.round(l));
         }

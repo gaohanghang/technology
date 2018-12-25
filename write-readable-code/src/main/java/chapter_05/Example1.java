@@ -13,11 +13,15 @@ public class Example1 {
     static abstract class StatsKeeper1 {
         // A class for keeping track of a series of doubles
         abstract void add(double d); // and methods for quick statistics about them
+
         private int count;    /* how many so    far
-         */ public abstract double avgerage();
+         */
+
+        public abstract double avgerage();
+
         private double minimum;
-        private List<Double> pastItems
-                ; double maximum;
+        private List<Double> pastItems;
+        double maximum;
 
     }
 
@@ -26,6 +30,7 @@ public class Example1 {
     static abstract class StatsKeeper2 {
 
         abstract void add(double d);
+
         abstract double avgerage();
 
         private List<Double> pastItems;

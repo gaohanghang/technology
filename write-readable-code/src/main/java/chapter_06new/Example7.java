@@ -14,7 +14,7 @@ import java.util.Map;
 public class Example7 {
 
     private List<Long> customers = Arrays.asList(1L, 3L, 45L, 62L, 98L);
-    private Map<Long,List<Sale>> allSales = new HashMap<>();
+    private Map<Long, List<Sale>> allSales = new HashMap<>();
 
     static class Sale {
 

@@ -14,7 +14,7 @@ var findClosestLocation = function (lat, lng, array) {
     return closest;
 };
 
-function spherical_distance(lat, lng ,latitude, longitude) {
+function spherical_distance(lat, lng, latitude, longitude) {
     // 将两个点转换为弧度
     var lat_rad = radians(lat);
     var lng_rad = radians(lng);

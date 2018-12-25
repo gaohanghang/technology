@@ -14,8 +14,8 @@ public class ServletDemo4 extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         i++;
         try {
-            Thread.sleep(1000*4);
-        }catch (InterruptedException e){
+            Thread.sleep(1000 * 4);
+        } catch (InterruptedException e) {
             e.printStackTrace();
         }
         resp.getWriter().equals(i);
@@ -23,6 +23,6 @@ public class ServletDemo4 extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        doGet(req,resp);
+        doGet(req, resp);
     }
 }

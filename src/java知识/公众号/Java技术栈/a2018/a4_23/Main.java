@@ -17,6 +17,6 @@ public class Main {
             int num = ThreadLocalRandom.current().nextInt(10);
             System.out.println(num);
         }
-        
+
     }
 }

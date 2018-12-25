@@ -5,6 +5,7 @@ import org.apache.commons.lang3.CharUtils;
 
 /**
  * 字符处理工具
+ *
  * @author GaoHangHang
  * @date 2018/06/06 17:04
  **/

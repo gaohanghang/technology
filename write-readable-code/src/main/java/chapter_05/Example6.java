@@ -14,8 +14,7 @@ public class Example6 {
 
     // or
 
-    class Coder
-    {
+    class Coder {
 
     }
 

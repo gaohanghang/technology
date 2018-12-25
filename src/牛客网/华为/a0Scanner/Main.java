@@ -12,12 +12,12 @@ public class Main {
         System.out.println("next方式接收：");
         String nextStr = sc.next();
         String nextStr2 = sc.next();
-        System.out.println("next()输入结果:\n"+nextStr+nextStr2);
+        System.out.println("next()输入结果:\n" + nextStr + nextStr2);
         System.out.println("nextLine方式接收：");
         String nextLineStr = sc.nextLine();
         System.out.println("第二个nextLine：");
         String nextLineStr2 = sc.nextLine();
-        System.out.println("nextLine()输入结果:"+nextLineStr+"\n"+nextLineStr2);
+        System.out.println("nextLine()输入结果:" + nextLineStr + "\n" + nextLineStr2);
         sc.close();
     }
 }

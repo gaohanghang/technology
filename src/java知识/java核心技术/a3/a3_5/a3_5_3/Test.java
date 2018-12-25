@@ -11,6 +11,6 @@ public class Test {
 
         System.out.println((int) Math.round(x));
 
-        System.out.println((byte)300);
+        System.out.println((byte) 300);
     }
 }

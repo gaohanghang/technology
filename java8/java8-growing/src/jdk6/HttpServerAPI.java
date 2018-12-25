@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.InetSocketAddress;
+
 /**
  * Http Server
  *
@@ -23,8 +24,8 @@ public class HttpServerAPI {
             System.out.println("Request " + count++);
             System.out.println(he.getHttpContext().getPath());
 
-            InputStream is       = he.getRequestBody();
-            String      response = "<font color='red'>Lets Learn Java8.</font>";
+            InputStream is = he.getRequestBody();
+            String response = "<font color='red'>Lets Learn Java8.</font>";
             he.sendResponseHeaders(200, response.length());
             OutputStream os = he.getResponseBody();
             os.write(response.getBytes());
@@ -45,7 +46,6 @@ public class HttpServerAPI {
             ioe.printStackTrace();
         }
     }
-
 
 
 }

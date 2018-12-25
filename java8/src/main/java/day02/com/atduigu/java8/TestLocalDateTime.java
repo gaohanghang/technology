@@ -13,7 +13,7 @@ public class TestLocalDateTime {
 
     //时区ZonedDate、ZonedTime、ZonedDateTime
     @Test
-    public void test8(){
+    public void test8() {
         LocalDateTime ldt = LocalDateTime.now(ZoneId.of("Europe/Tallinn"));
         System.out.println(ldt);
 
@@ -23,16 +23,15 @@ public class TestLocalDateTime {
     }
 
     @Test
-    public void test7(){
+    public void test7() {
         Set<String> set = ZoneId.getAvailableZoneIds();
         set.forEach(System.out::println);
     }
 
 
-
     //DateTimeFormatter：格式化时间/日期
     @Test
-    public void test6(){
+    public void test6() {
         DateTimeFormatter dtf = DateTimeFormatter.ISO_DATE;
         LocalDateTime ldt = LocalDateTime.now();
 
@@ -44,13 +43,13 @@ public class TestLocalDateTime {
         String strDate2 = dtf2.format(ldt);
         System.out.println(strDate2);
 
-        LocalDateTime newDate = ldt.parse(strDate2,dtf2);
+        LocalDateTime newDate = ldt.parse(strDate2, dtf2);
         System.out.println(newDate);
     }
 
     //TemporalAdjuster: 时间校正器
     @Test
-    public void tett5(){
+    public void tett5() {
         LocalDateTime ldt = LocalDateTime.now();
         System.out.println(ldt);
 
@@ -82,8 +81,8 @@ public class TestLocalDateTime {
     //Duration：计算两个“时间”之间的间隔
     //Period：计算两个“日期之间的间隔”
     @Test
-    public void tets4(){
-        LocalDate ld1 = LocalDate.of(2015, 1,1);
+    public void tets4() {
+        LocalDate ld1 = LocalDate.of(2015, 1, 1);
         LocalDate ld2 = LocalDate.now();
 
         Period period = Period.between(ld1, ld2);
@@ -95,7 +94,7 @@ public class TestLocalDateTime {
     }
 
     @Test
-    public void tets3(){
+    public void tets3() {
         Instant ins1 = Instant.now();
 
         try {
@@ -121,13 +120,13 @@ public class TestLocalDateTime {
 
         LocalTime lt2 = LocalTime.now();
 
-        System.out.println(Duration.between(lt1,lt2).toMillis());
+        System.out.println(Duration.between(lt1, lt2).toMillis());
     }
 
 
     //2. Instant : 时间戳(以Unix 元年：1970年1月1日 00:00:00 到某个时间之间的毫秒值)
     @Test
-    public void test2(){
+    public void test2() {
         Instant ins1 = Instant.now();// 默认获取 UTC 时区
         System.out.println(ins1);
 
@@ -142,7 +141,7 @@ public class TestLocalDateTime {
 
     //1. LocalDate LocalTimeTest LocalDateTime
     @Test
-    public void test1(){
+    public void test1() {
         LocalDateTime ldt = LocalDateTime.now();
         System.out.println(ldt);
 
@@ -163,7 +162,6 @@ public class TestLocalDateTime {
         System.out.println(ldt.getSecond());
 
     }
-
 
 
 }

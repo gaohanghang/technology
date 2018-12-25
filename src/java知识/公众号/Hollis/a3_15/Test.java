@@ -1,8 +1,6 @@
 package java知识.公众号.Hollis.a3_15;
 
 
-
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -20,8 +18,8 @@ public class Test {
 
         File file = new File("stringList");
         ObjectInputStream objectInputStream = new ObjectInputStream(new FileInputStream(file));
-        List<String> newStringList = (List<String>)objectInputStream.readObject();
-        if (file.exists()){
+        List<String> newStringList = (List<String>) objectInputStream.readObject();
+        if (file.exists()) {
             file.delete();
         }
         System.out.println("new StringList" + newStringList);

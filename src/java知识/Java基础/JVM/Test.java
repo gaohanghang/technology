@@ -9,13 +9,14 @@ import java.util.Vector;
 public class Test {
     private static Vector v = new Vector();
 
-    public void test(Vector v){
+    public void test(Vector v) {
         for (int i = 0; i < 100; i++) {
             Object o = new Object();
             v.add(o);
             o = null;
         }
     }
+
     public static void main(String[] args) {
 
     }

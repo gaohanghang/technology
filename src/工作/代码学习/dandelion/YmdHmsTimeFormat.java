@@ -7,7 +7,7 @@ import java.util.regex.Pattern;
  * @author: Gao HangHang
  * @date 2018/09/19
  */
-public class YmdHmsTimeFormat extends TimeFormat{
+public class YmdHmsTimeFormat extends TimeFormat {
 
     private final static Pattern pattern = Pattern.compile("((.*?)-(.*?)-(.*?)(\\s)+(.*?):(.*?):(.*?))|((.*?)-(.*?)-(.*?)(\\s)+(.*?):(.*?))");
 
@@ -39,8 +39,7 @@ public class YmdHmsTimeFormat extends TimeFormat{
 
         if (t == null) {
             return null;
-        }
-        else {
+        } else {
             return String.format("%d-%02d-%02d %02d:%02d:%02d", t.getYear(), t.getMonth().getValue(), t.getDayOfMonth(), t.getHour(), t.getMinute(), t.getSecond());
         }
     }

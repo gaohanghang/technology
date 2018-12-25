@@ -11,7 +11,8 @@ import java.lang.reflect.Method;
 public class TestAnnotation {
 
     //checker framework
-    private @NotNull Object obj = null;
+    private @NotNull
+    Object obj = null;
 
     @Test
     public void test1() throws Exception {
@@ -20,14 +21,14 @@ public class TestAnnotation {
 
         MyAnnotation[] mas = m1.getAnnotationsByType(MyAnnotation.class);
 
-        for (MyAnnotation myAnnotation: mas) {
+        for (MyAnnotation myAnnotation : mas) {
             System.out.println(myAnnotation.value());
         }
     }
 
     @MyAnnotation("Hello")
     @MyAnnotation("World")
-    public void show(@MyAnnotation("abc") String str){
+    public void show(@MyAnnotation("abc") String str) {
 
     }
 }

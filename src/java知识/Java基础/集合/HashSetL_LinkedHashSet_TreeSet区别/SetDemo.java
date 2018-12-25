@@ -5,14 +5,15 @@ import java.util.LinkedHashSet;
 import java.util.TreeSet;
 
 /**
- *    HashSet：哈希表是通过使用称为散列法的机制来存储信息的，元素并没有以某种特定顺序来存放；
- *    LinkedHashSet：以元素插入的顺序来维护集合的链接表，允许以插入的顺序在集合中迭代；
- *    TreeSet：提供一个使用树结构存储Set接口的实现，对象以升序顺序存储，访问和遍历的时间很快。
+ * HashSet：哈希表是通过使用称为散列法的机制来存储信息的，元素并没有以某种特定顺序来存放；
+ * LinkedHashSet：以元素插入的顺序来维护集合的链接表，允许以插入的顺序在集合中迭代；
+ * TreeSet：提供一个使用树结构存储Set接口的实现，对象以升序顺序存储，访问和遍历的时间很快。
+ *
  * @author GaoHangHang
  * @date 2018/07/28 15:34
  **/
 public class SetDemo {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         HashSet<String> hs = new HashSet<>();
         hs.add("B");
         hs.add("A");
@@ -20,7 +21,7 @@ public class SetDemo {
         hs.add("E");
         hs.add("C");
         hs.add("F");
-        System.out.println("HashSet 顺序:\n"+hs);
+        System.out.println("HashSet 顺序:\n" + hs);
 
         LinkedHashSet<String> lhs = new LinkedHashSet<>();
         lhs.add("B");
@@ -38,6 +39,6 @@ public class SetDemo {
         ts.add("E");
         ts.add("C");
         ts.add("F");
-        System.out.println("TreeSet 顺序:\n"+ts);
+        System.out.println("TreeSet 顺序:\n" + ts);
     }
 }

@@ -42,11 +42,11 @@ public class Example5 {
     }
 
     public void part2() {
-        int userResult       = 200;
+        int userResult = 200;
         int permissionResult = 300;
 
         String message = "";
-        if(userResult != SUCCESS){
+        if (userResult != SUCCESS) {
             message = String.valueOf(userResult);
             // 模拟使用 message
             System.out.println(message);

@@ -30,7 +30,7 @@ public class Example1 {
                 }
             }
         };
-        consumer.accept(Arrays.asList(1,2,3),2);
+        consumer.accept(Arrays.asList(1, 2, 3), 2);
     }
 
 }

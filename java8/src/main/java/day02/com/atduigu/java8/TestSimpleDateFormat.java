@@ -34,9 +34,9 @@ public class TestSimpleDateFormat {
 
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyyMMdd");
 
-       Callable<LocalDate> task = new Callable<LocalDate>() {
+        Callable<LocalDate> task = new Callable<LocalDate>() {
 
-           @Override
+            @Override
             public LocalDate call() throws Exception {
                 return LocalDate.parse("20161218", dtf);
             }
@@ -51,7 +51,7 @@ public class TestSimpleDateFormat {
             results.add(pool.submit(task));
         }
 
-        for (Future<LocalDate> future : results){
+        for (Future<LocalDate> future : results) {
             System.out.println(future.get());
         }
 

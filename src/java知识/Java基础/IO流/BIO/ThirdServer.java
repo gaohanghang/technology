@@ -14,7 +14,7 @@ public class ThirdServer {
     public static void main(String[] args) {
         ServerSocket server = null;
         ExecutorService executorService = Executors.newFixedThreadPool(60);
-        try{
+        try {
             server = new ServerSocket(8000);
             System.out.println("服务端启动成功，监听端口为8000,等待客户端连接...");
             while (true) {
@@ -22,7 +22,7 @@ public class ThirdServer {
                 //使用线程池中的线程去执行每个对应的任务
                 executorService.execute(new ServerHandler(socket));
             }
-        }catch (IOException e) {
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }

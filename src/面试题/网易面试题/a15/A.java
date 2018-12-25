@@ -17,7 +17,7 @@ public class A {
     static int b = 0;
 
     static {
-        System.out.println(A.a + " " + A.b );
+        System.out.println(A.a + " " + A.b);
     }
 
     public A() {

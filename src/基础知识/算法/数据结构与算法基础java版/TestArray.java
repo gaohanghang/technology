@@ -25,7 +25,7 @@ public class TestArray {
             System.out.println("arr1 element" + i + ":" + arr1[i]);
         }
         // 创建数组的同时为数组中的元素赋值
-        int[] arr2 = new int[] {90,80,70,60,50};
+        int[] arr2 = new int[]{90, 80, 70, 60, 50};
         // 获取数组的长度
         System.out.println("arr2 length:" + arr2.length);
     }

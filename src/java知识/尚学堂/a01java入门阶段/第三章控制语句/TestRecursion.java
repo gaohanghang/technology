@@ -2,6 +2,7 @@ package java知识.尚学堂.a01java入门阶段.第三章控制语句;
 
 /**
  * 测试递归
+ *
  * @author: Gao HangHang
  * @date 2018/11/02
  */
@@ -31,7 +32,7 @@ public class TestRecursion {
         long d3 = System.currentTimeMillis();
         long result = 1;
         while (a > 1) {
-            result *= a*(a-1);
+            result *= a * (a - 1);
             a -= 2;
         }
         long d4 = System.currentTimeMillis();

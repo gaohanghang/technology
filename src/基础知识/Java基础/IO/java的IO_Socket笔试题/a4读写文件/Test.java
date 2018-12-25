@@ -15,7 +15,7 @@ public class Test {
         while (true) {
             int len = fin.read(bs);
             if (len <= 0) break;
-            System.out.println(new String(bs,0,len));
+            System.out.println(new String(bs, 0, len));
         }
         fin.close();
         //写文件：

@@ -25,6 +25,7 @@ public class Test {
 
         //System.out.printf("%1$s %2$tB %2$te, %2$tY", "Due date:", new Date());
 
-        System.out.printf("%s %tB %<te, %<tY", "Due date:" + new Date());;
+        System.out.printf("%s %tB %<te, %<tY", "Due date:" + new Date());
+        ;
     }
 }

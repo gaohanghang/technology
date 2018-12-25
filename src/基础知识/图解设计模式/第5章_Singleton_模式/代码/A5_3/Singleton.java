@@ -8,7 +8,7 @@ public class Singleton {
         slowdown();
     }
 
-    public static synchronized Singleton getInstance () {
+    public static synchronized Singleton getInstance() {
         if (singleton == null) {
             singleton = new Singleton();
         }

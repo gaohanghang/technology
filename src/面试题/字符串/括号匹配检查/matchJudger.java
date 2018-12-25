@@ -1,7 +1,6 @@
 package 面试题.字符串.括号匹配检查;
 
 
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
@@ -12,7 +11,7 @@ import java.util.Stack;
  **/
 public class matchJudger {
     // pari以右括号为key,左括号为值
-    private Map<Character,Character> pair = null;
+    private Map<Character, Character> pair = null;
 
     public matchJudger() {
         pair = new HashMap<>();
@@ -25,16 +24,16 @@ public class matchJudger {
         Stack<Character> sc = new Stack<>();
         for (int i = 0; i < s.length(); i++) {
             Character ch = s.charAt(i);
-            if (pair.containsValue(ch)){//如果是左括号，放入栈中
+            if (pair.containsValue(ch)) {//如果是左括号，放入栈中
                 sc.push(ch);
-            }else if (pair.containsKey(ch)){// 如果是右括号
-                if (sc.empty()){ // 栈为空，栈头没有字符与右括号匹配
+            } else if (pair.containsKey(ch)) {// 如果是右括号
+                if (sc.empty()) { // 栈为空，栈头没有字符与右括号匹配
                     return false;
                 }
                 // 栈不为空
-                if (sc.peek() == pair.get(ch)){
+                if (sc.peek() == pair.get(ch)) {
                     sc.pop();
-                }else { // 网上许多列子没有这里的else代码块，导致({}[]]])会被判断为true
+                } else { // 网上许多列子没有这里的else代码块，导致({}[]]])会被判断为true
                     // 栈不为空，栈头字符不与右括号匹配
                     return false;
                 }

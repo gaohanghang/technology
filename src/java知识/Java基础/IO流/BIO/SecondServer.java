@@ -6,6 +6,7 @@ import java.net.Socket;
 
 /**
  * BIO 多个Socket多线程
+ *
  * @author GaoHangHang
  * @date 2018/07/19 22:13
  **/
@@ -20,7 +21,7 @@ public class SecondServer {
                 //针对每个连接创建一个线程，去处理IO操作
                 new Thread(new ServerHandler(socket)).start();
             }
-        }catch (IOException e) {
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }

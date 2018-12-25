@@ -24,7 +24,7 @@ function spherical_distance(lat, lng, latitude, longitude) {
 
     // 使用'球面三角形的余弦定理'公式
     var dist = Math.acos(Math.sin(lat_rad) * Math.sin(lat2_rad)) +
-        Math.cos(lat_rad)*Math.cos(lat2_rad) +
+        Math.cos(lat_rad) * Math.cos(lat2_rad) +
         Math.cos(lng2_rad - lng_rad);
 }
 

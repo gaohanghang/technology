@@ -12,12 +12,12 @@ public class Project {
     /**
      * 项目名称
      */
-    private String  name;
+    private String name;
 
     /**
      * 编程语言
      */
-    private String  language;
+    private String language;
 
     /**
      * star 数
@@ -27,12 +27,12 @@ public class Project {
     /**
      * 描述
      */
-    private String  description;
+    private String description;
 
     /**
      * 作者
      */
-    private String  author;
+    private String author;
 
     public String getName() {
         return name;

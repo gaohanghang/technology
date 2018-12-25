@@ -39,7 +39,7 @@ public class Example3 {
 
     public void after() {
         List<String> users = new ArrayList<>();
-        List<Club>   clubs = new ArrayList<>();
+        List<Club> clubs = new ArrayList<>();
 
         for (int ci = 0; ci < clubs.size(); ci++) {
             for (int mi = 0; mi < clubs.get(0).members().size(); mi++) {

@@ -15,11 +15,11 @@ import java.util.Collection;
 /*
    E 类型是 T 类型的子类，显然这种情况类型参数更适合。
  */
-public class Test2 <T,E extends T>{
+public class Test2<T, E extends T> {
     T value1;
     E value2;
 
-    public <D,S extends D> void test(D d,S s) {
+    public <D, S extends D> void test(D d, S s) {
 
     }
 

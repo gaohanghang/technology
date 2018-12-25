@@ -42,7 +42,7 @@ public class TestMethodRef {
 
     //数组引用：
     @Test
-    public void test7(){
+    public void test7() {
         Function<Integer, String[]> fun = (x) -> new String[x];
         String[] strs = fun.apply(10);
         System.out.println(strs.length);
@@ -53,7 +53,7 @@ public class TestMethodRef {
 
     //构造器引用
     @Test
-    public void test5(){
+    public void test5() {
         Supplier<Employee> sup = () -> new Employee();
 
         //构造引用方式
@@ -63,7 +63,7 @@ public class TestMethodRef {
     }
 
     @Test
-    public void test6(){
+    public void test6() {
         Function<Integer, Employee> fun = (x) -> new Employee(x);
 
         Function<Integer, Employee> fun2 = Employee::new;
@@ -75,7 +75,7 @@ public class TestMethodRef {
 
     //类::实例方法名
     @Test
-    public void test4(){
+    public void test4() {
         BiPredicate<String, String> bp = (x, y) -> x.equals(y);
 
         BiPredicate<String, String> bp2 = String::equals;
@@ -83,7 +83,7 @@ public class TestMethodRef {
 
     //类::静态方法名
     @Test
-    public void test3(){
+    public void test3() {
         Comparator<Integer> com = (x, y) -> Integer.compare(x, y);
 
         Comparator<Integer> com1 = Integer::compare;
@@ -91,7 +91,7 @@ public class TestMethodRef {
 
     //对象::实例方法名
     @Test
-    public void test1(){
+    public void test1() {
         PrintStream ps = System.out;
         Consumer<String> con = (x) -> System.out.println(x);
 
@@ -103,7 +103,7 @@ public class TestMethodRef {
     }
 
     @Test
-    public void test2(){
+    public void test2() {
         Employee emp = new Employee();
         Supplier<String> sup = () -> emp.getName();
         String str = sup.get();

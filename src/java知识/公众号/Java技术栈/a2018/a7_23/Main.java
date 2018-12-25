@@ -30,7 +30,7 @@ public class Main {
 
         //看看List里面的数据是什么样子的先
         System.out.println("List里面的数据：");
-        for (Integer elem : lists) System.out.print(elem+" ");// 4 3 6 1 5 2
+        for (Integer elem : lists) System.out.print(elem + " ");// 4 3 6 1 5 2
 
         System.out.println();
 
@@ -38,7 +38,7 @@ public class Main {
         System.out.println("List中最小的值为：");
         Stream<Integer> stream = lists.stream();
         Optional<Integer> min = stream.min(Integer::compareTo);
-        if (min.isPresent()){
+        if (min.isPresent()) {
             System.out.println(min.get());//1
         }
 
@@ -49,15 +49,15 @@ public class Main {
         //排序
         System.out.println("将List流进行排序：");
         Stream<Integer> sorted = lists.stream().sorted();
-        sorted.forEach(elem -> System.out.print(elem+" "));
+        sorted.forEach(elem -> System.out.print(elem + " "));
 
         System.out.println();
 
         //过滤
         System.out.println("过滤List流，只剩下那些大于3的元素：");
         lists.stream()
-                .filter(elem -> elem >3)
-                .forEach(elem -> System.out.print(elem+ " " ));// 4 5 6
+                .filter(elem -> elem > 3)
+                .forEach(elem -> System.out.print(elem + " "));// 4 5 6
         System.out.println();
 
         //过滤
@@ -71,6 +71,6 @@ public class Main {
         System.out.println("=====end=====");
         //经过了前面的这么多流操作，我们再来看看List里面的值有没有发生什么改变
         System.out.println("原List里面的数据：");
-        for (Integer elem : lists) System.out.print(elem+" ");// 4 3 6 1 5 2
+        for (Integer elem : lists) System.out.print(elem + " ");// 4 3 6 1 5 2
     }
 }

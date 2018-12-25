@@ -5,18 +5,18 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        while (sc.hasNext()){
+        while (sc.hasNext()) {
 
             String string = sc.nextLine();
             char[] A = string.toCharArray();
-            Map<Character,Integer> m = new LinkedHashMap<>();
+            Map<Character, Integer> m = new LinkedHashMap<>();
 
 
-            for (char c:A){
-                if (!m.containsKey(c)){
-                    m.put(c,1);
-                }else {
-                    m.put(c,m.get(c)+1);
+            for (char c : A) {
+                if (!m.containsKey(c)) {
+                    m.put(c, 1);
+                } else {
+                    m.put(c, m.get(c) + 1);
                 }
             }
             //获取最小的次数
@@ -25,7 +25,7 @@ public class Main {
             StringBuffer sb = new StringBuffer();
             //将出现次数不是最小次数的放进StringBuffer中
             for (char c : A) {
-                if (m.get(c)!=index)
+                if (m.get(c) != index)
                     sb.append(c);
             }
 

@@ -12,9 +12,13 @@ public class Example4 {
 
         // 读取Request信息
         String uri();
+
         String contentType();
+
         String header(String name);
+
         String cookie(String name);
+
         String pathString(String name);
 
         // 向Request写入数据
@@ -22,6 +26,7 @@ public class Example4 {
 
         // 向客户端发送数据
         void render(String view);
+
         RouteContext status(int status);
 
     }

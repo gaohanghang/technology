@@ -10,6 +10,7 @@ package java知识.Java基础.关键字.static初始化顺序;
   如下面的代码，在 StaticInitialization 类中，先初始化 static Table table = new Table();，然后
   才去初始化 Table 对象，不然是不会初始化的。
  */
+
 /**
  * @author: Gao Hang Hang
  * @email: hanghang.gao@jingli365.com
@@ -21,29 +22,34 @@ class Bowl {
     }
 
     void f1(int marker) {
-        System.out.println("f1("+ marker + ")");
+        System.out.println("f1(" + marker + ")");
     }
 }
 
 class Table {
     static Bowl bowl = new Bowl(1);
+
     Table() {
         System.out.println("Table()");
 
     }
+
     void f2(int marker) {
         System.out.println("f2(" + marker + ")");
     }
+
     static Bowl bowl2 = new Bowl(2);
 }
 
 class Cupboard {
     Bowl bowl3 = new Bowl(3);
     static Bowl bowl4 = new Bowl(4);
+
     Cupboard() {
         System.out.println("Cupboard()");
         bowl4.f1(2);
     }
+
     void f3(int marker) {
         System.out.println("f3(" + marker + ")");
     }
@@ -58,6 +64,7 @@ public class StaticInitialization {
         table.f2(1);
         cupboard.f3(1);
     }
+
     static Table table = new Table();
     static Cupboard cupboard = new Cupboard();
 } /* Output:

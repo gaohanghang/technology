@@ -5,14 +5,16 @@ package java知识.Java基础.Java基础知识.单例模式.Java利用枚举实�
  * @date 2018/08/26 14:53
  **/
 public enum Type {
-    A,B,C,D;
+    A, B, C, D;
 
     static int value;
+
     public static int getValue() {
         return value;
     }
 
     String type;
+
     public String getType() {
         return type;
     }

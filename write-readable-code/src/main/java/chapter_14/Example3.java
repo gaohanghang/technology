@@ -12,7 +12,7 @@ import java.util.Map;
  */
 public class Example3 {
 
-    public Map<String, String> readData(){
+    public Map<String, String> readData() {
         Map<String, String> result = new HashMap<>();
         result.put("title", i18n("title", "cn"));
         result.put("bannerText", i18n("bannerText", "cn"));
@@ -21,7 +21,7 @@ public class Example3 {
         return result;
     }
 
-    public String i18n(String key, String language){
+    public String i18n(String key, String language) {
         return "";
     }
 }

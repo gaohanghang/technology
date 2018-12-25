@@ -6,7 +6,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 public class Main {
-    private static ExecutorService es = new ThreadPoolExecutor(50,100,0L, TimeUnit.MICROSECONDS,new LinkedBlockingDeque<>(100000));
+    private static ExecutorService es = new ThreadPoolExecutor(50, 100, 0L, TimeUnit.MICROSECONDS, new LinkedBlockingDeque<>(100000));
 
     public static void main(String[] args) throws Exception {
         for (int i = 0; i < 100000; i++) {
@@ -21,20 +21,20 @@ public class Main {
         }
 
         ThreadPoolExecutor tpe = ((ThreadPoolExecutor) es);
-        while (true){
+        while (true) {
             System.out.println();
 
             int queueSize = tpe.getQueue().size();
-            System.out.println("当前排队线程数："+ queueSize);
+            System.out.println("当前排队线程数：" + queueSize);
 
             int activeCount = tpe.getActiveCount();
-            System.out.println("当前活动线程数："+activeCount);
+            System.out.println("当前活动线程数：" + activeCount);
 
             long completedTaskCount = tpe.getCompletedTaskCount();
-            System.out.println("执行完成线程数："+completedTaskCount);
+            System.out.println("执行完成线程数：" + completedTaskCount);
 
             long taskCount = tpe.getTaskCount();
-            System.out.println("总线程数："+taskCount);
+            System.out.println("总线程数：" + taskCount);
 
             Thread.sleep(3000);
         }

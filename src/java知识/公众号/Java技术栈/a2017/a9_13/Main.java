@@ -13,7 +13,7 @@ public class Main {
 
         // example2
         String str3 = "s3";
-        System.out.println(str3+null);//s3null
+        System.out.println(str3 + null);//s3null
         System.out.println(null + str3);//nulls3
 
         String str4 = null;

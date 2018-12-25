@@ -5,6 +5,7 @@ package java知识.Java基础.关键字.static初始化顺序;
     叫做静态块，其实就是把多个static合在一起写了，本质是一样的。
     只有首次创建对象或者首次访问类的字段时才会执行，而且仅仅一次。
  */
+
 /**
  * @author: Gao Hang Hang
  * @email: hanghang.gao@jingli365.com
@@ -14,6 +15,7 @@ class Cup {
     Cup(int marker) {
         System.out.println("Cup(" + marker + ")");
     }
+
     void f(int marker) {
         System.out.println("f(" + marker + ")");
     }
@@ -22,6 +24,7 @@ class Cup {
 class Cups {
     static Cup cup1;
     static Cup cup2;
+
     static {
         cup1 = new Cup(1);
         cup2 = new Cup(2);

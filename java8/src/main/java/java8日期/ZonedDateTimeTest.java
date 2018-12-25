@@ -12,14 +12,14 @@ import java.time.ZonedDateTime;
  * ZonedDateTime 和 LocalDateTime 的一个很大的不同点在于，后者内部并没有存储时区，所以对于系统的依赖性很强，往往换一个时区可能就会导致程序中的日期时间不一致。
  * 而后者则可以通过传入时区的名称，使用 ZoneId 进行匹配存储，也可以通过传入与零时区的偏移量，使用 ZoneOffset 存储时区信息。
  * 所以，构建一个 ZonedDateTime 实例有以下几种方式：
- *
+ * <p>
  * public static ZonedDateTime now()：系统将以默认时区计算并存储日期时间信息
  * public static ZonedDateTime now(ZoneId zone)：指定时区
  * public static ZonedDateTime of(LocalDate date, LocalTime time, ZoneId zone)：指定日期时间和时区
  * public static ZonedDateTime of(LocalDateTime localDateTime, ZoneId zone)
  * public static ZonedDateTime ofInstant(Instant instant, ZoneId zone)：通过时刻和时区构建实例对象
  * 等等
- *
+ * <p>
  * 简单解释一下，首先第一个输出应该没什么问题，系统保存当前系统日期和时间以及默认的时区。
  * 第二个小例子，LocalDateTime 实例保存了时区无关的当前日期时间信息，也就是这里的年月日时分秒，接着构建一个 ZonedDateTime 实例并传入一个美国时区（西七区）。你会发现输出的日期时间为西七区的 16 点 29 分。
  * 像这种关联了时区的日期时间就很能够解决那种，换时区导致程序中时间错乱的问题。因为我关联了时区，无论你程序换到什么地方运行了，日期+时区 本就已经唯一确定了某个时刻，就相当于我在存储某个时刻的时候，我说明了这是某某时区的某某时间，即便你换了一个地区，你也不至于把这个时间按自己当前的时区进行解析并直接使用了吧。
@@ -33,12 +33,12 @@ public class ZonedDateTimeTest {
 
         LocalDateTime localDateTime = LocalDateTime.now();
         ZoneId zoneId = ZoneId.of("America/Los_Angeles");
-        ZonedDateTime zonedDateTime1 = ZonedDateTime.of(localDateTime,zoneId);
+        ZonedDateTime zonedDateTime1 = ZonedDateTime.of(localDateTime, zoneId);
         System.out.println(zonedDateTime1);
 
         Instant instant = Instant.now();
         ZoneId zoneId1 = ZoneId.of("GMT");
-        ZonedDateTime zonedDateTime2 = ZonedDateTime.ofInstant(instant,zoneId1);
+        ZonedDateTime zonedDateTime2 = ZonedDateTime.ofInstant(instant, zoneId1);
         System.out.println(zonedDateTime2);
     }
 }

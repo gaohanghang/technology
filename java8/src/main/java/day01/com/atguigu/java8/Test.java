@@ -7,13 +7,13 @@ public class Test {
         System.out.println(s);
     }
 
-    public static String multi_random_number(int len){
+    public static String multi_random_number(int len) {
         StringBuffer rt = new StringBuffer();
         for (int i = 0; i < len; i++) {
-            if (i==1){
-                rt = rt.append((int)(Math.random()*10+1));
-            }else {
-                rt = rt.append((int)(Math.random()*10));
+            if (i == 1) {
+                rt = rt.append((int) (Math.random() * 10 + 1));
+            } else {
+                rt = rt.append((int) (Math.random() * 10));
             }
         }
         return rt.toString();

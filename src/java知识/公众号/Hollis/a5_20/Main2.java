@@ -29,7 +29,7 @@ public class Main2 {
 
         Method capacity = mapType.getDeclaredMethod("capacity");
         capacity.setAccessible(true);
-        System.out.println("capacity : "+ capacity.invoke(map));
+        System.out.println("capacity : " + capacity.invoke(map));
 
         Field size = mapType.getDeclaredField("size");
         size.setAccessible(true);

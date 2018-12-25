@@ -4,7 +4,6 @@ import java知识.Java基础.集合.bit.HashMap.HashMap;
 import java知识.Java基础.集合.bit.HashMap.Map;
 
 /**
- *
  * @author: Gao HangHang
  * @date 2018/09/19
  */
@@ -16,7 +15,7 @@ public class Batch3SqlGenerator {
     //@Autowired
     //private HotelDetailRepository hotelDetailRepository;
 
-    private HashMap<String,String> cityIdMapping = new HashMap<>();
+    private HashMap<String, String> cityIdMapping = new HashMap<>();
 
     private Map<Integer, HotelId> excludedHotels;
 
@@ -32,7 +31,6 @@ public class Batch3SqlGenerator {
     //
     //    }
     //}
-
 
 
 }

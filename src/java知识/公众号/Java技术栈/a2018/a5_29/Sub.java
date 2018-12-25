@@ -1,13 +1,13 @@
 package java知识.公众号.Java技术栈.a2018.a5_29;
 
-public class Sub extends Super{
+public class Sub extends Super {
     int x = 200;
 
-    public Sub(String s){
+    public Sub(String s) {
 
     }
 
-    public Sub(){
+    public Sub() {
         System.out.println("Sub");
     }
 

@@ -9,9 +9,9 @@ public class Husband {
      * 对属性的封装
      * 一个人的姓名、性别、年龄、妻子都是这个人的私有属性
      */
-    private String name ;
-    private String sex ;
-    private int age ;
+    private String name;
+    private String sex;
+    private int age;
     private Wife wife;
 
     /*

@@ -58,8 +58,7 @@ public class StreamWriter {
             int count = bStream.read(bytes);
             if (count >= 0) {
                 outStream.write(bytes, 0, count);
-            }
-            else {
+            } else {
                 break;
             }
         }

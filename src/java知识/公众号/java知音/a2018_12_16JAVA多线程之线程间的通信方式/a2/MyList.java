@@ -10,9 +10,11 @@ import java.util.List;
  */
 public class MyList {
     private List<String> list = new ArrayList<>();
+
     public void add() {
         list.add("elemnets");
     }
+
     public int size() {
         return list.size();
     }

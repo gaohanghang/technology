@@ -8,6 +8,6 @@ package java知识.java核心技术.a3.a3_6.a3_6_1;
 public class Test {
     public static void main(String[] args) {
         String greeting = "Hello";
-        String s = greeting.substring(0,3);
+        String s = greeting.substring(0, 3);
     }
 }

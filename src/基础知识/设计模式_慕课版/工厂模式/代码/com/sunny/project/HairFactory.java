@@ -4,19 +4,21 @@ import java.util.Map;
 
 /**
  * 发型工厂
+ *
  * @author ghang
  */
 public class HairFactory {
 
     /**
      * 根据类型来创建对象
+     *
      * @param key
      * @return
      */
-    public HairInterface getHair(String key){
-        if ("left".equals(key)){
+    public HairInterface getHair(String key) {
+        if ("left".equals(key)) {
             return new LeftHair();
-        }else if ("right".equals(key)){
+        } else if ("right".equals(key)) {
             return new RightHair();
         }
         return null;
@@ -24,10 +26,11 @@ public class HairFactory {
 
     /**
      * 根据类的名称来生产对象
+     *
      * @param className
      * @return
      */
-    public HairInterface getHairByClass(String className){
+    public HairInterface getHairByClass(String className) {
 
         try {
             HairInterface hair = (HairInterface) Class.forName(className).newInstance();
@@ -44,13 +47,14 @@ public class HairFactory {
 
     /**
      * 根据类的名称来生产对象
+     *
      * @param key
      * @return
      */
-    public HairInterface getHairByClassKey(String key){
+    public HairInterface getHairByClassKey(String key) {
 
         try {
-            Map<String,String> map = new PropertiesReader().getProperties();
+            Map<String, String> map = new PropertiesReader().getProperties();
 
             HairInterface hair = (HairInterface) Class.forName(map.get(key)).newInstance();
             return hair;

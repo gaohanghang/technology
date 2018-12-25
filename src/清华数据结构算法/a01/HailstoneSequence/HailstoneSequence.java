@@ -27,7 +27,7 @@ public class HailstoneSequence {
     public static void main(String[] args) {
         int param = 7;
         int count = hailstone(param, true);
-        System.out.println(String.format("\n The %s's hailstone sequence count is :: %s",param, count));
+        System.out.println(String.format("\n The %s's hailstone sequence count is :: %s", param, count));
     }
 
 }

@@ -40,7 +40,7 @@ public class Example2 {
 
     public void part2(Request request, Response response) {
 
-        List<String> items = Arrays.asList("hello","world");
+        List<String> items = Arrays.asList("hello", "world");
 
 //        if (!request.hasParam("biezhi")) {
 //            response.writeJSON(items);

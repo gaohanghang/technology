@@ -11,8 +11,8 @@ import java.util.function.Function;
 public class OtherReference {
 
     public static void main(String[] args) {
-        Function<Integer, String[]> fun  = x -> new String[x];
-        String[]                    strs = fun.apply(10);
+        Function<Integer, String[]> fun = x -> new String[x];
+        String[] strs = fun.apply(10);
         System.out.println(strs.length);
 
         Function<Integer, String[]> fun1 = String[]::new;

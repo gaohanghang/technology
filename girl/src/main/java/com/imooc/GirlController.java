@@ -15,6 +15,7 @@ public class GirlController {
 
     /**
      * 查询所有女生列表
+     *
      * @return
      */
     @GetMapping(value = "/girls")
@@ -24,12 +25,13 @@ public class GirlController {
 
     /**
      * 添加一个女生
+     *
      * @param cupSize
      * @param age
      * @return
      */
     @PostMapping(value = "/girls")
-    public Girl girlAdd(@RequestParam("cupSize") String cupSize, @RequestParam("age") Integer age){
+    public Girl girlAdd(@RequestParam("cupSize") String cupSize, @RequestParam("age") Integer age) {
         Girl girl = new Girl();
         girl.setCupSize(cupSize);
         girl.setAge(age);
@@ -39,7 +41,7 @@ public class GirlController {
 
     //查询一个女生
     @GetMapping(value = "/girls/{id}")
-    public Girl girlFindOne(@PathVariable("id") Integer id){
+    public Girl girlFindOne(@PathVariable("id") Integer id) {
         return girlRepository.getOne(id);
     }
 
@@ -47,7 +49,7 @@ public class GirlController {
     @GetMapping(value = "/girls/{id}")
     public Girl girlUpdate(@PathVariable("id") Integer id,
                            @RequestParam("cupSize") String cupSize,
-                           @RequestParam("age") Integer age){
+                           @RequestParam("age") Integer age) {
         Girl girl = new Girl();
         girl.setId(id);
         girl.setCupSize(cupSize);
@@ -58,7 +60,7 @@ public class GirlController {
 
     //删除
     @DeleteMapping(value = "/girls/{id}")
-    public void girlDelete(@PathVariable("id") Integer id){
+    public void girlDelete(@PathVariable("id") Integer id) {
         girlRepository.deleteById(id);
     }
 

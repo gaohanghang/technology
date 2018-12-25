@@ -1,7 +1,6 @@
 package main.java.chapter_03;
 
 /**
- *
  * 选取专业的词
  * <p>
  * 找到更有变现力的词

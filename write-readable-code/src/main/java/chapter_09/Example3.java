@@ -24,7 +24,6 @@ public class Example3 {
     }
 
 
-
     public void part2() {
         // assert((!(bucket = findBucket(key)) && bucket->isOccupied()))
 //        bucket = findBucket(key)

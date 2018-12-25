@@ -7,7 +7,10 @@ package java知识.java核心技术.a3.a3_8.a3_8_2;
  */
 public class Test {
     public static void main(String[] args) {
-        int x = 3,sign = 1;
-        if (x <= 0) {if (x == 0) sign = 0; else sign = -1;}
+        int x = 3, sign = 1;
+        if (x <= 0) {
+            if (x == 0) sign = 0;
+            else sign = -1;
+        }
     }
 }

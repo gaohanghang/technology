@@ -10,7 +10,7 @@ public class TicketMaker {
     }
 
     public static TicketMaker getInstance() {
-        return                            singleton;
+        return singleton;
     }
 
     public synchronized int getNextTicketNumber() {

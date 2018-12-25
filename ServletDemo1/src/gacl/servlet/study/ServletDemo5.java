@@ -19,14 +19,14 @@ public class ServletDemo5 extends HttpServlet {
          * 等到它执行完之后才会把锁还给Servlet对象，由于是它先拿到了Servlet对象的那把锁，
          * 所以当有别的线程来访问这个Servlet对象时，由于锁已经被之前的线程拿走了，后面的线程只能排队等候了
          */
-        synchronized (this){//在java，每一个对象都有一把锁，这里的this指的就是Servlet对象
+        synchronized (this) {//在java，每一个对象都有一把锁，这里的this指的就是Servlet对象
             i++;
             try {
-                Thread.sleep(1000*4);
+                Thread.sleep(1000 * 4);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            resp.getWriter().write(i+"");
+            resp.getWriter().write(i + "");
         }
     }
 

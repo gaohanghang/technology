@@ -5,8 +5,8 @@ import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
-        Map<String,Boolean> map = new HashMap<>();
-        Boolean b = map!= null ? map.get("test") : false;
+        Map<String, Boolean> map = new HashMap<>();
+        Boolean b = map != null ? map.get("test") : false;
         System.out.println(b);
     }
 }

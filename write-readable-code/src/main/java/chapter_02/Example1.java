@@ -1,7 +1,6 @@
 package main.java.chapter_02;
 
 
-
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -20,7 +19,7 @@ public class Example1 {
     }
 
     public void snippet1() {
-        for (Node node = nodes.peek(); node !=null; node = node.next()) {
+        for (Node node = nodes.peek(); node != null; node = node.next()) {
             System.out.println(node.data());
         }
     }
@@ -28,7 +27,7 @@ public class Example1 {
     public void snippet2() {
         Node node = nodes.peek();
         if (node == null) return;
-        while (node.next()!=null) {
+        while (node.next() != null) {
             System.out.println(node.data());
             node = node.next();
         }

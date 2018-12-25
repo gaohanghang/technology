@@ -6,7 +6,7 @@ public class Test1<T> {
         System.out.println(t.getClass().getName());
     }
 
-    public <E> E testMethod1 (E e) {
+    public <E> E testMethod1(E e) {
         return e;
     }
 

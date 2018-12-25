@@ -20,11 +20,11 @@ public class Example2 {
     }
 
     public String readFileToString(String filePath) throws IOException {
-        StringBuilder  currentLines    = new StringBuilder();
-        File           file            = new File(filePath);
-        FileReader     fr              = new FileReader(file);
-        BufferedReader bufferedReader  = new BufferedReader(fr);
-        String         sCurrentLine;
+        StringBuilder currentLines = new StringBuilder();
+        File file = new File(filePath);
+        FileReader fr = new FileReader(file);
+        BufferedReader bufferedReader = new BufferedReader(fr);
+        String sCurrentLine;
         while ((sCurrentLine = bufferedReader.readLine()) != null) {
             currentLines.append(sCurrentLine).append("\n");
         }

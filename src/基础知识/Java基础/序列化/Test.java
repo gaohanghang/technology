@@ -8,16 +8,16 @@ import java.io.*;
  **/
 public class Test {
     public static void main(String[] args) {
-        File file = new File("file"+File.separator+"out.txt");
+        File file = new File("file" + File.separator + "out.txt");
 
         FileOutputStream fos = null;
 
         try {
             fos = new FileOutputStream(file);
             ObjectOutputStream oos = null;
-            try{
+            try {
                 oos = new ObjectOutputStream(fos);
-                Person person = new Person("tom",22);
+                Person person = new Person("tom", 22);
                 System.out.println(person);
                 oos.writeObject(person);
                 //写入对象
@@ -28,29 +28,29 @@ public class Test {
                 try {
                     oos.close();
                 } catch (IOException e) {
-                    System.out.println("oos关闭失败："+e.getMessage());
+                    System.out.println("oos关闭失败：" + e.getMessage());
                 }
             }
         } catch (FileNotFoundException e) {
-            System.out.println("找不到文件："+e.getMessage());
-        }finally {
+            System.out.println("找不到文件：" + e.getMessage());
+        } finally {
             try {
                 fos.close();
             } catch (IOException e) {
-                System.out.println("fos关闭失败："+e.getMessage());
+                System.out.println("fos关闭失败：" + e.getMessage());
             }
         }
 
         FileInputStream fis = null;
-        try{
+        try {
             fis = new FileInputStream(file);
         } catch (FileNotFoundException e) {
-            System.out.println("找不到文件："+ e.getMessage());
+            System.out.println("找不到文件：" + e.getMessage());
         } finally {
             try {
                 fis.close();
             } catch (IOException e) {
-                System.out.println("fis关闭失败："+e.getMessage());
+                System.out.println("fis关闭失败：" + e.getMessage());
             }
         }
 

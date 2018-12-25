@@ -11,12 +11,12 @@ import java.util.Arrays;
  */
 public class CopyOfTest {
     public static void main(String[] args) {
-        int[] a = { 1, 2, 3};
+        int[] a = {1, 2, 3};
         a = (int[]) goodCopyOf(a, 10);
         System.out.println(Arrays.toString(a));
 
-        String[] b = { "Tom", "Dick", "Harry" };
-        b = (String[]) goodCopyOf(b , 10);
+        String[] b = {"Tom", "Dick", "Harry"};
+        b = (String[]) goodCopyOf(b, 10);
         System.out.println(Arrays.toString(b));
     }
 
@@ -35,7 +35,7 @@ public class CopyOfTest {
     /**
      * This method grows an array by allocating a new array of the same type and copying all
      */
-    public static Object goodCopyOf(Object a, int newLength){
+    public static Object goodCopyOf(Object a, int newLength) {
         Class cl = a.getClass(); // 首先获得 a 数组的类对象
         if (!cl.isArray()) return null; // 确认它是一个数组
         Class componentType = cl.getComponentType(); // 使用Class类（只能定义表示数组的类对象）的getComponentType

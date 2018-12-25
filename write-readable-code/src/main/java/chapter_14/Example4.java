@@ -13,7 +13,7 @@ import static java.util.stream.Collectors.toList;
  */
 public class Example4 {
 
-    private List<Integer> list = Arrays.asList(2, 3 , 3, 3);
+    private List<Integer> list = Arrays.asList(2, 3, 3, 3);
 
     //public List<Integer> unique(List<Integer> elements) {
     //    List<Integer> result = new ArrayList<>();

@@ -3,12 +3,12 @@ package java知识.尚学堂.a01java入门阶段.第三章控制语句;
 /**
  * 测试continue
  * continue用于结束本次循环，继续循环下一次
- *
+ * <p>
  * continue 语句用在循环语句体中，用于终止某次循环过程，即跳过循环体中尚未执行的语句，
  * 接着进行下一次是否执行循环的判定。
- *
+ * <p>
  * 1. continue用在while，do-while中，continue 语句立刻跳到循环首部，越过了当前循环的其余部分。
- *
+ * <p>
  * 2. continue用在for循环中，跳到for循环的迭代因子部分。
  *
  * @author: Gao HangHang

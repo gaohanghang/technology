@@ -15,7 +15,7 @@ import java.util.function.Predicate;
  */
 public class Lambdas {
 
-    public static List<Project> buildData(){
+    public static List<Project> buildData() {
         List<Project> data = new ArrayList<>();
 
         Project project1 = new Project();
@@ -68,7 +68,7 @@ public class Lambdas {
         List<Project> projects = buildData();
         //List<String>  names    = getNames(projects);
         //List<String> names = getNames(projects, project -> project.getStars() > 1000);
-        List<String>  names = getNames(projects, project -> project.getStars() > 1000, project -> project.getDescription());
+        List<String> names = getNames(projects, project -> project.getStars() > 1000, project -> project.getDescription());
         List<Integer> stars = getNames(projects, project -> project.getStars() > 1000, ProjectFunction.buildStarFunction());
         System.out.println(stars);
         //names.forEach(name -> System.out.println(name));

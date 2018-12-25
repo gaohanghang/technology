@@ -12,9 +12,9 @@ public class Main2 {
         Set s = new HashSet();
         sb.reverse();//字符串反转
         for (int i = 0; i < sb.length(); i++) {
-            if (s.add(sb.substring(i,i+1))){
+            if (s.add(sb.substring(i, i + 1))) {
                 //set不允许重复添加相同的元素
-                System.out.print(sb.substring(i,i+1));
+                System.out.print(sb.substring(i, i + 1));
             }
         }
     }

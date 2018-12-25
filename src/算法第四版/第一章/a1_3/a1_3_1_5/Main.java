@@ -26,7 +26,7 @@ public class Main {
             q.enqueue(in.readInt());
 
         int N = q.size();
-        int [] a = new int[N];
+        int[] a = new int[N];
         for (int i = 0; i < N; i++)
             a[i] = q.dequeue();
         return a;

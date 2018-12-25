@@ -10,19 +10,19 @@ public class Example6 {
 
     class Stats {
 
-        long   totalMemory;
-        long   freeMemory;
-        long   swapMemory;
-        int    numProcesses;
+        long totalMemory;
+        long freeMemory;
+        long swapMemory;
+        int numProcesses;
         String statusString;
 
     }
 
     public void addStats(Stats addFrom, Stats addTo) {
-        addTo.totalMemory  = addFrom.totalMemory + addTo.totalMemory;
-        addTo.freeMemory   = addFrom.freeMemory + addTo.freeMemory;
-        addTo.swapMemory   = addFrom.swapMemory + addTo.swapMemory;
-        addTo.swapMemory   = addFrom.swapMemory + addTo.swapMemory;
+        addTo.totalMemory = addFrom.totalMemory + addTo.totalMemory;
+        addTo.freeMemory = addFrom.freeMemory + addTo.freeMemory;
+        addTo.swapMemory = addFrom.swapMemory + addTo.swapMemory;
+        addTo.swapMemory = addFrom.swapMemory + addTo.swapMemory;
         addTo.statusString = addFrom.statusString + addTo.statusString;
         addTo.numProcesses = addFrom.numProcesses + addTo.numProcesses;
         // ...

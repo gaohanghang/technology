@@ -121,7 +121,7 @@ public class Employee implements Serializable {
                 '}';
     }
 
-    public enum Status{
+    public enum Status {
         FREE,
         BUSY,
         VOCATION;

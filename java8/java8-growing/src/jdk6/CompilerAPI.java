@@ -42,7 +42,7 @@ public class CompilerAPI {
                 new CompiledClassLoader(fileManager.getGeneratedOutputFiles());
 
         Class<?> codeGenTest = classLoader.loadClass("LearnJava6");
-        Method   main        = codeGenTest.getMethod("main", String[].class);
+        Method main = codeGenTest.getMethod("main", String[].class);
         main.invoke(null, new Object[]{null});
     }
 
@@ -63,7 +63,7 @@ public class CompilerAPI {
 
     private static class ClassJavaFileObject extends SimpleJavaFileObject {
         private final ByteArrayOutputStream outputStream;
-        private final String                className;
+        private final String className;
 
         protected ClassJavaFileObject(String className, Kind kind) {
             super(URI.create("mem:///" + className.replace('.', '/') + kind.extension), kind);

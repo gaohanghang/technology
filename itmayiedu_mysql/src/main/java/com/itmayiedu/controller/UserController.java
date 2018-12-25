@@ -12,16 +12,17 @@ public class UserController {
     private UserService userService;
 
     @RequestMapping("/regit")
-    public String regit(String name,String pwd){
-        return userService.regit(name,pwd);
+    public String regit(String name, String pwd) {
+        return userService.regit(name, pwd);
     }
+
     @RequestMapping("/get")
-    public String get(Long userId){
+    public String get(Long userId) {
         return userService.get(userId);
     }
 
     @RequestMapping("/hello")
-    public String hello(){
+    public String hello() {
         return "hello";
     }
 }

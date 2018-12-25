@@ -17,7 +17,7 @@ public class ComparatorTest {
         List<Person> personList = Arrays.asList(persons);
         System.out.println("Before sort: \r\n" + personList);
         // 这里，将一个比较器（Comparator）传递给sort方法作为参数，按照里面的比较逻辑对Person进行排序
-        Collections.sort(personList,new PersonComparator());
+        Collections.sort(personList, new PersonComparator());
         System.out.println("After sort： \r\n" + personList);
     }
 }
@@ -26,22 +26,28 @@ public class ComparatorTest {
 class Person {
     private int age;
     private String name;
+
     public Person(int age, String name) {
         this.age = age;
         this.name = name;
     }
+
     public int getAge() {
         return age;
     }
+
     public void setAge(int age) {
         this.age = age;
     }
+
     public String getName() {
         return name;
     }
+
     public void setName(String name) {
         this.name = name;
     }
+
     @Override
     public String toString() {
         return "Person[name=" + name + ", age=" + age + "]";

@@ -84,7 +84,7 @@ public class FilterProjects {
         return result;
     }
 
-    public static <T> List<T> filter(List<T> list, Predicate<T> predicate){
+    public static <T> List<T> filter(List<T> list, Predicate<T> predicate) {
         List<T> result = new ArrayList<>();
         for (T t : list) {
             if (predicate.test(t)) {
@@ -139,7 +139,6 @@ public class FilterProjects {
 
 
     }
-
 
 
 }

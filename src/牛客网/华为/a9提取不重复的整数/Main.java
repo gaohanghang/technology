@@ -9,16 +9,16 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        while (sc.hasNext()){
+        while (sc.hasNext()) {
             String str = sc.nextLine();
             char[] nums = str.toCharArray();
             Set<Character> st = new LinkedHashSet<>();
-            for (int i = nums.length-1; i >=0 ; i--) {
+            for (int i = nums.length - 1; i >= 0; i--) {
                 st.add(nums[i]);
             }
             String result = "";
             for (Character c : st) {
-                result += c+"";
+                result += c + "";
             }
             System.out.println(result);
         }

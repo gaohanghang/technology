@@ -10,7 +10,7 @@ import org.apache.commons.lang3.time.StopWatch;
 public class TimeTest {
     public static void main(String[] args) {
         //格式化日期输出
-        System.out.println(DateFormatUtils.format(System.currentTimeMillis(),"yyyy-MM-dd HH:mm:ss"));
+        System.out.println(DateFormatUtils.format(System.currentTimeMillis(), "yyyy-MM-dd HH:mm:ss"));
         //2018-06-06 16:59:53
 
         //秒表

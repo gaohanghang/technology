@@ -20,7 +20,7 @@ public class TestArrayList {
         }
     }
 
-    private static void  testList() throws InterruptedException {
+    private static void testList() throws InterruptedException {
         Runnable runnable = () -> {
             for (int i = 0; i < 10000; i++) {
                 list.add(i);

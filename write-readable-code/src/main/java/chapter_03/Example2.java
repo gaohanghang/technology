@@ -5,7 +5,6 @@ import java.nio.file.Files;
 import java.util.function.Function;
 
 /**
- *
  * 避免tmp和retval这样泛泛的名字
  *
  * @author: Gao Hang Hang
@@ -34,7 +33,7 @@ public class Example2 {
             return Math.sqrt(sumSquares);
         };
 
-        int[]  numbs = {1, 2, 3, 5};
+        int[] numbs = {1, 2, 3, 5};
         Double apply = euclideanNorm.apply(numbs);
         System.out.println(apply);
     }
@@ -51,7 +50,7 @@ public class Example2 {
 
         //String tmp = user.getUserName();
 
-        Files.createTempFile("tmp_file",".txt");
+        Files.createTempFile("tmp_file", ".txt");
     }
 
 }

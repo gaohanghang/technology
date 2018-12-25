@@ -26,7 +26,7 @@ public class Test {
 
         deadline = null;
 
-        if (deadline!= null)
+        if (deadline != null)
             System.out.println(deadline); // runtime erroe!
 
 

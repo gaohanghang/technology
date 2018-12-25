@@ -6,7 +6,7 @@ public class ResponseResult {
     //错误信息
     private String errmsg;
 
-    ResponseResult(){
+    ResponseResult() {
     }
 
     public ResponseResult(String errcode, String errmsg) {

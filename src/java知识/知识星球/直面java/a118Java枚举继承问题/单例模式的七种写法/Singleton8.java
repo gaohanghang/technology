@@ -8,9 +8,11 @@ import java.io.Serializable;
  **/
 public class Singleton8 implements Serializable {
     public static Singleton8 INSTANCE = new Singleton8();
+
     protected Singleton8() {
 
     }
+
     private Object readResolve() {
         return INSTANCE;
     }

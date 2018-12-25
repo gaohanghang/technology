@@ -15,7 +15,7 @@ public abstract class TimeFormat {
     public final static YmdTimeFormat ymd = new YmdTimeFormat();
 
 
-    private final static TimeFormat[] timeFormats = new TimeFormat[] { iso, ymdHms, ymd };
+    private final static TimeFormat[] timeFormats = new TimeFormat[]{iso, ymdHms, ymd};
 
 
     public abstract boolean matches(String s);

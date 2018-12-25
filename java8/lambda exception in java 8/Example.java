@@ -10,7 +10,7 @@ public class Example {
 
     public static List<Class> finClass(List<String> names) {
         return names.stream()
-                .map(className -> LambdaExceptionUtil.uncheck(Class::forName,className))
+                .map(className -> LambdaExceptionUtil.uncheck(Class::forName, className))
                 .collect(Collectors.toList());
     }
 

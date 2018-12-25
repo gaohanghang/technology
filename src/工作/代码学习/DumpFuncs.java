@@ -42,14 +42,11 @@ public class DumpFuncs {
 
         if (obj == null) {
             return null;
-        }
-        else if (obj instanceof String) {
+        } else if (obj instanceof String) {
             return "'" + ((String) obj).replace("'", "''") + "'";
-        }
-        else if (obj instanceof LocalDateTime) {
-            return "'" + TimeFormat.ymdHms.toString((LocalDateTime)obj);
-        }
-        else {
+        } else if (obj instanceof LocalDateTime) {
+            return "'" + TimeFormat.ymdHms.toString((LocalDateTime) obj);
+        } else {
             return obj.toString();
         }
     }
@@ -59,8 +56,7 @@ public class DumpFuncs {
         try {
             stream.write(text.getBytes("utf-8"));
             stream.flush();
-        }
-        catch (Exception e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }

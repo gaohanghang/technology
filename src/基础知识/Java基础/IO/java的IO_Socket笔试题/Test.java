@@ -20,7 +20,7 @@ public class Test {
         int count = 0;
         Reader in = new FileReader(file);
         int c;
-        while ((c = in.read()) != -1){
+        while ((c = in.read()) != -1) {
             while (c == find.charAt(0)) {
                 for (int i = 1; i < find.length(); i++) {
                     c = in.read();

@@ -17,13 +17,13 @@ import java.util.stream.Stream;
 public class TestStreamAPI2 {
 
     List<Employee> employees = Arrays.asList(
-            new Employee("张三",18,9999.99),
-            new Employee("李四",39,5555.55),
-            new Employee("王五",50,666.99),
-            new Employee("赵六",16,6666.66),
-            new Employee("田七",8,8888.88),
-            new Employee("田七",8,8888.88),
-            new Employee("田七",8,8888.88)
+            new Employee("张三", 18, 9999.99),
+            new Employee("李四", 39, 5555.55),
+            new Employee("王五", 50, 666.99),
+            new Employee("赵六", 16, 6666.66),
+            new Employee("田七", 8, 8888.88),
+            new Employee("田七", 8, 8888.88),
+            new Employee("田七", 8, 8888.88)
     );
 
     //中间操作
@@ -33,8 +33,8 @@ public class TestStreamAPI2 {
         sorted(Comparator com)--定制排序(Comparator)
      */
     @Test
-    public void test7(){
-        List<String> list = Arrays.asList("ccc","aaa","bbb","ddd","eee");
+    public void test7() {
+        List<String> list = Arrays.asList("ccc", "aaa", "bbb", "ddd", "eee");
 
         list.stream()
                 .sorted()
@@ -44,9 +44,9 @@ public class TestStreamAPI2 {
 
         employees.stream()
                 .sorted((e1, e2) -> {
-                    if (e1.getAge().equals(e2.getAge())){
+                    if (e1.getAge().equals(e2.getAge())) {
                         return e1.getName().compareTo(e2.getName());
-                    }else {
+                    } else {
                         return e1.getAge().compareTo(e2.getAge());
                     }
                 }).forEach(System.out::println);
@@ -61,8 +61,8 @@ public class TestStreamAPI2 {
         flatMap--接收一个函数作为参数，将流中的每个值都转换成另一个流，然后把所有流连接一个流
      */
     @Test
-    public void test5(){
-        List<String> list = Arrays.asList("aaa","bbb","ccc","ddd","eee");
+    public void test5() {
+        List<String> list = Arrays.asList("aaa", "bbb", "ccc", "ddd", "eee");
 
         list.stream()
                 .map((str) -> str.toUpperCase())
@@ -71,8 +71,8 @@ public class TestStreamAPI2 {
         System.out.println("---------------------------");
 
         employees.stream()
-                    .map(Employee::getName)
-                    .forEach(System.out::println);
+                .map(Employee::getName)
+                .forEach(System.out::println);
 
         System.out.println("----------------------------------");
 
@@ -92,8 +92,8 @@ public class TestStreamAPI2 {
     }
 
     @Test
-    public void test6(){
-        List<String> list = Arrays.asList("aaa","bbb","ccc","ddd","eee");
+    public void test6() {
+        List<String> list = Arrays.asList("aaa", "bbb", "ccc", "ddd", "eee");
 
         List list2 = new ArrayList();
 
@@ -104,7 +104,7 @@ public class TestStreamAPI2 {
         System.out.println(list2);
     }
 
-    public static Stream<Character> filterCharacter(String str){//add(Object obj)  addAll(Collection coll)
+    public static Stream<Character> filterCharacter(String str) {//add(Object obj)  addAll(Collection coll)
         List<Character> list = new ArrayList<>();
 
         for (Character ch : str.toCharArray()) {
@@ -113,8 +113,6 @@ public class TestStreamAPI2 {
 
         return list.stream();
     }
-
-
 
 
     /*
@@ -134,7 +132,7 @@ public class TestStreamAPI2 {
     }
 
     @Test
-    public void test3(){
+    public void test3() {
         employees.stream()
                 .filter((e) -> {
                     System.out.println("短路！");//&&  ||
@@ -146,7 +144,7 @@ public class TestStreamAPI2 {
 
     //内部迭代：迭代操作由 Stream API 完成
     @Test
-    public void test1(){
+    public void test1() {
         //中间操作：不会执行任何操作
         Stream<Employee> stream = employees.stream()
                 .filter((e) -> {
@@ -162,7 +160,7 @@ public class TestStreamAPI2 {
     public void test2() {
         Iterator<Employee> it = employees.iterator();
 
-        while (it.hasNext()){
+        while (it.hasNext()) {
             System.out.println(it.next());
         }
     }

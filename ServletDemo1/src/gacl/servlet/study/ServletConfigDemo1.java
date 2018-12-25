@@ -20,6 +20,7 @@ public class ServletConfigDemo1 extends HttpServlet {
      * 会自动将这些初始化参数封装到ServletConfig对象中，并在调用servlet的init方法时，
      * 将ServletConfig对象传递给servlet。进而，程序员通过ServletConfig对象就可以
      * 得到当前servlet的初始化参数信息。
+     *
      * @throws ServletException
      */
     @Override
@@ -36,7 +37,7 @@ public class ServletConfigDemo1 extends HttpServlet {
         resp.getWriter().print("<hr/>");
         // 获取所有的初始化参数
         Enumeration<String> e = config.getInitParameterNames();
-        while (e.hasMoreElements()){
+        while (e.hasMoreElements()) {
             String name = e.nextElement();
             String value = config.getInitParameter(name);
             resp.getWriter().print(name + "=" + value + "<br/>");
@@ -45,6 +46,6 @@ public class ServletConfigDemo1 extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        this.doGet(req,resp);
+        this.doGet(req, resp);
     }
 }

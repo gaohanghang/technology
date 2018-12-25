@@ -4,7 +4,7 @@ package java知识.知识星球.直面java.a146Java中创建对象的方法有�
  * @author: Gao HangHang
  * @date 2018/10/01
  */
-public class CloneTest implements Cloneable{
+public class CloneTest implements Cloneable {
 
     private String name;
     private int age;
@@ -33,10 +33,10 @@ public class CloneTest implements Cloneable{
 
     public static void main(String[] args) {
         try {
-            CloneTest cloneTest = new CloneTest("wangql",18);
+            CloneTest cloneTest = new CloneTest("wangql", 18);
             CloneTest copyClone = (CloneTest) cloneTest.clone();
-            System.out.println("newclone:"+cloneTest.getName());
-            System.out.println("copyClone:"+copyClone.getName());
+            System.out.println("newclone:" + cloneTest.getName());
+            System.out.println("copyClone:" + copyClone.getName());
         } catch (CloneNotSupportedException e) {
             e.printStackTrace();
         }

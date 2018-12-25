@@ -17,10 +17,10 @@ var vote_change = function (old_vote, new_vote) {
 };
 
 function get_vote_value(vote) {
-    if(vote === 'Up'){
+    if (vote === 'Up') {
         return +1;
     }
-    if(vote === 'Down'){
+    if (vote === 'Down') {
         return -1;
     }
     return 0;
@@ -28,5 +28,6 @@ function get_vote_value(vote) {
 
 function get_weight() {
 }
+
 function set_weight(weight) {
 }

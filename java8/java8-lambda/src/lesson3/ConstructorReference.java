@@ -17,7 +17,7 @@ public class ConstructorReference {
         //构造器引用
         //根据参数列表自动匹配构造器
         Supplier<ConstructorReference> sup = ConstructorReference::new;
-        ConstructorReference           constructorReference = sup.get();
+        ConstructorReference constructorReference = sup.get();
     }
 
 }

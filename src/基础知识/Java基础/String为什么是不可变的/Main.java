@@ -7,7 +7,7 @@ import java.lang.reflect.Field;
  * @date 2018/07/11 14:37
  **/
 public class Main {
-    public static void testReflection() throws  Exception {
+    public static void testReflection() throws Exception {
 
         // 创建字符串"Hello World"，并赋给引用s
         String s = "Hello World";

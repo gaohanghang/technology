@@ -24,7 +24,7 @@ public class TestForkJoin {
 
         Instant end = Instant.now();
 
-        System.out.println("耗时时间为："+ Duration.between(start, end).toMillis());//
+        System.out.println("耗时时间为：" + Duration.between(start, end).toMillis());//
     }
 
     /*
@@ -45,7 +45,7 @@ public class TestForkJoin {
 
         Instant end = Instant.now();
 
-        System.out.println("耗时时间为："+ Duration.between(start, end).toMillis());//
+        System.out.println("耗时时间为：" + Duration.between(start, end).toMillis());//
     }
 
 
@@ -53,7 +53,7 @@ public class TestForkJoin {
         java8 并行流
      */
     @Test
-    public void test3(){
+    public void test3() {
         Instant start = Instant.now();
 
         LongStream.rangeClosed(0, 10000000000L)
@@ -62,7 +62,7 @@ public class TestForkJoin {
 
         Instant end = Instant.now();
 
-        System.out.println("耗时时间为："+ Duration.between(start, end).toMillis());//2786
+        System.out.println("耗时时间为：" + Duration.between(start, end).toMillis());//2786
     }
 
 

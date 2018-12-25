@@ -6,6 +6,7 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  * MD5 加密算法
+ *
  * @date 2018/11/11 6:17 PM
  */
 public class MD5Test {

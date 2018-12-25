@@ -10,7 +10,7 @@ package 面试题.网易面试题;
  * @email: hanghang.gao@jingli365.com
  * @date 2018/09/09 下午3:47
  */
-public class B extends A{
+public class B extends A {
 
     B b;
 

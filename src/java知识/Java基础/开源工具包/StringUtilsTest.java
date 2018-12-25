@@ -7,19 +7,18 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *
  * @author GaoHangHang
  * @date 2018/06/06 16:34
  **/
 public class StringUtilsTest {
     public static void main(String[] args) {
         // 1.数组拼接
-        String[] array = {"aaa","bbb","ccc"};
+        String[] array = {"aaa", "bbb", "ccc"};
 
         /*
             1.1使用StringUtils
          */
-        StringUtils.join(array,",");
+        StringUtils.join(array, ",");
         //结果"aaa,bbb,ccc"
 
         /*
@@ -28,7 +27,7 @@ public class StringUtilsTest {
         // 对比版，也是简陋版
         StringBuffer buffer = new StringBuffer();
         for (int i = 0; i < array.length; i++) {
-            buffer.append(array[i]+",");
+            buffer.append(array[i] + ",");
         }
 
 
@@ -37,19 +36,19 @@ public class StringUtilsTest {
         list.add("aaa");
         list.add("bbb");
         list.add("ccc");
-        StringUtils.join(list,",");
+        StringUtils.join(list, ",");
 
         //对null处理，给予自定义字符
         //StringUtils.defaultString(String str, String defaultStr)
         //结果为defaultStr
 
-        ObjectUtils.defaultIfNull(null,"空");//结果 空
+        ObjectUtils.defaultIfNull(null, "空");//结果 空
 
         // ""和null为true这个判断是用的比较多的，底层是计算长度。
         /*StringUtils.isEmpty();*/
 
         //3.检查一字符是否为另一字符串的子集
-        StringUtils.containsOnly("","aaaad");
+        StringUtils.containsOnly("", "aaaad");
         //结果true
 
         //4.去除字符中的空格

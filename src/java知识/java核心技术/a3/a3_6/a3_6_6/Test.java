@@ -10,7 +10,7 @@ public class Test {
         String greeting = "Hello";
         int n = greeting.length(); // is 5.
 
-        int cpCount = greeting.codePointCount(0,greeting.length());
+        int cpCount = greeting.codePointCount(0, greeting.length());
         System.out.println(cpCount);
 
         char first = greeting.charAt(0); // first is 'H'

@@ -6,10 +6,10 @@ package java知识.知识星球.直面java.a74trycatch;
  **/
 public class Test {
     public static void test() {
-        try{
+        try {
             System.out.println("--------try---------");
             System.exit(0);
-        }finally {
+        } finally {
             System.out.println("------ finally------");
         }
     }

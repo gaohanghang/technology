@@ -17,12 +17,12 @@
 //     show_tip.hide();
 // };
 
-var show_next_tip = function(){
+var show_next_tip = function () {
     // 隐藏当前显示的搜索记录
     var cur_tip = $('.tip:visited').hide();
     // 找到下一个搜索记录
     var next_tip = cur_tip.next('.tip');
-    if(next_tip.size() === 0){
+    if (next_tip.size() === 0) {
         next_tip = $('.tip:first');
     }
     next_tip.show();

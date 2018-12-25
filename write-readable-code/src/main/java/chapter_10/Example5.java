@@ -16,11 +16,11 @@ public class Example5 {
 
     private static final int MAX_SPAM_VOTES = 10;
 
-    private Map<Long, Message>     messages = new HashMap<>();
-    private Map<Long, List<Reply>> replies  = new HashMap<>();
+    private Map<Long, Message> messages = new HashMap<>();
+    private Map<Long, List<Reply>> replies = new HashMap<>();
 
     class Message {
-        int           viewCount;
+        int viewCount;
         LocalDateTime lastViewTime;
 
         public void save() {
@@ -56,7 +56,7 @@ public class Example5 {
         rootMessage.save();
 
         List<Reply> filteredReplies = new ArrayList<>();
-        List<Reply> allReplies      = replies.get(originalId);
+        List<Reply> allReplies = replies.get(originalId);
         for (Reply reply : allReplies) {
             if (reply.spamVotes > MAX_SPAM_VOTES) {
                 filteredReplies.add(reply);

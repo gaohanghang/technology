@@ -7,5 +7,6 @@ package java知识.java核心技术.a6.a6_1_2;
  */
 public interface Powered extends Moveable {
     double milesPerGallon();
+
     double SPEED_LIMIT = 95; // a public final constant
 }

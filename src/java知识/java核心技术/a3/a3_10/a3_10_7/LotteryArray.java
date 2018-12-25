@@ -2,6 +2,7 @@ package java知识.java核心技术.a3.a3_10.a3_10_7;
 
 /**
  * This program demonstrates a triangular array.
+ *
  * @Description: 这个程序演示三角形数组
  * @author: Gao Hang Hang
  * @date 2018/12/06 9:45 PM

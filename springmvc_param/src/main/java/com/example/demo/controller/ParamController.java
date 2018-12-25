@@ -18,51 +18,52 @@ import java.util.Map;
 public class ParamController {
 
 
-    @RequestMapping(value = "/int",method = RequestMethod.POST)
+    @RequestMapping(value = "/int", method = RequestMethod.POST)
     @ResponseBody
     public String requestInt(int param) {
         return "Request successful. Post param : Int - " + param;
     }
-    @RequestMapping(value="/integer", method=RequestMethod.POST)
+
+    @RequestMapping(value = "/integer", method = RequestMethod.POST)
     @ResponseBody
     public String requestInteger(Integer param) {
         return "Request successful. Post param : Integer - " + param;
     }
     //......
 
-    @RequestMapping(value="/list", method=RequestMethod.POST)
+    @RequestMapping(value = "/list", method = RequestMethod.POST)
     @ResponseBody
     public String requestList(@RequestParam("listParam[]") List<String> param) {
         return "Request successful. Post param : List<String> - " + param.toString();
     }
 
-    @RequestMapping(value="/map", method=RequestMethod.POST)
+    @RequestMapping(value = "/map", method = RequestMethod.POST)
     @ResponseBody
     public String requestList(@RequestParam Map<String, Object> param) {
         return "Request successful. Post param : Map - " + param;
     }
 
-    @RequestMapping(value="/people", method=RequestMethod.POST)
+    @RequestMapping(value = "/people", method = RequestMethod.POST)
     @ResponseBody
     public String requestPeople(@ModelAttribute People people) {
         return "Get request is successful. Post param : User Class - " + people.toString();
     }
 
-    @RequestMapping(value="/link", method=RequestMethod.POST)
+    @RequestMapping(value = "/link", method = RequestMethod.POST)
     @ResponseBody
     public String requestLink(@ModelAttribute Link link) {
         return "Get request is successful. Post param : User Class - " + link.toString();
     }
 
-    @RequestMapping(value="/path/{key}/{value}", method=RequestMethod.POST)
+    @RequestMapping(value = "/path/{key}/{value}", method = RequestMethod.POST)
     @ResponseBody
     public String requestPath(@PathVariable String key, @PathVariable String value) {
         return "Get request is successful. Path param : key - " + key + "; value - " + value;
     }
 
-    @RequestMapping(value = "/request",method = RequestMethod.POST)
+    @RequestMapping(value = "/request", method = RequestMethod.POST)
     @ResponseBody
-    public String request(HttpServletRequest request , HttpServletResponse response){
+    public String request(HttpServletRequest request, HttpServletResponse response) {
         return "Get request is successful. Post param : param1 - " + request.getParameter("param1") +
                 "; param2 - " + request.getParameter("param2") +
                 "; param3 - " + request.getParameter("param3");

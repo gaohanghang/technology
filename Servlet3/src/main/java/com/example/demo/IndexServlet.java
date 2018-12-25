@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(name = "index",urlPatterns = {"/"},asyncSupported = true)
+@WebServlet(name = "index", urlPatterns = {"/"}, asyncSupported = true)
 public class IndexServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
@@ -32,7 +32,7 @@ public class IndexServlet extends HttpServlet {
         }
     }
 
-    private AsyncListener getListener(){
+    private AsyncListener getListener() {
         return new AsyncListener() {
             @Override
             public void onComplete(AsyncEvent asyncEvent) throws IOException {

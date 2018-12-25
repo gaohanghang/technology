@@ -7,7 +7,7 @@ import java.util.Date;
  * @author: Gao Hang Hang
  * @date 2018/12/24 14:06
  */
-public class Employee implements Comparable<Employee>, Cloneable{
+public class Employee implements Comparable<Employee>, Cloneable {
     private String name;
     private double salary;
     private Date hireDay;
@@ -36,6 +36,7 @@ public class Employee implements Comparable<Employee>, Cloneable{
 
     /**
      * Compares employees by salary
+     *
      * @param other another Employee object
      * @return a negative if this employee has a lower salary than
      * otherObject, 0 if the salaries are the same, a positive value otherwise

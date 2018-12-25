@@ -18,6 +18,7 @@ public class ObjectAnalyzer {
     /**
      * Converts an object to a string representation that lists all fields.
      * 将对象转换为列出所有字段的字符串表示形式
+     *
      * @param obj
      * @return
      */
@@ -28,7 +29,7 @@ public class ObjectAnalyzer {
         Class cl = obj.getClass();
         if (cl == String.class) return (String) obj;
         if (cl.isArray()) {
-            String r = cl .getComponentType() + "[]{";
+            String r = cl.getComponentType() + "[]{";
             for (int i = 0; i < Array.getLength(obj); i++) {
                 if (i > 0) r += ",";
                 Object val = Array.get(obj, i);
@@ -46,7 +47,7 @@ public class ObjectAnalyzer {
             AccessibleObject.setAccessible(fields, true);
             // get the names and values of all fields
             for (Field f : fields) {
-                if (!Modifier.isStatic(f.getModifiers())){
+                if (!Modifier.isStatic(f.getModifiers())) {
                     if (!r.endsWith("[")) r += ",";
                     r += f.getName() + "=";
                     try {

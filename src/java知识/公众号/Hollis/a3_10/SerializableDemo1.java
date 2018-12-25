@@ -31,7 +31,7 @@ public class SerializableDemo1 {
         //Read Obj from File
         File file = new File("tempFile.txt");
         try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(file))) {
-            User1 newUser = (User1)ois.readObject();
+            User1 newUser = (User1) ois.readObject();
             System.out.println(newUser);
         } catch (IOException | ClassNotFoundException e) {
             e.printStackTrace();

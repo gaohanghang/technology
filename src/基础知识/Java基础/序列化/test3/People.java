@@ -8,10 +8,14 @@ import java.io.Serializable;
  **/
 public class People {
     int num;
-    public People(){} //默认的无参构造函数，没有进行初始化
-    public People(int num){
+
+    public People() {
+    } //默认的无参构造函数，没有进行初始化
+
+    public People(int num) {
         this.num = num;
     }
+
     @Override
     public String toString() {
         return "People{" +
@@ -19,20 +23,22 @@ public class People {
                 '}';
     }
 }
-class Person extends People implements Serializable{
+
+class Person extends People implements Serializable {
 
     private static final long serialVersionUID = 8846183125161998869L;
 
     String name;
     int age;
 
-    public Person(int num,String name,int age){
+    public Person(int num, String name, int age) {
         super(num);   //调用父类中的构造函数
 
         this.name = name;
         this.age = age;
     }
-    public String toString(){
-        return super.toString()+"\tname:"+name+"\tage:"+age;
+
+    public String toString() {
+        return super.toString() + "\tname:" + name + "\tage:" + age;
     }
 }

@@ -5,7 +5,7 @@ package java知识.java核心技术.a5.a5_2_3;
  * @author: Gao Hang Hang
  * @date 2018/12/20 12:40
  */
-public class Manager extends Employee{
+public class Manager extends Employee {
     private double bonus; // 奖金
 
     public Manager(String name, double salary, int year, int month, int day, double bonus) {

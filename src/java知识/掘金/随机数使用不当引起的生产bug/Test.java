@@ -23,7 +23,7 @@ public class Test {
     // 总循环次数
     static int count = 10000;
     // 用于存放每个流水号出现的次数
-    public static ConcurrentHashMap<String,Integer> map = new ConcurrentHashMap<>();
+    public static ConcurrentHashMap<String, Integer> map = new ConcurrentHashMap<>();
     //CountDownLatch倒计时器，每个线程完成后，计时器减一，计时器归零后，主线程开始统计流水线出现的次数
     static CountDownLatch latch = new CountDownLatch(count);
 
@@ -80,11 +80,12 @@ public class Test {
 
     /**
      * 往map中存入数据，如果流水号已存在，则次数+1
+     *
      * @param key
      */
     public static synchronized void put(String key) {
         if (map.get(key) != null) {
-            map.put(key,  map.get(key) + 1);
+            map.put(key, map.get(key) + 1);
         } else {
             map.put(key, 1);
         }

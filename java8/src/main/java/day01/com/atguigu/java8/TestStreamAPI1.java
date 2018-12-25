@@ -20,7 +20,7 @@ public class TestStreamAPI1 {
 
     //创建 Stream
     @Test
-    public void test1(){
+    public void test1() {
         //1. 可以通过 Collection 系列集合提供的 stream() 或 parallelStream()
         List<String> list = new ArrayList<>();
         Stream<String> stream1 = list.stream();
@@ -30,7 +30,7 @@ public class TestStreamAPI1 {
         Stream<Employee> stream2 = Arrays.stream(emps);
 
         //3. 通过 Stream 类中的静态方法
-        Stream<String> stream3 = Stream.of("aa","bb","cc");
+        Stream<String> stream3 = Stream.of("aa", "bb", "cc");
 
         //4. 创建无限流
         //迭代

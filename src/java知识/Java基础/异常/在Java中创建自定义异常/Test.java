@@ -15,22 +15,22 @@ public class Test {
     }
 
     public String test(String fileName) {
-        try (Scanner file = new Scanner(new File(fileName))){
+        try (Scanner file = new Scanner(new File(fileName))) {
             if (file.hasNextLine())
                 return file.nextLine();
-        }catch (FileNotFoundException e) {
+        } catch (FileNotFoundException e) {
             // Logging, etc
         }
         return fileName;
     }
 
     public String test1(String fileName) throws IncorrectFileNameException {
-        try (Scanner file = new Scanner(new File(fileName))){
+        try (Scanner file = new Scanner(new File(fileName))) {
             if (file.hasNextLine())
                 return file.nextLine();
-        }catch (FileNotFoundException err) {
-            if (!isCorrectFileName(fileName)){
-                throw new IncorrectFileNameException("Incorrect filename : " + fileName,err);
+        } catch (FileNotFoundException err) {
+            if (!isCorrectFileName(fileName)) {
+                throw new IncorrectFileNameException("Incorrect filename : " + fileName, err);
             }
         }
         // ...
@@ -38,18 +38,19 @@ public class Test {
     }
 
     public String test2(String fileName) throws IncorrectFileNameException {
-        try (Scanner file = new Scanner(new File(fileName))){
+        try (Scanner file = new Scanner(new File(fileName))) {
             if (file.hasNextLine())
                 return file.nextLine();
-        }catch (FileNotFoundException err) {
-            if (!isCorrectFileName(fileName)){
+        } catch (FileNotFoundException err) {
+            if (!isCorrectFileName(fileName)) {
                 throw new IncorrectFileNameException(
-                        "Incorrect filename : " + fileName,err);
+                        "Incorrect filename : " + fileName, err);
             }
-        }catch (IllegalArgumentException err) {
+        } catch (IllegalArgumentException err) {
             if (!containsExtension(fileName)) {
                 throw new IncorrectFileExtensionException(
-                        "Filename does not contain extension : " + fileName, err);            }
+                        "Filename does not contain extension : " + fileName, err);
+            }
         }
         // ...
         return fileName;
@@ -57,7 +58,7 @@ public class Test {
 
 
     //正确的文件名
-    public boolean isCorrectFileName(String filename){
+    public boolean isCorrectFileName(String filename) {
         return true;
     }
 

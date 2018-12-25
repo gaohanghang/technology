@@ -7,7 +7,8 @@ package 基础知识.Java基础.集合.List.LinkedListDemo.a206;
 public class ListNode {
     int val;
     ListNode next;
-    ListNode(int x){
+
+    ListNode(int x) {
         val = x;
     }
 }

@@ -7,7 +7,7 @@ package main.java.chapter_02;
  */
 public class Example2 {
 
-    private int  cap = 2333;
+    private int cap = 2333;
     private double weight = 1.5;
 
     public double before() {

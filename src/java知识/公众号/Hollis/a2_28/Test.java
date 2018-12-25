@@ -11,7 +11,7 @@ public class Test {
         String str = "abc";
         System.out.println(str.length());//使用length()获取字符串的长度
 
-        char [] s = {'a','b','c'};
+        char[] s = {'a', 'b', 'c'};
         String string1 = s.toString();
         String string2 = new String(s);
         String string3 = String.valueOf(s);

@@ -12,7 +12,7 @@ public class Example4 {
 
     class Node {
         String name;
-        Node   next;
+        Node next;
     }
 
     //    public boolean listHasNode(Node node, String name, int maxLength) {

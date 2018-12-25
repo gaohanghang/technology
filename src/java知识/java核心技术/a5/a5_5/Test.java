@@ -13,7 +13,7 @@ public class Test {
         double m = max(3.1, 40.4, -5);
     }
 
-    public class PrintStream{
+    public class PrintStream {
         public PrintStream(String fmt, Object... args) {
 
         }

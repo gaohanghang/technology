@@ -7,7 +7,7 @@ package java知识.java核心技术.a3.a3_6.a3_6_2;
  */
 public class Test {
     public static void main(String[] args) {
-        String expletive= "Expletive";
+        String expletive = "Expletive";
         String PG13 = "deleted";
         String message = expletive + PG13;
         System.out.println(message);
@@ -19,7 +19,7 @@ public class Test {
         String answer = "";
         System.out.println("The answer is " + answer);
 
-        String all = String.join("/", "S", "M","L","XL");
+        String all = String.join("/", "S", "M", "L", "XL");
         System.out.println(all);
     }
 }

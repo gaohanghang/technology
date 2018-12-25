@@ -12,7 +12,7 @@ import java.time.LocalDate;
 public class Example4 {
 
     class Request {
-        String param(String key){
+        String param(String key) {
             return "";
         }
     }
@@ -22,7 +22,7 @@ public class Example4 {
         String url;
         LocalDate created;
 
-        public void  save() {
+        public void save() {
         }
     }
 

@@ -28,8 +28,8 @@ public class TestException {
     }
 }
 
-class Computer{
-    void start(){
+class Computer {
+    void start() {
         System.out.println("计算机启动！");
     }
 }

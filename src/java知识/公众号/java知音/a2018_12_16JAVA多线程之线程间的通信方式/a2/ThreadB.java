@@ -5,7 +5,7 @@ package java知识.公众号.java知音.a2018_12_16JAVA多线程之线程间的�
  * @author: Gao Hang Hang
  * @date 2018/12/16 19:16
  */
-public class ThreadB extends Thread{
+public class ThreadB extends Thread {
 
     private MyList list;
 

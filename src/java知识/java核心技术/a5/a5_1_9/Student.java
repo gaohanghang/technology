@@ -9,7 +9,7 @@ public class Student extends Person {
     private String major;
 
     /**
-     * @param name the student's name
+     * @param name  the student's name
      * @param major the student's major
      */
     public Student(String name, String major) {

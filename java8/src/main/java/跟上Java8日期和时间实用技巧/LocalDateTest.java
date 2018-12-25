@@ -16,7 +16,7 @@ public class LocalDateTest {
         LocalDate localDate = LocalDate.now();
         System.out.println("localDate：" + localDate);
 
-        LocalDate.of(2017,07,20);
+        LocalDate.of(2017, 07, 20);
         LocalDate.parse("2017-07-20");
 
         LocalDate tomorrow = LocalDate.now().plusDays(1);

@@ -14,12 +14,12 @@ public class sumPerformance {
     public static long sumPerformanceTest(Function<Long, Long> function, long number) {
         long maxValue = Long.MAX_VALUE;
 
-        for (int i=0; i<10; i++) {
+        for (int i = 0; i < 10; i++) {
             long start = System.nanoTime();
             long sum = function.apply(number);
             long end = System.nanoTime();
             System.out.println("Result: " + sum);
-            long time = ( end - start ) / 1000000;
+            long time = (end - start) / 1000000;
 
             if (time < maxValue) {
                 maxValue = time;

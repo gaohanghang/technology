@@ -10,8 +10,8 @@ import java.time.Period;
 public class finalTest {
 }
 
-final class People{
-    public People(){
+final class People {
+    public People() {
 
     }
 }

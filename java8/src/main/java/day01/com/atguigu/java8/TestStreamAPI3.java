@@ -11,12 +11,12 @@ import java.util.stream.Collectors;
  */
 public class TestStreamAPI3 {
     List<Employee> employees = Arrays.asList(
-            new Employee("张三",18,9999.99, Employee.Status.FREE),
-            new Employee("李四",39,5555.55,Employee.Status.BUSY),
-            new Employee("王五",50,3333.33,Employee.Status.VOCATION),
-            new Employee("赵六",16,6666.66,Employee.Status.FREE),
-            new Employee("田七",8,8888.88,Employee.Status.BUSY),
-            new Employee("田七",8,8888.88,Employee.Status.BUSY)
+            new Employee("张三", 18, 9999.99, Employee.Status.FREE),
+            new Employee("李四", 39, 5555.55, Employee.Status.BUSY),
+            new Employee("王五", 50, 3333.33, Employee.Status.VOCATION),
+            new Employee("赵六", 16, 6666.66, Employee.Status.FREE),
+            new Employee("田七", 8, 8888.88, Employee.Status.BUSY),
+            new Employee("田七", 8, 8888.88, Employee.Status.BUSY)
     );
 
     /*
@@ -25,16 +25,16 @@ public class TestStreamAPI3 {
         用于给Stream中元素汇总的方法
      */
     @Test
-    public void test10(){
+    public void test10() {
         String str = employees.stream()
                 .map(Employee::getName)
-                .collect(Collectors.joining(",","###","###"));
+                .collect(Collectors.joining(",", "###", "###"));
 
         System.out.println(str);
     }
 
     @Test
-    public void test9(){
+    public void test9() {
         DoubleSummaryStatistics dss = employees.stream()
                 .collect(Collectors.summarizingDouble(Employee::getSalary));
 
@@ -45,7 +45,7 @@ public class TestStreamAPI3 {
 
     //分区
     @Test
-    public void test8(){
+    public void test8() {
         Map<Boolean, List<Employee>> map = employees.stream()
                 .collect(Collectors.partitioningBy((e) -> e.getSalary() > 8000));
         System.out.println(map);
@@ -53,7 +53,7 @@ public class TestStreamAPI3 {
 
     //多级分组
     @Test
-    public void test7(){
+    public void test7() {
         Map<Employee.Status, Map<String, List<Employee>>> map = employees.stream()
                 .collect(Collectors.groupingBy(Employee::getStatus, Collectors.groupingBy((e) -> {
                     if (e.getSalary() <= 35) {
@@ -70,7 +70,7 @@ public class TestStreamAPI3 {
 
     //分组
     @Test
-    public void test6(){
+    public void test6() {
         Map<Employee.Status, List<Employee>> map = employees.stream()
                 .collect(Collectors.groupingBy(Employee::getStatus));
 
@@ -78,7 +78,7 @@ public class TestStreamAPI3 {
     }
 
     @Test
-    public void test5(){
+    public void test5() {
         Long count = employees.stream()
                 .collect(Collectors.counting());
         System.out.println(count);
@@ -107,8 +107,9 @@ public class TestStreamAPI3 {
         System.out.println(min.get());
 
     }
+
     @Test
-    public void test4(){
+    public void test4() {
         List<String> list = employees.stream()
                 .map(Employee::getName)
                 .collect(Collectors.toList());
@@ -134,8 +135,8 @@ public class TestStreamAPI3 {
         identity起始值 BinaryOperator二元运算
      */
     @Test
-    public void test3(){
-        List<Integer> list = Arrays.asList(1,2,3,4,5,6,7,8,9,10);
+    public void test3() {
+        List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
 
         Integer sum = list.stream()
                 .reduce(0, (x, y) -> x + y);
@@ -164,7 +165,7 @@ public class TestStreamAPI3 {
         min--返回流中的最小值
      */
     @Test
-    public void test2(){
+    public void test2() {
         Long count = employees.stream()
                 .count();
         System.out.println(count);
@@ -180,7 +181,7 @@ public class TestStreamAPI3 {
     }
 
     @Test
-    public void test1(){
+    public void test1() {
         boolean b1 = employees.stream()
                 .allMatch((e) -> e.getStatus().equals(Employee.Status.BUSY));
         System.out.println(b1);

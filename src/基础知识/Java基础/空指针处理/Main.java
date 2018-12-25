@@ -34,7 +34,7 @@ public class Main {
 
     }
 
-    public static<T>Optional<T> resolve(Supplier<T> resolver) {
+    public static <T> Optional<T> resolve(Supplier<T> resolver) {
 
         try {
 
@@ -67,7 +67,7 @@ class Nested {
 
     Inner inner;
 
-    Inner getInner(){
+    Inner getInner() {
 
         return inner;
 

@@ -8,7 +8,7 @@ package main.java.chapter_04;
  */
 public class Example1 {
 
-    private void truncate(String text,int maxChars) {
+    private void truncate(String text, int maxChars) {
 
     }
 

@@ -21,7 +21,7 @@ public class HelloWorld {
 
     }
 
-    public void method(){
+    public void method() {
 
     }
 

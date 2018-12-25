@@ -24,8 +24,6 @@ public class NonblockingServer {
         Selector selector = Selector.open();
 
 
-
-
     }
 
 }

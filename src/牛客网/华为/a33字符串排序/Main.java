@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sca = new Scanner(System.in);
-        while (sca.hasNext()){
+        while (sca.hasNext()) {
             String str = sca.nextLine();
             char[] cha = str.toCharArray();
             StringBuffer sb = new StringBuffer();

@@ -12,10 +12,10 @@ public class java8 {
     public static void main(String[] args) {
         List<Project> projects = Project.buildDate();
         List<String> names = projects.stream()
-                 .filter(p -> {
-                     System.out.println(p.getName());
-                     return p.getStars() > 1000;
-                 })
+                .filter(p -> {
+                    System.out.println(p.getName());
+                    return p.getStars() > 1000;
+                })
                 .map(p -> {
                     System.out.println(p.getName());
                     return p.getName();

@@ -22,6 +22,7 @@ public class Test2 {
 
     // 2. 每次使用德是否加锁
     private static final SimpleDateFormat SIMPLE_DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+
     public void getFormat() {
         synchronized (SIMPLE_DATE_FORMAT) {
             SIMPLE_DATE_FORMAT.format(new Date());

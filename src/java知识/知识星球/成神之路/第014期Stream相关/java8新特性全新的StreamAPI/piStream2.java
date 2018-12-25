@@ -29,6 +29,7 @@ class EulerTransform implements Function<Double, Double> {
         return n3 - d * d / (n1 - 2 * n2 + n3);
     }
 }
+
 public class piStream2 {
     public static void main(String[] args) {
         Stream<Double> piStream2 = Stream.generate(new PiSupplier());

@@ -16,10 +16,10 @@ public class Example12 {
      */
     class StoreAccounts {
 
-        String     username;
-        String     roleName;
-        Integer    score;
-        LocalDate  birthday;
+        String username;
+        String roleName;
+        Integer score;
+        LocalDate birthday;
         BigDecimal amount;
         // ...
     }

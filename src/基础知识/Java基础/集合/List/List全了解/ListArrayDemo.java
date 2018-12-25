@@ -22,7 +22,7 @@ public class ListArrayDemo {
     }
 
     private static void arrayToList() {
-        String[] arr = {"a","b","c"};
+        String[] arr = {"a", "b", "c"};
         List<String> lists = Arrays.asList(arr);
         for (String s : lists) {
             System.out.println(s);
@@ -30,7 +30,7 @@ public class ListArrayDemo {
     }
 
     private static void arrayToList1() {
-        String[] arr = {"a","b","c"};
+        String[] arr = {"a", "b", "c"};
         List<String> lists = new ArrayList<>(Arrays.asList(arr));
         lists.add("d");
         for (String list : lists) {

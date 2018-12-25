@@ -20,7 +20,7 @@ public class Example5 {
     private static final double IMAGE_QUALITY = 0.72D;
 
     // force vector to relinquish its memorey (look up "STL swp trick")
-    static class Recorder{
+    static class Recorder {
 
         Vector<Float> data;
 

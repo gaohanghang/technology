@@ -42,17 +42,18 @@ public class Example2 {
 
     // 上海 - 浦东
     public String part2(Address address) {
-        String countryName  = address.countryName;
+        String countryName = address.countryName;
         return null;
     }
+
     public static void main(String[] args) {
         Example2 example2 = new Example2();
         String place = example2.part1(
-            new Address("中国","浦东","上海", "徐汇区")
+                new Address("中国", "浦东", "上海", "徐汇区")
         );
 
         place = example2.part1(
-                new Address("中国","山西省",null,"迎泽区")
+                new Address("中国", "山西省", null, "迎泽区")
         );
 
         System.out.println(place);

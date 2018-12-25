@@ -2,7 +2,7 @@ package 基础知识.Java基础.面向对象.多态;
 
 /**
  * 需求1： 笔记本电脑运行。
- *
+ * <p>
  * 需求2：在笔记本电脑上使用鼠标。
  * 描述鼠标。并在笔记本电脑类中加入使用鼠标的功能
  *
@@ -55,18 +55,21 @@ class Mouse{
 接口降低了耦合性
  */
 //描述规则。
-interface USB{
+interface USB {
     public void open();
+
     public void close();
 }
+
 //描述笔记本电脑
-class NoteBook{
-    public void run(){
+class NoteBook {
+    public void run() {
         System.out.println("notebook run");
     }
+
     //定义一个使用usb规则的功能。
-    public void useUSB(USB usb){//USB usb = new Mouse();
-        if (usb!=null){
+    public void useUSB(USB usb) {//USB usb = new Mouse();
+        if (usb != null) {
             usb.open();
             usb.close();
         }
@@ -74,7 +77,7 @@ class NoteBook{
 }
 
 //买了个鼠标。别忘了，一定要买符合规则的。
-class Mouse implements USB{
+class Mouse implements USB {
 
     @Override
     public void open() {
@@ -86,8 +89,9 @@ class Mouse implements USB{
         System.out.println("mouse close");
     }
 }
+
 //买一个pc键盘
-class KeyBoard implements USB{
+class KeyBoard implements USB {
 
     @Override
     public void open() {
@@ -99,7 +103,8 @@ class KeyBoard implements USB{
         System.out.println("KEY close");
     }
 }
-class  NoteBookTest{
+
+class NoteBookTest {
     public static void main(String[] args) {
         NoteBook book = new NoteBook();
         book.run();

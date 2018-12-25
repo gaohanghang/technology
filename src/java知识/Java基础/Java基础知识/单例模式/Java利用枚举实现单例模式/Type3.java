@@ -5,21 +5,21 @@ package java知识.Java基础.Java基础知识.单例模式.Java利用枚举实�
  * @date 2018/08/26 15:03
  **/
 public enum Type3 {
-    A{
+    A {
         public String getType() {
             return "A";
         }
-    },B {
+    }, B {
         @Override
         public String getType() {
             return "B";
         }
-    },C {
+    }, C {
         @Override
         public String getType() {
             return "C";
         }
-    },D {
+    }, D {
         @Override
         public String getType() {
             return "D";

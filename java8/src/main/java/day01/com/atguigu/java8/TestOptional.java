@@ -17,8 +17,8 @@ public class TestOptional {
         flatMap(Function mapper):与map类似，要求返回值必须是Optional
      */
     @Test
-    public void test4(){
-        Optional<Employee> op = Optional.ofNullable(new Employee("张三", 18,888.88));
+    public void test4() {
+        Optional<Employee> op = Optional.ofNullable(new Employee("张三", 18, 888.88));
 
         /*Optional<String> str = op.map((e) -> e.getName());
         System.out.println(str.get());*/
@@ -29,7 +29,7 @@ public class TestOptional {
 
 
     @Test
-    public void test3(){
+    public void test3() {
         Optional<Employee> op = Optional.ofNullable(null);
 
         /*if (op.isPresent()){
@@ -44,7 +44,7 @@ public class TestOptional {
     }
 
     @Test
-    public void test2(){
+    public void test2() {
         Optional<Employee> op = Optional.empty();
         System.out.println(op.get());
     }

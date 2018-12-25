@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        while (scanner.hasNext()){
+        while (scanner.hasNext()) {
             String str = scanner.next().substring(2);
-            System.out.println(Integer.parseInt(str,16));
+            System.out.println(Integer.parseInt(str, 16));
         }
     }
 }

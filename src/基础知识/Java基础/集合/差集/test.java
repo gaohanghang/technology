@@ -35,6 +35,6 @@ public class test {
 
         //System.out.println("交集是 "+set1);
         //System.out.println("并集是 "+set1);
-        System.out.println("差集是 "+set1);
+        System.out.println("差集是 " + set1);
     }
 }

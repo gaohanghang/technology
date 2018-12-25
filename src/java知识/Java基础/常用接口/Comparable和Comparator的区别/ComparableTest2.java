@@ -8,16 +8,17 @@ import java.util.List;
 /**
  * Comparable翻译为“可比较的”，表明实现该接口的类都是可以比较的，即实现Comparable接口的类本身就已经支持自比较，
  * 例如： String、Integer 自己就可以完成比较大小操作，它们已经实现了Comparable接口。查看
+ *
  * @author GaoHangHang
  * @date 2018/07/28 16:07
  **/
 public class ComparableTest2 {
     public static void main(String[] args) {
         Person[] persons = new Person[]{
-                new Person(20,"P1"),
-                new Person(60,"p2"),
-                new Person(50,"p3"),
-                new Person(40,"p4")
+                new Person(20, "P1"),
+                new Person(60, "p2"),
+                new Person(50, "p3"),
+                new Person(40, "p4")
         };
         Arrays.sort(persons);
         System.out.println();
@@ -31,7 +32,8 @@ public class ComparableTest2 {
 class Person implements Comparable<Person> {
     private int age;
     private String name;
-    public Person(int age, String name){
+
+    public Person(int age, String name) {
         this.age = age;
         this.name = name;
     }

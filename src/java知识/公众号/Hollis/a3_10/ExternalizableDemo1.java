@@ -13,7 +13,7 @@ public class ExternalizableDemo1 {
         User1 user = new User1();
         user.setName("hollis");
         user.setAge(23);
-        try(ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("tempFile.txt"))){
+        try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("tempFile.txt"))) {
             oos.writeObject(user);
         } catch (IOException e) {
             e.printStackTrace();
@@ -21,11 +21,11 @@ public class ExternalizableDemo1 {
 
         //Read Obj from file
         File file = new File("tempFile.txt");
-        try(ObjectInputStream ois =  new ObjectInputStream(new FileInputStream(file))){
+        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(file))) {
             User1 newInstance = (User1) ois.readObject();
             //output
             System.out.println(newInstance);
-        } catch (IOException | ClassNotFoundException e ) {
+        } catch (IOException | ClassNotFoundException e) {
             e.printStackTrace();
         }
     }

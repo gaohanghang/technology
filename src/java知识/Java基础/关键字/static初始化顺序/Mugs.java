@@ -3,6 +3,7 @@ package java知识.Java基础.关键字.static初始化顺序;
 /*
     这个没什么好讲的，就是普通初始化，按顺序执行，可以多次执行。
  */
+
 /**
  * @author: Gao Hang Hang
  * @email: hanghang.gao@jingli365.com
@@ -12,6 +13,7 @@ class Mug {
     Mug(int marker) {
         System.out.println("Mug(" + marker + ")");
     }
+
     void f(int marker) {
         System.out.println("f(" + marker + ")");
     }
@@ -20,15 +22,18 @@ class Mug {
 public class Mugs {
     Mug mug1;
     Mug mug2;
+
     {
         mug1 = new Mug(1);
         mug2 = new Mug(2);
         System.out.println("mug & mug2 initialized");
     }
+
     Mugs() {
         System.out.println("Mugs()");
     }
-    Mugs(int i){
+
+    Mugs(int i) {
         System.out.println("Mugs(int)");
     }
 

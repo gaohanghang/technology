@@ -21,15 +21,14 @@ public class Main {
         System.out.println(user);
 
 
-
         //Write Obj to File
         ObjectOutputStream oos = null;
         try {
             oos = new ObjectOutputStream(new FileOutputStream("tempFile"));
             oos.writeObject(user);
-        }catch (IOException e){
+        } catch (IOException e) {
             e.printStackTrace();
-        }finally {
+        } finally {
             IOUtils.closeQuietly();
         }
     }

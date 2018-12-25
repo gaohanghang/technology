@@ -8,7 +8,7 @@ package java知识.尚学堂.a01java入门阶段.第三章控制语句;
  */
 public class TestIfElseIfElse {
     public static void main(String[] args) {
-        int age = (int)(100*Math.random());
+        int age = (int) (100 * Math.random());
         System.out.println("年龄是" + age + "，属于");
         if (age < 15) {
             System.out.println("儿童， 喜欢玩！");

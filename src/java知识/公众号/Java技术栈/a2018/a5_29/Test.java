@@ -57,7 +57,7 @@ public class Test {
         }*/
     }
 
-    public static void add(List<String> list,Object o){
+    public static void add(List<String> list, Object o) {
         list.add(o.toString());
     }
 

@@ -10,11 +10,11 @@ import java.nio.channels.Selector;
  */
 public class Example1 {
 
-    private boolean isAdminRequest(){
+    private boolean isAdminRequest() {
         return false;
     }
 
-    private String noAuthorized(){
+    private String noAuthorized() {
         return "authorized.html";
     }
 
@@ -24,6 +24,7 @@ public class Example1 {
             return "";
         }
     }
+
     class Document {
         String username;
     }
@@ -43,11 +44,11 @@ public class Example1 {
 //        return "biezhi.html";
 //    }
 
-    public String part2(Document document, Session session){
+    public String part2(Document document, Session session) {
         boolean isAdmin = isAdminRequest();
-        if(isAdmin){
+        if (isAdmin) {
             // 获取信息
-        } else if(document.username.equals(session.getAttribute("username"))){
+        } else if (document.username.equals(session.getAttribute("username"))) {
             // 获取信息
         } else {
             return noAuthorized();

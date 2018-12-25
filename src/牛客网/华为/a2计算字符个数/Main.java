@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int count=0;
+        int count = 0;
 
         Scanner in = new Scanner(System.in);
 
@@ -15,7 +15,7 @@ public class Main {
         char target = in.nextLine().toUpperCase().toCharArray()[0];
 
         for (int i = 0; i < str.length(); i++) {
-            if (str.charAt(i)== target){
+            if (str.charAt(i) == target) {
                 count++;
             }
         }

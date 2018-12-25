@@ -14,9 +14,9 @@ public class Test {
         read_data:
         //while () // this loop statement is tagged with the label
         while (n < 1) {
-          if (n<0) {
-              break read_data;
-          }
+            if (n < 0) {
+                break read_data;
+            }
         }
 
 

@@ -18,12 +18,12 @@ public class testWildCards {
         collection.iterator().next();
         collection.size();
 
-        List<?>  wildlist = new ArrayList<>();
+        List<?> wildlist = new ArrayList<>();
         //wildlist.add(123); // 编译不通过
 
     }
 
-    public <T> void test(Collection<T> collection){
+    public <T> void test(Collection<T> collection) {
         collection.add((T) new Integer(12));
         collection.add((T) "123");
     }

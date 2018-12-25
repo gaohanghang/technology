@@ -16,13 +16,13 @@ public class ResponseDemo03 extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        resp.setHeader("refresh","5");//设置refresh响应头控制浏览器每隔5秒钟刷新一次
+        resp.setHeader("refresh", "5");//设置refresh响应头控制浏览器每隔5秒钟刷新一次
         //1.在内存中创建一张图片
-        BufferedImage image = new BufferedImage(80,20,BufferedImage.TYPE_INT_BGR);
+        BufferedImage image = new BufferedImage(80, 20, BufferedImage.TYPE_INT_BGR);
         //2.得到图片
-        Graphics2D g = (Graphics2D)image.getGraphics();
+        Graphics2D g = (Graphics2D) image.getGraphics();
         g.setColor(Color.WHITE);//设置图片的背景色
-        g.fillRect(0,0,80,20);//填充背景色
+        g.fillRect(0, 0, 80, 20);//填充背景色
         //3.向图片上写数据
         g.setColor(Color.BLACK);
 

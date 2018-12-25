@@ -3,7 +3,6 @@ package main.java.chapter_02;
 import com.sun.tools.javac.jvm.Code;
 
 /**
- *
  * 皮卡丘
  *
  * @author: Gao Hang Hang

@@ -10,7 +10,7 @@ public class Main {
             Integer a = i;
             Integer b = i;
             // System.out.println(i + " " + (a == b) );
-            System.out.println(a+ " " + b + " "+System.identityHashCode(a)+" " +System.identityHashCode(b));
+            System.out.println(a + " " + b + " " + System.identityHashCode(a) + " " + System.identityHashCode(b));
         }
     }
 }

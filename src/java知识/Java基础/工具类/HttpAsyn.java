@@ -1,7 +1,6 @@
 package java知识.Java基础.工具类;
 
 
-
 import java.util.logging.Logger;
 
 /**

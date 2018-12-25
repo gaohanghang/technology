@@ -3,7 +3,7 @@ import java.util.Map;
 
 /**
  * 泛型
- *
+ * <p>
  * 泛型规范数据结构，泛型的本质是参数化类型，所操作的数据被指定为一个参数
  *
  * @author GaoHangHang
@@ -17,7 +17,7 @@ public class Generic<T> {
 
     public static void main(String[] args) {
 
-        Map<String,Integer> map = new HashMap<>();
+        Map<String, Integer> map = new HashMap<>();
 
         Generic<Long> generic = new Generic<>();
 

@@ -21,7 +21,7 @@ public class SwitchString {
 
         EnumDemo enumDemo = EnumDemo.GREEN;
 
-        switch (enumDemo){
+        switch (enumDemo) {
             case RED:
                 break;
             case YELLOW:

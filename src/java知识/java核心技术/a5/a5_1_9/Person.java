@@ -7,6 +7,7 @@ package java知识.java核心技术.a5.a5_1_9;
  */
 public abstract class Person {
     public abstract String getDescription();
+
     private String name;
 
     public Person(String name) {

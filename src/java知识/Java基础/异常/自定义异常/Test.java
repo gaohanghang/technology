@@ -26,7 +26,7 @@ public class Test {
         } catch (IOException e) {
             e.printStackTrace();
             System.out.println("IO problem");
-        }finally {
+        } finally {
             try {
                 br.close();
             } catch (IOException e) {

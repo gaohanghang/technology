@@ -9,11 +9,11 @@ package java知识.Java基础.Java基础知识.单例模式.Java利用枚举实�
  * @author GaoHangHang
  * @date 2018/08/26 15:05
  **/
-class Resource{
+class Resource {
 
 }
 
-public enum  SomeThing {
+public enum SomeThing {
     INSTANCE;
     private Resource instance;
 

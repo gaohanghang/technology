@@ -27,19 +27,19 @@ public class LocalDateTest {
         //为今天添加一天，也就是获取明天
         java.time.LocalDate tomorrow = java.time.LocalDate.now().plusDays(1);
         //从今天减去一个月
-        java.time.LocalDate prevMonth = java.time.LocalDate.now().minus(1,ChronoUnit.MONTHS);
+        java.time.LocalDate prevMonth = java.time.LocalDate.now().minus(1, ChronoUnit.MONTHS);
         System.out.println(tomorrow);
         System.out.println(prevMonth);
 
         //下面写两个例子，分别解析日期 2017-07-20，获取每周中的星期和每月中的日：
         DayOfWeek thursday = java.time.LocalDate.parse("2017-07-20").getDayOfWeek();
-        System.out.println("周四："+thursday);
+        System.out.println("周四：" + thursday);
         int twenty = java.time.LocalDate.parse("2017-07-20").getDayOfMonth();
         System.out.println("twenty: " + twenty);
 
         //试试今年是不是闰年:
         boolean leapYear = java.time.LocalDate.now().isLeapYear();
-        System.out.println("是否闰年："+leapYear);
+        System.out.println("是否闰年：" + leapYear);
 
         //判断是否在日期之前或之后:
         boolean notBefore = java.time.LocalDate.parse("2017-07-20").isBefore(java.time.LocalDate.parse("2017-07-22"));
@@ -59,9 +59,6 @@ public class LocalDateTest {
         MonthDay birthdayMd = MonthDay.of(birthday.getMonth(), birthday.getDayOfMonth());
         MonthDay today = MonthDay.from(java.time.LocalDate.now());
         System.out.println("今天是否是我的生日: " + today.equals(birthdayMd));
-
-
-
 
 
     }

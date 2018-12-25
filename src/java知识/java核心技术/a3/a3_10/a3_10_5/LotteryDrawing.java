@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 /**
  * This program demonstrates array manipulation.
+ *
  * @Description: 产生抽彩游戏中的随机数值组合
  * @author: Gao Hang Hang
  * @date 2018/12/05 9:14 AM
@@ -35,7 +36,7 @@ public class LotteryDrawing {
             result[i] = numbers[r];
 
             // move the last element into the random location
-            numbers[r] = numbers[n -1];
+            numbers[r] = numbers[n - 1];
             n--;
         }
 

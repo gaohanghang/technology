@@ -10,7 +10,7 @@ import java.time.LocalTime;
  * public static LocalTime of(int hour, int minute, int second, int nanoOfSecond)：传入时分秒和毫微秒构建一个实例
  * public static LocalTime ofSecondOfDay(long secondOfDay)：传入一个长整型数值代表当前日已经过去的秒数
  * public static LocalTime ofNanoOfDay(long nanoOfDay)：传入一个长整型代表当前日已经过去的毫微秒数
- *
+ * <p>
  * public int getHour()
  * public int getMinute()
  * public int getSecond()
@@ -25,7 +25,7 @@ public class LocalTimeTest {
         LocalTime localTime = LocalTime.now();
         System.out.println(localTime);
 
-        LocalTime localTime1 = LocalTime.of(23,59);
+        LocalTime localTime1 = LocalTime.of(23, 59);
         System.out.println(localTime1);
 
         LocalTime localTime2 = LocalTime.ofSecondOfDay(10);

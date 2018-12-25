@@ -9,7 +9,7 @@ import java.util.Arrays;
  */
 public class Test {
     public static void main(String[] args) {
-        int[] smallPrimes = {2, 3, 5, 7 ,11 ,13};
+        int[] smallPrimes = {2, 3, 5, 7, 11, 13};
 
         int[] luckNumbers = smallPrimes;
         luckNumbers[5] = 12; // now smallPrimes[5] is also 12
@@ -22,6 +22,6 @@ public class Test {
         System.out.println(Arrays.toString(smallPrimes));
 
         // 第二个参数是新数组的长度
-        luckNumbers = Arrays.copyOf(luckNumbers,2 * luckNumbers.length);
+        luckNumbers = Arrays.copyOf(luckNumbers, 2 * luckNumbers.length);
     }
 }

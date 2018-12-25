@@ -5,6 +5,7 @@ import java.util.Queue;
 class Producer extends Thread {
     private static final int MAX_QUEUE_SIZE = 5;
     private final Queue sharedQueue;
+
     public Producer(Queue sharedQueue) {
         super();
         this.sharedQueue = sharedQueue;

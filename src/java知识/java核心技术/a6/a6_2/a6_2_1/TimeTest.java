@@ -25,7 +25,7 @@ public class TimeTest {
     }
 }
 
-class TimePrinter implements ActionListener{
+class TimePrinter implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent event) {
         System.out.println("At the tone, the time is " + new Date());

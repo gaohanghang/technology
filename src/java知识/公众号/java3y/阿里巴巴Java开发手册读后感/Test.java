@@ -13,10 +13,10 @@ import java.util.Set;
  */
 public class Test {
     public static void main(String[] args) {
-        HashMap<String,String> hashMap = new HashMap<>();
-        hashMap.put("1","哈哈1");
-        hashMap.put("2","哈哈2");
-        hashMap.put("3","哈哈3");
+        HashMap<String, String> hashMap = new HashMap<>();
+        hashMap.put("1", "哈哈1");
+        hashMap.put("2", "哈哈2");
+        hashMap.put("3", "哈哈3");
 
         // 得到keySet，遍历keySet得到所有的key
         // Set<String> strings = hashMap.keySet();

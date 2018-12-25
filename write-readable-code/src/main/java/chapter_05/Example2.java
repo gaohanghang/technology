@@ -22,7 +22,7 @@ public class Example2 {
         }
     }
 
-    public void part1(){
+    public void part1() {
         Cookie c1 = new Cookie(
                 "uid",/* key */
                 "2018",  /* value */
@@ -42,12 +42,12 @@ public class Example2 {
         );
     }
 
-    public void part2(){
+    public void part2() {
         // Cookie(name,  value ,  maxAge, isSecure)
         //      [string | string | seconds | true/false]
-        Cookie c1 = new Cookie("uid", "2018", 1800,false);
-        Cookie c2 = new Cookie("PICK_KEY", "ahmd13ldsws8cw",10800,true);
-        Cookie c3 = new Cookie("REMEMBER_ME","true",10800,true);
+        Cookie c1 = new Cookie("uid", "2018", 1800, false);
+        Cookie c2 = new Cookie("PICK_KEY", "ahmd13ldsws8cw", 10800, true);
+        Cookie c3 = new Cookie("REMEMBER_ME", "true", 10800, true);
     }
 
 

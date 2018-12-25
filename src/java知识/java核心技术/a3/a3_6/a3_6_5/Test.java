@@ -11,8 +11,9 @@ public class Test {
 
         String greeting = "Hello";
 
-        if (str != null && str.length() != 0){
-        };
+        if (str != null && str.length() != 0) {
+        }
+        ;
 
     }
 }

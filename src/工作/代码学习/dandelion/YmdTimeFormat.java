@@ -36,8 +36,7 @@ public class YmdTimeFormat extends TimeFormat {
 
         if (t == null) {
             return null;
-        }
-        else {
+        } else {
             return String.format("%d-%02d-%02d", t.getYear(), t.getMonth().getValue(), t.getDayOfMonth());
         }
     }

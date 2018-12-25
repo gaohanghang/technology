@@ -35,13 +35,13 @@ public class Example6 {
         map.put("username", "biezhi");
         map.put("password", "123456");
 
-        String url            = "http://exmaple.com/?user_info=" + urlSafeEncrypt(map);
+        String url = "http://exmaple.com/?user_info=" + urlSafeEncrypt(map);
         // ...
     }
 
-    private String urlSafeEncrypt(Map<String, String> map){
-        String json           = toJson(map);
-        Cipher cipher         = new Cipher("aes_256", "pas5#w0rd");
+    private String urlSafeEncrypt(Map<String, String> map) {
+        String json = toJson(map);
+        Cipher cipher = new Cipher("aes_256", "pas5#w0rd");
         byte[] encryptedBytes = cipher.update(json);
         return Base64.getEncoder().encodeToString(encryptedBytes);
     }

@@ -13,7 +13,7 @@ public class ExecutorTest {
     public static void main(String[] args) {
         ExecutorService executor = Executors.newSingleThreadExecutor();
         executor.submit(() -> {
-           String threadName = Thread.currentThread().getName();
+            String threadName = Thread.currentThread().getName();
             System.out.println("Hello " + threadName);
         });
 

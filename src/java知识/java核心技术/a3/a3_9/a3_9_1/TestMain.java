@@ -8,6 +8,6 @@ package java知识.java核心技术.a3.a3_9.a3_9_1;
 public class TestMain {
     public static void main(String[] args) {
         int i = 1;
-        System.out.println(i+++i++);
+        System.out.println(i++ + i++);
     }
 }

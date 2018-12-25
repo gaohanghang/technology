@@ -10,7 +10,7 @@ import java.util.List;
 public class Example4 {
 
     private static final int DEFAULT_PORT = 9000;
-    private static final List<String> DEFAULT_STATICS = Arrays.asList("/static","/upload");
+    private static final List<String> DEFAULT_STATICS = Arrays.asList("/static", "/upload");
 
     // bad
     private String id = "af84ef845cd8";

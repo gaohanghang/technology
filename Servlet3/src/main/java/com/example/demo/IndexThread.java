@@ -3,11 +3,11 @@ package com.example.demo;
 import javax.servlet.AsyncContext;
 import java.io.PrintWriter;
 
-public class IndexThread implements Runnable{
+public class IndexThread implements Runnable {
 
     private AsyncContext asyncContext;
 
-    public IndexThread(AsyncContext asyncContext){
+    public IndexThread(AsyncContext asyncContext) {
         this.asyncContext = asyncContext;
     }
 

@@ -23,6 +23,7 @@ public class MethodTableTest {
 
     /**
      * Return the square of a number 平方
+     *
      * @param x a number
      * @return x squared
      */

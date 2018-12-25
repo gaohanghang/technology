@@ -5,6 +5,6 @@ package 牛客网.试题广场.a替换空格;
  **/
 public class Main {
     public String replaceSpace(StringBuffer str) {
-        return str.toString().replaceAll("\\s","%20");
+        return str.toString().replaceAll("\\s", "%20");
     }
 }

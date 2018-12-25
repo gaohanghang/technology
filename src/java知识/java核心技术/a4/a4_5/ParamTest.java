@@ -2,6 +2,7 @@ package java知识.java核心技术.a4.a4_5;
 
 /**
  * This program demonstrates parameter passing in Java.
+ *
  * @Description: 方法参数
  * @author: Gao Hang Hang
  * @date 2018/12/09 14:27
@@ -9,9 +10,9 @@ package java知识.java核心技术.a4.a4_5;
 public class ParamTest {
     public static void main(String[] args) {
         /*
-        * Test 1: Method's can't modify numberic parameters
-        * 测试1：方法不能修改数字参数
-        */
+         * Test 1: Method's can't modify numberic parameters
+         * 测试1：方法不能修改数字参数
+         */
         System.out.println("Testing tripleValue:");
         double percent = 10;
         System.out.println("Before: percent=" + percent);

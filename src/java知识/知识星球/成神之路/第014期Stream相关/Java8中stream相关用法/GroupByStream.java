@@ -35,15 +35,15 @@ public class GroupByStream {
         //                        }));
 
         Map<String, Map<String, List<Book>>> booksGroup = books.stream().collect(
-            groupingBy(Book::getPublisher, groupingBy(book -> {
-                if (book.getPrice() > 0 && book.getPrice() < 50) {
-                    return "A";
-                } else if (book.getPrice() > 50 && book.getPrice() <= 100) {
-                    return "B";
-                } else {
-                    return "C";
-                }
-            }))
+                groupingBy(Book::getPublisher, groupingBy(book -> {
+                    if (book.getPrice() > 0 && book.getPrice() < 50) {
+                        return "A";
+                    } else if (book.getPrice() > 50 && book.getPrice() <= 100) {
+                        return "B";
+                    } else {
+                        return "C";
+                    }
+                }))
         );
 
         // 先分组，再统计数量

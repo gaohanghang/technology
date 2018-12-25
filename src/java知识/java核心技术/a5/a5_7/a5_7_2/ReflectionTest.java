@@ -48,6 +48,7 @@ public class ReflectionTest {
     /**
      * Prints all constructors of a class
      * 打印一个类的所有构造函数
+     *
      * @param cl
      */
     public static void printConstructors(Class cl) {
@@ -73,6 +74,7 @@ public class ReflectionTest {
     /**
      * Prints all methods of a class
      * 打印类的所有方法
+     *
      * @param cl a class
      */
     public static void printMethods(Class cl) {
@@ -99,6 +101,7 @@ public class ReflectionTest {
 
     /**
      * Prints all fields of a class
+     *
      * @param cl a class
      */
     public static void printFields(Class cl) {

@@ -16,7 +16,7 @@ public class Test {
 
     private static int test1() {
         int i = 1;
-        try{
+        try {
             return i;
         } catch (Exception e) {
             e.printStackTrace();
@@ -28,26 +28,26 @@ public class Test {
 
     private static int test2() {
         int i = 1;
-        try{
+        try {
             return i;
-        }catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
-        }finally {
+        } finally {
             i = 0;
             return i;
         }
     }
 
     private static User test3() {
-       User user = new User("u1");
-       try{
-           return user;
-       } catch (Exception e){
-           e.printStackTrace();
-       }finally {
-           user = new User("u2");
-       }
-       return null;
+        User user = new User("u1");
+        try {
+            return user;
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            user = new User("u2");
+        }
+        return null;
     }
 
     private static User test4() {
