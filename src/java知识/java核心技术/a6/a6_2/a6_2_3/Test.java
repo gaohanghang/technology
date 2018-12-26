@@ -1,7 +1,7 @@
 package java知识.java核心技术.a6.a6_2.a6_2_3;
 
 
-import java知识.java核心技术.a6.a6_1_1.Employee;
+import java知识.java核心技术.a6.a6_1.a6_1_1.Employee;
 
 import java.util.Arrays;
 

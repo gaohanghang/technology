@@ -2,583 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_2/LambdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_4/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_4/TimedGreeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_5/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_6/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_6/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_7/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/TalkingClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Servlet3/src/main/java/com/example/demo/IndexServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet3/src/main/java/com/example/demo/IndexServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Servlet3/src/main/java/com/example/demo/IndexThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet3/src/main/java/com/example/demo/IndexThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServletDemo1/src/gacl/servlet/study/ServletConfigDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServletDemo1/src/gacl/servlet/study/ServletConfigDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServletDemo1/src/gacl/servlet/study/ServletDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServletDemo1/src/gacl/servlet/study/ServletDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServletDemo1/src/gacl/servlet/study/ServletDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServletDemo1/src/gacl/servlet/study/ServletDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServletDemo1/src/gacl/servlet/study/ServletDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServletDemo1/src/gacl/servlet/study/ServletDemo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cglibTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cglibTest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cglibTest/src/main/java/project/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cglibTest/src/main/java/project/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/girl/src/main/java/com/imooc/GirlApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/girl/src/main/java/com/imooc/GirlApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/girl/src/main/java/com/imooc/GirlController.java" beforeDir="false" afterPath="$PROJECT_DIR$/girl/src/main/java/com/imooc/GirlController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/girl/src/main/java/com/imooc/GirlRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/girl/src/main/java/com/imooc/GirlRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/girl/src/main/java/com/imooc/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/girl/src/main/java/com/imooc/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu_mysql/src/main/java/com/itmayiedu/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu_mysql/src/main/java/com/itmayiedu/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itmayiedu_mysql/src/main/java/com/itmayiedu/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itmayiedu_mysql/src/main/java/com/itmayiedu/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-default-methods/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-default-methods/src/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-default-methods/src/conflict/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-default-methods/src/conflict/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/Jdk7/NumericUnderline.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/Jdk7/NumericUnderline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/Jdk7/SwitchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/Jdk7/SwitchString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/Jdk7/TryWithResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/Jdk7/TryWithResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/Jdk7/try_with_resource/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/Jdk7/try_with_resource/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/Jdk7/try_with_resource/TryWithResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/Jdk7/try_with_resource/TryWithResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk5/Concurrent.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk5/Concurrent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk5/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk5/Generic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk5/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk5/VarArgs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk5/可变参数方法/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk5/可变参数方法/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk6/CompilerAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk6/CompilerAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk6/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk6/Console.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk6/HttpServerAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk6/HttpServerAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk6/ScriptEngineDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk6/ScriptEngineDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/Base64Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/Base64Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/DateTimeAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-growing/src/jdk8/DateTimeAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-lambda/src/lession1/FilterProjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-lambda/src/lession1/FilterProjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-lambda/src/lession1/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-lambda/src/lession1/Project.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-lambda/src/lession2/FunctionalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-lambda/src/lession2/FunctionalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-lambda/src/lesson3/ConstructorReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-lambda/src/lesson3/ConstructorReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-lambda/src/lesson3/LambdaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-lambda/src/lesson3/LambdaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-lambda/src/lesson3/LambdaExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-lambda/src/lesson3/LambdaExceptionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-lambda/src/lesson3/Lambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-lambda/src/lesson3/Lambdas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-lambda/src/lesson3/OtherReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-lambda/src/lesson3/OtherReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-optional/src/OptionalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-optional/src/OptionalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-stream/src/lesson1/java8.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-stream/src/lesson1/java8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/java8-stream/src/lesson1/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/java8-stream/src/lesson1/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/lambda exception in java 8/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/lambda exception in java 8/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/lambda exception in java 8/LambdaExceptionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/lambda exception in java 8/LambdaExceptionUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/lambda exception in java 8/Unchecked.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/lambda exception in java 8/Unchecked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java8/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/exer/TestLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/exer/TestLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/FilterEmployeeByAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/FilterEmployeeByAge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/FilterEmployeeBySalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/FilterEmployeeBySalary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestLambda3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestLambda3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestMethodRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestMethodRef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestOptional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestStreamAPI1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestStreamAPI1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestStreamAPI2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestStreamAPI2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestStreamAPI3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day01/com/atguigu/java8/TestStreamAPI3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/exer/TestStreamAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/exer/TestStreamAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/DateFormatThreadLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/DateFormatThreadLocal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/ForkJoinCalculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/ForkJoinCalculate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/MyFun.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/MyFun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/MyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/SubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/SubClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/TestAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/TestAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/TestForkJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/TestForkJoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/TestLocalDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/TestLocalDateTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/TestSimpleDateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/day02/com/atduigu/java8/TestSimpleDateFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/java8并发/ExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/java8并发/ExecutorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/java8日期/InstantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/java8日期/InstantTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/java8日期/LocalDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/java8日期/LocalDateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/java8日期/LocalTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/java8日期/LocalTimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/java8日期/TimeDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/java8日期/TimeDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/java8日期/ZonedDateTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/java8日期/ZonedDateTimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/数组和list相互转换/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/数组和list相互转换/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/跟上Java8日期和时间实用技巧/LocalDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/跟上Java8日期和时间实用技巧/LocalDateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openresty/src/main/java/com/smartisan/common/ResponseResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/openresty/src/main/java/com/smartisan/common/ResponseResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openresty/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/openresty/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/Singleton05$Lazy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/Singleton05$Lazy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/Singleton05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/Singleton05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/JavaEE/Servlet/emailFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/JavaEE/Servlet/emailFormat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/IO流/BIO/FirstClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/IO流/BIO/FirstClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/IO流/BIO/FirstServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/IO流/BIO/FirstServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/IO流/BIO/SecondServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/IO流/BIO/SecondServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/IO流/BIO/ServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/IO流/BIO/ServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/IO流/IO流的关闭/CloseIOStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/IO流/IO流的关闭/CloseIOStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/IO流/NIO/NIOServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/IO流/NIO/NIOServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/JVM/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/JVM/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/Java基础知识/单例模式/Java利用枚举实现单例模式/Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/Java基础知识/单例模式/Java利用枚举实现单例模式/Type.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/Java基础知识/单例模式/Java利用枚举实现单例模式/Type2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/Java基础知识/单例模式/Java利用枚举实现单例模式/Type2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Bowl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Bowl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Cup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Cup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Cupboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Cupboard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Cups.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Cups.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/ExplicitStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/ExplicitStatic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/House.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Mug.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Mug.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Mugs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Mugs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/OrderOfInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/OrderOfInitialization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/StaticInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/StaticInitialization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/关键字/static初始化顺序/Table.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/多线程/SaleTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/多线程/SaleTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/多线程马士兵/a002/T.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/多线程马士兵/a002/T.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/工具类/HttpAsyn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/工具类/HttpAsyn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/常用接口/Comparable和Comparator的区别/ComparableTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/常用接口/Comparable和Comparator的区别/ComparableTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/常用接口/Comparable和Comparator的区别/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/常用接口/Comparable和Comparator的区别/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/开源工具包/CharSetUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/开源工具包/CharSetUtilsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/开源工具包/StringUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/开源工具包/StringUtilsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/异常/trycatchfinally/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/异常/trycatchfinally/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/异常/trycatchfinally/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/异常/trycatchfinally/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/异常/trycatchfinally/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/异常/trycatchfinally/Test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/异常/自定义异常/BatteryUsageException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/异常/自定义异常/BatteryUsageException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/异常/自定义异常/Java自定义异常_优雅的处理异常/OrderExceptionEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/异常/自定义异常/Java自定义异常_优雅的处理异常/OrderExceptionEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/泛型/泛型的定义和使用/Sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/泛型/泛型的定义和使用/Sub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/集合/HashSetL_LinkedHashSet_TreeSet区别/SetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/Java基础/集合/HashSetL_LinkedHashSet_TreeSet区别/SetDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/公众号/Hollis/a3_10/User2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/公众号/Hollis/a3_10/User2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/公众号/Hollis/a3_15/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/公众号/Hollis/a3_15/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/公众号/Java技术栈/a2018/a5_29/Super.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/公众号/Java技术栈/a2018/a5_29/Super.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/掘金/随机数使用不当引起的生产bug/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/掘金/随机数使用不当引起的生产bug/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/piStream2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/piStream2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a104/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a104/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a129获取注解中的值/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a129获取注解中的值/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a129获取注解中的值/clz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a129获取注解中的值/clz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a44comparator接口与Comparable接口的区别/ComparatorTest/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a44comparator接口与Comparable接口的区别/ComparatorTest/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a44comparator接口与Comparable接口的区别/ComparatorTest/PersonComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a44comparator接口与Comparable接口的区别/ComparatorTest/PersonComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a44comparator接口与Comparable接口的区别/comparableTest/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a44comparator接口与Comparable接口的区别/comparableTest/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a72什么是异常链/TestChainedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/知识星球/直面java/a72什么是异常链/TestChainedException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/ArraysTest/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/ArraysTest/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/ArraysTest/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/ArraysTest/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/ArraysTest/MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/ArraysTest/MyComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/BigDecimal/BigDecimalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/BigDecimal/BigDecimalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/IO/NonblockingServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/IO/NonblockingServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/java8时间API/LocalDateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/java8时间API/LocalDateTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/volatileTest/AddCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/volatileTest/AddCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/volatileTest/ChangeFlag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/volatileTest/ChangeFlag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/volatileTest/Demand01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/volatileTest/Demand01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/序列化/test3/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/序列化/test3/People.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/序列化/test3/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/序列化/test3/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/集合/List/ArrayListDemo/ArrayListImplement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/集合/List/ArrayListDemo/ArrayListImplement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/集合/List/LinkedListDemo/a206/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/集合/List/LinkedListDemo/a206/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/集合/List/LinkedListDemo/a206/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/集合/List/LinkedListDemo/a206/ReverseList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/DuoTaiDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/DuoTaiDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/DuoTaiDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/DuoTaiDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/DuoTaiDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/DuoTaiDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/DuoTaiDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/DuoTaiDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/Fu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/Fu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/KeyBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/KeyBoard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/NoteBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/NoteBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/NoteBookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/NoteBookTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/Zi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/Zi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/毕姥爷.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/毕姥爷.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/毕老师.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java基础/面向对象/多态/毕老师.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/Java多线程/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/Java多线程/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/单例模式的五种方式/Singleton04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/单例模式的五种方式/Singleton04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/单例模式的五种方式/Singleton05$Lazy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/单例模式的五种方式/Singleton05$Lazy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/单例模式的五种方式/Singleton05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/单例模式的五种方式/Singleton05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/图解设计模式/第21章_Proxy模式/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/图解设计模式/第21章_Proxy模式/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/图解设计模式/第5章_Singleton_模式/代码/A5_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/图解设计模式/第5章_Singleton_模式/代码/A5_3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/图解设计模式/第5章_Singleton_模式/代码/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/图解设计模式/第5章_Singleton_模式/代码/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/图解设计模式/第二章_适配器模式/Banner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/图解设计模式/第二章_适配器模式/Banner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/二叉树/DinBinaryTree/BinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/二叉树/DinBinaryTree/BinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/二叉树/DinBinaryTree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/二叉树/DinBinaryTree/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/二叉树/DinBinaryTree/SearchBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/二叉树/DinBinaryTree/SearchBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/二叉树/DinBinaryTree/SearchBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/二叉树/DinBinaryTree/SearchBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/单链表/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/单链表/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a1_插入排序/HeerSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a1_插入排序/HeerSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a1_插入排序/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a1_插入排序/InsertSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a_选择排序/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a_选择排序/SelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/枚举单例写法/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/枚举单例写法/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HNFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HNFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HNGirl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HNGirl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HairFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HairFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/InHair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/InHair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/LeftHair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/LeftHair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/MCGirl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/MCGirl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/PropertiesReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/PropertiesReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式达内/代理模式/UserImpl2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/基础知识/设计模式达内/代理模式/UserImpl2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/工作/代码学习/Batch3SqlGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/工作/代码学习/Batch3SqlGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/工作/代码学习/DumpFuncs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/工作/代码学习/DumpFuncs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/工作/代码学习/dandelion/YmdHmsTimeFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/工作/代码学习/dandelion/YmdHmsTimeFormat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/工作/代码学习/dandelion/YmdTimeFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/工作/代码学习/dandelion/YmdTimeFormat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/工作/代码学习/dandelion/io/StreamWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/工作/代码学习/dandelion/io/StreamWriter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/牛客网/a2016校招真题在线编程/a2懂二进制/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/牛客网/a2016校招真题在线编程/a2懂二进制/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/牛客网/华为/a27密码验证合格程序/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/牛客网/华为/a27密码验证合格程序/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/牛客网/华为/a4字符串分隔/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/牛客网/华为/a4字符串分隔/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/王爵的技术小黑屋/javatips/debug/Example3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/王爵的技术小黑屋/javatips/debug/Example3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/王爵的技术小黑屋/web开发/p1/web-design-in-4-minutes.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/王爵的技术小黑屋/web开发/p1/web-design-in-4-minutes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/算法第四版/第一章/a1_1/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/算法第四版/第一章/a1_1/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/面试题/字符串/括号匹配检查/matchJudger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/面试题/字符串/括号匹配检查/matchJudger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/JavaStatic初始化顺序/A$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/JavaStatic初始化顺序/A$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/JavaStatic初始化顺序/A$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/JavaStatic初始化顺序/A$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/JavaStatic初始化顺序/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/JavaStatic初始化顺序/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/JavaStatic初始化顺序/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/JavaStatic初始化顺序/House.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/JavaStatic初始化顺序/OrderOfInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/JavaStatic初始化顺序/OrderOfInitialization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/ValHold.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/ValHold.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/staticSynchronized和synchronized的区别/Something.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/面试题/网易面试题/staticSynchronized和synchronized的区别/Something.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_10/Example7.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_10/Example7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11/Example1.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11/Example1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11/Example3.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11/Example3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11new/Example1.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11new/Example1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_12/Example1.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_12/Example1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_12new/Example1.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_12new/Example1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_param/src/main/java/com/example/demo/controller/ParamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_param/src/main/java/com/example/demo/controller/ParamController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_param/src/main/java/com/example/demo/pojo/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_param/src/main/java/com/example/demo/pojo/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_param/src/main/java/com/example/demo/pojo/Link.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_param/src/main/java/com/example/demo/pojo/Link.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springmvc_param/src/main/java/com/example/demo/pojo/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc_param/src/main/java/com/example/demo/pojo/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fastjson/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fastjson/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/idea快捷键/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/idea快捷键/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/JavaEE/Servlet/emailFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/JavaEE/Servlet/emailFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/IO流/BIO/FirstClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/IO流/BIO/FirstClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/IO流/BIO/FirstServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/IO流/BIO/FirstServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/IO流/BIO/SecondServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/IO流/BIO/SecondServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/IO流/BIO/ServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/IO流/BIO/ServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/IO流/BIO/ThirdServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/IO流/BIO/ThirdServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/IO流/IO流的关闭/CloseIOStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/IO流/IO流的关闭/CloseIOStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/IO流/IO流的关闭/CloseIOStream2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/IO流/IO流的关闭/CloseIOStream2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/IO流/NIO/NIOServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/IO流/NIO/NIOServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/JVM/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/JVM/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/aint和integer的区别/UseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/aint和integer的区别/UseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/两个Integer比较的问题/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/两个Integer比较的问题/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/两个Integer比较的问题/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/两个Integer比较的问题/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/单例模式/Java利用枚举实现单例模式/SomeThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/单例模式/Java利用枚举实现单例模式/SomeThing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/单例模式/Java利用枚举实现单例模式/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/单例模式/Java利用枚举实现单例模式/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/单例模式/Java利用枚举实现单例模式/Type2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/单例模式/Java利用枚举实现单例模式/Type2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/单例模式/Java利用枚举实现单例模式/Type3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/单例模式/Java利用枚举实现单例模式/Type3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/Java提高篇/Husband.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java提高篇/Husband.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/MD5/MD5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/MD5/MD5Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/关键字/finalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/关键字/finalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/关键字/static初始化顺序/ExplicitStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/关键字/static初始化顺序/ExplicitStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/关键字/static初始化顺序/Mugs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/关键字/static初始化顺序/Mugs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/关键字/static初始化顺序/OrderOfInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/关键字/static初始化顺序/OrderOfInitialization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/关键字/static初始化顺序/StaticInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/关键字/static初始化顺序/StaticInitialization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/多线程/SaleTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/多线程/SaleTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/多线程马士兵/a001/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/多线程马士兵/a001/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/多线程马士兵/a002/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/多线程马士兵/a002/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/多线程马士兵/a003/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/多线程马士兵/a003/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/工具类/HttpAsyn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/工具类/HttpAsyn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/常用接口/Comparable和Comparator的区别/ComparableTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/常用接口/Comparable和Comparator的区别/ComparableTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/开源工具包/ArrayUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/开源工具包/ArrayUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/开源工具包/CharSetUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/开源工具包/CharSetUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/开源工具包/StringUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/开源工具包/StringUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/开源工具包/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/开源工具包/TimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/异常/trycatchfinally/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/异常/trycatchfinally/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/异常/trycatchfinally/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/异常/trycatchfinally/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/异常/trycatchfinally/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/异常/trycatchfinally/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/异常/在Java中创建自定义异常/IncorrectFileExtensionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/异常/在Java中创建自定义异常/IncorrectFileExtensionException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/异常/在Java中创建自定义异常/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/异常/在Java中创建自定义异常/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/异常/自定义异常/Battery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/异常/自定义异常/Battery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/异常/自定义异常/BatteryUsageException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/异常/自定义异常/BatteryUsageException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/异常/自定义异常/Java自定义异常_优雅的处理异常/OrderExceptionEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/异常/自定义异常/Java自定义异常_优雅的处理异常/OrderExceptionEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/异常/自定义异常/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/异常/自定义异常/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/异常/自定义异常/demoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/异常/自定义异常/demoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/泛型/ToolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/泛型/ToolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/泛型/泛型擦除/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/泛型/泛型擦除/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/泛型/泛型的定义和使用/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/泛型/泛型的定义和使用/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/泛型/泛型的定义和使用/MultiType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/泛型/泛型的定义和使用/MultiType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/泛型/泛型的定义和使用/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/泛型/泛型的定义和使用/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/泛型/通配符/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/泛型/通配符/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/泛型/通配符/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/泛型/通配符/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/泛型/通配符/testWildCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/泛型/通配符/testWildCards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/集合/HashMap/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/集合/HashMap/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/集合/HashSetL_LinkedHashSet_TreeSet区别/SetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/集合/HashSetL_LinkedHashSet_TreeSet区别/SetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/集合/bit/HashMap/HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/集合/bit/HashMap/HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/集合/bit/HashMap/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/集合/bit/HashMap/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/Java基础/集合/bit/HashMap/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/Java基础/集合/bit/HashMap/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/TestReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/TestReplace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_3/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_5/LotteryDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_5/LotteryDrawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_6/CompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_6/CompoundInterest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_6/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_7/LotteryArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_7/LotteryArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_4_2/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_4_2/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_5_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_5_3/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_5_7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_5_7/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/s3_5_9/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/s3_5_9/Size.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_3/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_3/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_4/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_5/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_6/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_7/a3_7_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_7/a3_7_1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_7/a3_7_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_7/a3_7_2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_4/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_5/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_6/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_9/BigIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_9/BigIntegerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_9/a3_9_1/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_9/a3_9_1/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_4/a4_4_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_4/a4_4_1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_5/ParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_5/ParamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/ConstructorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_7/a4_7_2/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_7/a4_7_2/PackageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_1/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_1/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/ArrayListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_5/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_2/ReflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_2/ReflectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_4/ObjectAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_4/ObjectAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_4/a5_7_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_4/a5_7_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_5/CopyOfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_5/CopyOfTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_5/MethodTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_5/MethodTableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_6/MethodTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_6/MethodTableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_1/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_2/Powered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_2/Powered.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_5/MouseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_5/MouseListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Named.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Named.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_1/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_1/TimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_1/EmployeeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_1/EmployeeSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_2/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_2/Moveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_2/Powered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_2/Powered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_5/MouseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_5/MouseListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Named.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_6/Named.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_6/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_6/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_6/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_3/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2_28/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2_28/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a3_10/ExternalizableDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a3_10/ExternalizableDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a3_10/SerializableDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a3_10/SerializableDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a3_10/User2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a3_10/User2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a3_15/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a3_15/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a3_22/VarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a3_22/VarDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a4_27/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a4_27/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a5_20/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a5_20/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java团长/a6_15/ResponseDemo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java团长/a6_15/ResponseDemo03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2017/a5_28try_finally/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2017/a5_28try_finally/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2017/a5_28try_finally/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2017/a5_28try_finally/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2017/a9_13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2017/a9_13/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a4_23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a4_23/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a5_14/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a5_14/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a5_29/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a5_29/Sub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a5_29/Super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a5_29/Super.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a5_29/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a5_29/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a5_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a5_4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a7_13/TestArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a7_13/TestArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a7_23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a7_23/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java联盟/sortMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java联盟/sortMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/Java联盟/sortMethods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/Java联盟/sortMethods2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/java3y/阿里巴巴Java开发手册读后感/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/java3y/阿里巴巴Java开发手册读后感/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/java3y/阿里巴巴Java开发手册读后感/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/java3y/阿里巴巴Java开发手册读后感/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/ThreadB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/a2/ThreadB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/程序员小灰/协程/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/程序员小灰/协程/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/程序员小灰/协程/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/程序员小灰/协程/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/Rentcar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/Rentcar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/Test19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/Test19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestContinue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestIfElseIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestIfElseIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestLabelContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestLabelContinue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestRecursion01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句/TestRecursion01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/java300讲/testwrappedclass/cn/bjsxt/test/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/java300讲/testwrappedclass/cn/bjsxt/test/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/javase/TestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/javase/TestException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/StartThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/StartThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/掘金/随机数使用不当引起的生产bug/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/掘金/随机数使用不当引起的生产bug/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/java编译与反编译/switchSDemoInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/java编译与反编译/switchSDemoInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/CollectStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/CollectStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/GroupByStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/GroupByStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/sumPerformance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/Java8中stream相关用法/sumPerformance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/PiStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/PiStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/piStream2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/java8新特性全新的StreamAPI/piStream2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/成神之路/第014期Stream相关/使用Java8Stream像操作SQL一样处理数据/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a104/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a104/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/EnumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a118Java枚举继承问题/单例模式的七种写法/Singleton8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a129获取注解中的值/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a129获取注解中的值/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a146Java中创建对象的方法有几种/CloneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a146Java中创建对象的方法有几种/CloneTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a44comparator接口与Comparable接口的区别/ComparatorTest/ComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a44comparator接口与Comparable接口的区别/ComparatorTest/ComparatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a44comparator接口与Comparable接口的区别/comparableTest/ComparableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a44comparator接口与Comparable接口的区别/comparableTest/ComparableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a53Java中遍历Map的几种方式/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a53Java中遍历Map的几种方式/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a72什么是异常链/TestChainedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a72什么是异常链/TestChainedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a74trycatch/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/知识星球/直面java/a74trycatch/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/ArraysTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/ArraysTest/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/ArraysTest/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/ArraysTest/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/ArraysTest/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/ArraysTest/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/BigDecimal/BigDecimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/BigDecimal/BigDecimalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/IO/NonblockingServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/IO/NonblockingServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a4读写文件/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/IO/java的IO_Socket笔试题/a4读写文件/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/String为什么是不可变的/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/String为什么是不可变的/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/java8时间API/DateFormatToInstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/java8时间API/DateFormatToInstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/java8时间API/DateTimeFormatterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/java8时间API/DateTimeFormatterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/java8时间API/LocalDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/java8时间API/LocalDateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/volatileTest/Demand01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/volatileTest/Demand01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/volatileTest/Demand02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/volatileTest/Demand02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/字符与字节的编码/Hel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/字符与字节的编码/Hel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/序列化/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/序列化/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/序列化/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/序列化/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/序列化/test3/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/序列化/test3/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/空指针处理/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/空指针处理/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/ArrayListDemo/ArrayListImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/ArrayListDemo/ArrayListImplement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/ArrayListDemo/RandomAccessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/ArrayListDemo/RandomAccessTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/ArrayListDemo/RandomAccessTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/ArrayListDemo/RandomAccessTimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/ArrayListDemo/StartArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/ArrayListDemo/StartArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/LinkedListDemo/a206/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/LinkedListDemo/a206/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/LinkedListDemo/a206/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/LinkedListDemo/a206/ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/List全了解/ListArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/List全了解/ListArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/集合/差集/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/集合/差集/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/多态/DuoTaiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/多态/DuoTaiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/多态/DuoTaiDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/多态/DuoTaiDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/多态/NoteBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/多态/NoteBookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/Java多线程/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java多线程/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/单例模式的五种方式/Singleton04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/单例模式的五种方式/Singleton04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/单例模式的五种方式/Singleton05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/单例模式的五种方式/Singleton05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/图解设计模式/第21章_Proxy模式/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/图解设计模式/第21章_Proxy模式/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/图解设计模式/第3章TeamplateMethod模式/AbstractDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/图解设计模式/第3章TeamplateMethod模式/AbstractDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/图解设计模式/第3章TeamplateMethod模式/CharDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/图解设计模式/第3章TeamplateMethod模式/CharDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/图解设计模式/第5章_Singleton_模式/代码/A5_1/TicketMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/图解设计模式/第5章_Singleton_模式/代码/A5_1/TicketMaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/图解设计模式/第5章_Singleton_模式/代码/A5_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/图解设计模式/第5章_Singleton_模式/代码/A5_3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/图解设计模式/第5章_Singleton_模式/代码/A5_3/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/图解设计模式/第5章_Singleton_模式/代码/A5_3/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/图解设计模式/第5章_Singleton_模式/代码/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/图解设计模式/第5章_Singleton_模式/代码/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/图解设计模式/第一部分_适应设计模式/第二章_Adapter模式/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/图解设计模式/第一部分_适应设计模式/第二章_Adapter模式/Print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/图解设计模式/第一部分_适应设计模式/第二章_Adapter模式/PrintBanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/图解设计模式/第一部分_适应设计模式/第二章_Adapter模式/PrintBanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/图解设计模式/第二章_适配器模式/Banner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/图解设计模式/第二章_适配器模式/Banner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/二叉树/DinBinaryTree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/二叉树/DinBinaryTree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/二叉树/DinBinaryTree/SearchBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/二叉树/DinBinaryTree/SearchBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/单链表/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/单链表/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a1_插入排序/BinaryInsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a1_插入排序/BinaryInsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a1_插入排序/HeepSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a1_插入排序/HeepSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a1_插入排序/HeerSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a1_插入排序/HeerSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a1_插入排序/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a1_插入排序/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a_选择排序/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/数据结构/Java版数据结构与算法/算法/排序算法/a_选择排序/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/枚举单例写法/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/枚举单例写法/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/枚举单例写法/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/枚举单例写法/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/算法/数据结构与算法基础java版/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/算法/数据结构与算法基础java版/TestArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/算法/第二章排序/a2_1初级排序算法/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/算法/第二章排序/a2_1初级排序算法/Selection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/Boy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/Boy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/Girl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/Girl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HNBoy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HNBoy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HNFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HNFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HNGirl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HNGirl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HairFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HairFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HairInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/HairInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/InHair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/InHair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/LeftHair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/LeftHair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/MCFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/MCFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/MCGirl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/MCGirl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/PersonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/PersonFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/PropertiesReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/PropertiesReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/RightHair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式_慕课版/工厂模式/代码/com/sunny/project/RightHair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式达内/代理模式/UserImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式达内/代理模式/UserImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式达内/代理模式/UserImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式达内/代理模式/UserImpl2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式达内/代理模式/静态代理实现/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式达内/代理模式/静态代理实现/HelloServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式达内/代理模式/静态代理实现/HelloServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式达内/代理模式/静态代理实现/HelloServiceProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作/代码学习/Batch3SqlGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作/代码学习/Batch3SqlGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作/代码学习/Controller/DumpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作/代码学习/Controller/DumpController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作/代码学习/DumpFuncs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作/代码学习/DumpFuncs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作/代码学习/dandelion/IsoTimeFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作/代码学习/dandelion/IsoTimeFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作/代码学习/dandelion/TimeFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作/代码学习/dandelion/TimeFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作/代码学习/dandelion/YmdHmsTimeFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作/代码学习/dandelion/YmdHmsTimeFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作/代码学习/dandelion/YmdTimeFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作/代码学习/dandelion/YmdTimeFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作/代码学习/dandelion/io/StreamWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作/代码学习/dandelion/io/StreamWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/工作/代码学习/峰姐/updataRoomstatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/工作/代码学习/峰姐/updataRoomstatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/清华数据结构算法/a01/HailstoneSequence/HailstoneSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/清华数据结构算法/a01/HailstoneSequence/HailstoneSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/a2016校招真题在线编程/a2懂二进制/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/a2016校招真题在线编程/a2懂二进制/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/a2017校招真题在线编程/句子反转/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/a2017校招真题在线编程/句子反转/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a0Scanner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a0Scanner/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a12句子逆序/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a12句子逆序/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a14求int型正整数在内存中存储时1的个数/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a14求int型正整数在内存中存储时1的个数/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a1字符串最后一个单词的长度/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a1字符串最后一个单词的长度/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a22删除字符串中出现次数最少的字符/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a22删除字符串中出现次数最少的字符/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a26简单错误记录/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a26简单错误记录/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a26简单错误记录/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a26简单错误记录/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a27密码验证合格程序/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a27密码验证合格程序/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a2计算字符个数/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a2计算字符个数/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a30删除字符串中出现次数最少的字符/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a30删除字符串中出现次数最少的字符/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a33字符串排序/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a33字符串排序/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a3明明的随机数/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a3明明的随机数/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a4字符串分隔/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a4字符串分隔/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a5进制转换/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a5进制转换/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a6质数因子/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a6质数因子/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a7取近似值/MainRound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a7取近似值/MainRound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a8合并表记录/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a8合并表记录/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a9提取不重复的整数/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a9提取不重复的整数/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/华为/a9提取不重复的整数/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/华为/a9提取不重复的整数/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客网/试题广场/a替换空格/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客网/试题广场/a替换空格/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/王爵的技术小黑屋/javatips/debug/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/王爵的技术小黑屋/javatips/debug/Example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/王爵的技术小黑屋/web开发/p1/web-design-in-4-minutes.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/王爵的技术小黑屋/web开发/p1/web-design-in-4-minutes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/算法第四版/第一章/a1_1/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/算法第四版/第一章/a1_1/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/算法第四版/第一章/a1_3/a1_3_1_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/算法第四版/第一章/a1_3/a1_3_1_5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/字符串/括号匹配检查/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/面试题/字符串/括号匹配检查/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/字符串/括号匹配检查/matchJudger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/面试题/字符串/括号匹配检查/matchJudger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/网易面试题/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/面试题/网易面试题/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/网易面试题/JavaStatic初始化顺序/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/面试题/网易面试题/JavaStatic初始化顺序/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/网易面试题/JavaStatic初始化顺序/OrderOfInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/面试题/网易面试题/JavaStatic初始化顺序/OrderOfInitialization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/网易面试题/JavaStatic初始化顺序/StaticInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/面试题/网易面试题/JavaStatic初始化顺序/StaticInitialization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/网易面试题/Obparm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/面试题/网易面试题/Obparm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/网易面试题/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/面试题/网易面试题/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/网易面试题/a15/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/面试题/网易面试题/a15/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/面试题/网易面试题/staticSynchronized和synchronized的区别/Something.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/面试题/网易面试题/staticSynchronized和synchronized的区别/Something.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_02/Coder.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_02/Coder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_02/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_02/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_02/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_02/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_03/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_03/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_03/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_03/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_03/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_03/Example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_03/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_03/Example4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_03/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_03/Example6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_04/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_04/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_05/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_05/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_05/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_05/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_05/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_05/Example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_05/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_05/Example4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_05/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_05/Example5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_05/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_05/Example6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_06/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_06/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_06new/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_06new/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_06new/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_06new/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_06new/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_06new/Example5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_06new/Example7.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_06new/Example7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_07/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_07/Example10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_07/Example12.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_07/Example12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_08/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_08/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_08/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_08/Example4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_08/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_08/Example5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_09/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_09/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_09/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_09/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_09/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_09/Example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_09/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_09/Example6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_10/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_10/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_10/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_10/Example5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_10/Example7.html" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_10/Example7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11/Example1.js" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11/Example1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11/Example3.js" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11/Example3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11/Example4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11new/Example1.js" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11new/Example1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11new/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11new/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11new/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11new/Example4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11new/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_11new/Example6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_12/Example1.js" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_12/Example1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_12/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_12/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_12/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_12/Example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_13/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_13/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_13/Example2.js" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_13/Example2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_14/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_14/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_14/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_14/Example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_14/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_14/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_2/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_2/LambdaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_4/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_4/Greeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_4/TimedGreeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_4/TimedGreeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_5/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_5/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_6/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_6/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_7/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_7/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_7/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglibTest/target/" />
     <ignored path="$PROJECT_DIR$/openresty/target/" />
@@ -615,23 +66,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_7/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_3/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="390">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding>
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_7/Test2.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_7/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_7/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="e#222#223#0" expanded="true" />
                 <element signature="e#246#247#0" expanded="true" />
@@ -642,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_8.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_2/LambdaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -655,77 +114,68 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_1/EmployeeSortTest.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_3/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="240">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_1/Manager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/Manager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/Manager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/TestReplace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="355" column="66" selection-start-line="355" selection-start-column="66" selection-end-line="355" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_5/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/TalkingClock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_5/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
+                <element signature="e#362#363#0" expanded="true" />
                 <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
                 <element signature="e#623#624#0" expanded="true" />
                 <element signature="e#656#657#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Person.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -776,14 +226,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/EqualsTest.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_1/Employee.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/Emplyee.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/Employee.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/Manager.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/ArrayListTest.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_4/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_5/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_6/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_6/Size.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_6/EnumTest.java" />
@@ -827,6 +269,14 @@
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_7/Test2.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_5/Person.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_8.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_8/a6_3_8.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/a6_4_1.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/Test.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/TalkingClock.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Person.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Test.java" />
       </list>
     </option>
   </component>
@@ -850,8 +300,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="128" />
-    <option name="y" value="36" />
+    <option name="x" value="206" />
+    <option name="y" value="23" />
     <option name="width" value="1398" />
     <option name="height" value="783" />
   </component>
@@ -958,6 +408,54 @@
               <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
+              <item name="a6" type="462c0819:PsiDirectoryNode" />
+              <item name="a6_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
+              <item name="a6" type="462c0819:PsiDirectoryNode" />
+              <item name="a6_3" type="462c0819:PsiDirectoryNode" />
+              <item name="a6_3_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
+              <item name="a6" type="462c0819:PsiDirectoryNode" />
+              <item name="a6_3" type="462c0819:PsiDirectoryNode" />
+              <item name="a6_3_8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
+              <item name="a6" type="462c0819:PsiDirectoryNode" />
+              <item name="a6_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="java核心技术" type="462c0819:PsiDirectoryNode" />
+              <item name="a6" type="462c0819:PsiDirectoryNode" />
+              <item name="a6_4" type="462c0819:PsiDirectoryNode" />
+              <item name="a6_4_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
               <item name="马士兵老师高并发编程系列" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1008,7 +506,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545740103355" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545788099263" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -1020,6 +518,7 @@
       <recent name="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java知识.java核心技术.a6.a6_3.a6_3_8" />
       <recent name="java知识.java核心技术.a6.a6_2.a6_3_5" />
       <recent name="" />
       <recent name="main.java.chapter_12" />
@@ -1042,52 +541,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test2">
-    <configuration name="LambdaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a6.a6_2.a6_3_2.LambdaTest" />
-      <module name="technology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java知识.java核心技术.a6.a6_2.a6_3_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a6.a6_2.a6_3_7.Test" />
-      <module name="technology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java知识.java核心技术.a6.a6_2.a6_3_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a6.a6_2.a6_3_6.Test" />
-      <module name="technology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java知识.java核心技术.a6.a6_2.a6_3_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a6.a6_2.a6_3_3.Test" />
+      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a6.a6_3.a6_3_3.Test" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.java核心技术.a6.a6_2.a6_3_3.*" />
+          <option name="PATTERN" value="java知识.java核心技术.a6.a6_3.a6_3_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1096,11 +556,50 @@
       </method>
     </configuration>
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a6.a6_2.a6_3_7.Test2" />
+      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a6.a6_3.a6_3_7.Test2" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.java核心技术.a6.a6_2.a6_3_7.*" />
+          <option name="PATTERN" value="java知识.java核心技术.a6.a6_3.a6_3_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a6.a6_3.a6_3_6.Test" />
+      <module name="technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java知识.java核心技术.a6.a6_3.a6_3_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a6.a6_3.a6_3_7.Test" />
+      <module name="technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java知识.java核心技术.a6.a6_3.a6_3_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术.a6.a6_3.a6_3_8.Test" />
+      <module name="technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java知识.java核心技术.a6.a6_3.a6_3_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1116,20 +615,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LambdaTest" />
       <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (3)" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.Test (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.LambdaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1207,14 +706,7 @@
       <workItem from="1545294751466" duration="29449000" />
       <workItem from="1545453208839" duration="1566000" />
       <workItem from="1545486320358" duration="16393000" />
-      <workItem from="1545648240416" duration="21552000" />
-    </task>
-    <task id="LOCAL-00001" summary="更新">
-      <created>1536395809116</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1536395809117</updated>
+      <workItem from="1545648240416" duration="23779000" />
     </task>
     <task id="LOCAL-00002" summary="更新">
       <created>1536398817568</created>
@@ -1552,7 +1044,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545645460464</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="java核心技术学习">
+      <created>1545740304226</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1545740304227</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1561,7 +1060,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="479890000" />
+    <option name="totallyTimeSpent" value="482117000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1573,7 +1072,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="128" y="36" width="1398" height="783" extended-state="0" />
+    <frame x="206" y="23" width="1398" height="783" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.20058997" />
       <window_info id="Structure" order="1" sideWeight="0.50239235" side_tool="true" weight="0.22103004" />
@@ -1585,8 +1085,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296875" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.19826339" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38921282" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.19826339" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3878437" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1690,35 +1190,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_4/ObjectAnalyzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/reflect/Field.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2100">
-          <caret line="180" column="15" selection-start-line="180" selection-start-column="15" selection-end-line="180" selection-end-column="15" />
-          <folding>
-            <element signature="e#5730#5731#0" expanded="true" />
-            <element signature="e#5762#5763#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6930">
-          <caret line="529" column="30" selection-start-line="529" selection-start-column="30" selection-end-line="529" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1.java" />
     <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_6/MethodTableTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -1729,21 +1200,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_2/Moveable.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_2/Moveable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_2/Powered.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_2/Powered.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_4/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_4/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
@@ -1753,28 +1224,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_5/MouseListener.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_5/MouseListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_5/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_5/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_6/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Named.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_6/Named.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="6" />
@@ -1793,7 +1264,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_6/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
@@ -1804,7 +1275,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_6/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_6/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
@@ -1812,13 +1283,6 @@
             <element signature="e#160#161#0" expanded="true" />
             <element signature="e#221#222#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1855,37 +1319,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_3/CloneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20625">
           <caret line="1430" column="21" selection-start-line="1430" selection-start-column="20" selection-end-line="1430" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_3/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="61" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1910,7 +1347,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_1/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_1/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
@@ -1943,34 +1380,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_2/LambdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_4/TimedGreeter.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_4/TimedGreeter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_4/Greeter.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_4/Greeter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
@@ -1981,7 +1398,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_4/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_4/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
@@ -2009,7 +1426,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_6/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_6/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
@@ -2021,48 +1438,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_6/Application.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_6/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_5/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_5/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_7/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_5/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2074,7 +1462,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1_1/EmployeeSortTest.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_1/EmployeeSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
@@ -2109,10 +1497,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_7/Test2.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_3/CloneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_3/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="61" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_3/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_2/LambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_3/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_7/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_7/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="e#222#223#0" expanded="true" />
             <element signature="e#246#247#0" expanded="true" />
@@ -2122,10 +1571,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_3_8.java">
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/TalkingClock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_5/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Person.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
