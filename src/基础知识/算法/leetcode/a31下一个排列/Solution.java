@@ -15,7 +15,6 @@ public class Solution {
     // 15847558
     public void nextPermutation(int[] nums) {
         int i = nums.length - 2;
-
     }
 
     private void reverse(int[] nums, int start) {

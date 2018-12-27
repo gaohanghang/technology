@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/InnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/TalkingClock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/马士兵老师高并发编程系列/yxxy/c_008/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/马士兵老师高并发编程系列/yxxy/c_008/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/基础知识/算法/leetcode/a31下一个排列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/算法/leetcode/a31下一个排列/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglibTest/target/" />
@@ -44,11 +40,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-264">
-              <caret line="17" column="50" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="50" />
+            <state relative-caret-position="15">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,11 +52,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/基础知识/算法/leetcode/a31下一个排列/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
+            <state relative-caret-position="416">
               <caret line="55" column="20" selection-start-line="55" selection-end-line="56" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -234,7 +234,6 @@
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Test.java" />
         <option value="$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Test.java" />
         <option value="$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/两数之和.md" />
-        <option value="$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution.java" />
         <option value="$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution2.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/TalkingClock.java" />
         <option value="$PROJECT_DIR$/src/java知识/马士兵老师高并发编程系列/yxxy/c_008/Account.java" />
@@ -248,6 +247,7 @@
         <option value="$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution3.java" />
         <option value="$PROJECT_DIR$/src/基础知识/算法/leetcode/a283移动零/Solution.java" />
         <option value="$PROJECT_DIR$/src/基础知识/算法/leetcode/a31下一个排列/Solution.java" />
+        <option value="$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution.java" />
       </list>
     </option>
   </component>
@@ -435,7 +435,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545886531803" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545900838803" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -648,14 +648,7 @@
       <workItem from="1545294751466" duration="29449000" />
       <workItem from="1545453208839" duration="1566000" />
       <workItem from="1545486320358" duration="16393000" />
-      <workItem from="1545648240416" duration="63064000" />
-    </task>
-    <task id="LOCAL-00005" summary=":ok_hand: 编写可读代码的艺术">
-      <created>1537008286338</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1537008286338</updated>
+      <workItem from="1545648240416" duration="64583000" />
     </task>
     <task id="LOCAL-00006" summary=":ok_hand: 编写可读代码的艺术">
       <created>1537116635937</created>
@@ -993,7 +986,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545886529401</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="java核心技术学习">
+      <created>1545886618247</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1545886618247</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1002,7 +1002,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="521402000" />
+    <option name="totallyTimeSpent" value="522921000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1015,6 +1015,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="26" width="1398" height="743" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.20058997" />
       <window_info id="Structure" order="1" sideWeight="0.50239235" side_tool="true" weight="0.22103004" />
@@ -1073,10 +1074,10 @@
     <MESSAGE value=":bento: Java学习" />
     <MESSAGE value="java核心技术学习 数组" />
     <MESSAGE value="java核心技术学习 对象克隆" />
-    <MESSAGE value="java核心技术学习" />
     <MESSAGE value="leetcode刷题 1. 两数数之和" />
     <MESSAGE value="leetcode算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode算法" />
+    <MESSAGE value="java核心技术学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="java核心技术学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1490,16 +1491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="17" column="50" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-158">
@@ -1534,16 +1525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="55" column="20" selection-start-line="55" selection-end-line="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/基础知识/算法/leetcode/a283移动零/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1554,7 +1535,31 @@
     <entry file="file://$PROJECT_DIR$/src/基础知识/算法/leetcode/a31下一个排列/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="55" column="20" selection-start-line="55" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/算法/leetcode/a1两数之和/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

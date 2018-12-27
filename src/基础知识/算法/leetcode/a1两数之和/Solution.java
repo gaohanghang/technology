@@ -11,11 +11,7 @@ import java.util.Map;
  */
 public class Solution {
     public static void main(String[] args) {
-        int[] nums = {2, 7, 11, 15};
-        int target = 9;
 
-        int[] ints = towSum3(nums, target);
-        System.out.println(Arrays.toString(ints));
     }
 
     // 方法一：暴力法 时间复杂度是o(n^2) 空间复杂度是o(1)
