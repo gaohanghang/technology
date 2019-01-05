@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/GenderEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/GenderEnumImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/GenderInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/SeasonEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/Test.java" afterDir="false" />
+    <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="🍖 java基础枚举">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/SeasonEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/SeasonEnum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglibTest/target/" />
     <ignored path="$PROJECT_DIR$/openresty/target/" />
@@ -78,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_1/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <state relative-caret-position="225">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,17 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/SeasonEnum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -126,7 +111,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/GenderEnumImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -213,8 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/a6_4_1.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Person.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Test.java" />
@@ -256,14 +239,16 @@
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_5/a7_5_1/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_5/a7_5_2/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_5/LoggingImageViewer.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_1/Test.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/SeasonEnum.java" />
         <option value="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/GenderEnnum.java" />
         <option value="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/GenderEnum.java" />
         <option value="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/GenderInfo.java" />
         <option value="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/README.md" />
         <option value="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/GenderEnumImpl.java" />
         <option value="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/Test.java" />
+        <option value="$PROJECT_DIR$/src/基础知识/Java基础/基础/SeasonEnum.java" />
+        <option value="$PROJECT_DIR$/src/基础知识/Java基础/基础/枚举/SeasonEnum.java" />
+        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_1/Test.java" />
+        <option value="$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/SeasonEnum.java" />
       </list>
     </option>
   </component>
@@ -364,9 +349,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546699164495" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546699487726" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -473,12 +458,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.StackTraceTest" />
       <item itemvalue="Application.Test (3)" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -564,14 +549,7 @@
       <workItem from="1545294751466" duration="29449000" />
       <workItem from="1545453208839" duration="1566000" />
       <workItem from="1545486320358" duration="16393000" />
-      <workItem from="1545648240416" duration="98468000" />
-    </task>
-    <task id="LOCAL-00009" summary="代码学习">
-      <created>1537606691602</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1537606691602</updated>
+      <workItem from="1545648240416" duration="98836000" />
     </task>
     <task id="LOCAL-00010" summary=":memo: 编写可读代码的艺术">
       <created>1538133880878</created>
@@ -909,7 +887,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546399013689</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="🍖 java基础枚举">
+      <created>1546699193758</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1546699193758</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -918,7 +903,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="556806000" />
+    <option name="totallyTimeSpent" value="557174000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -930,7 +915,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="552" y="24" width="1398" height="743" extended-state="0" />
+    <frame x="133" y="23" width="1398" height="743" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.20058997" />
@@ -943,7 +928,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296875" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.30261138" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.30261138" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926254" weight="0.37173578" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -995,7 +980,8 @@
     <MESSAGE value="java核心技术学习" />
     <MESSAGE value="leetcode算法题" />
     <MESSAGE value=" java核心技术学习" />
-    <option name="LAST_COMMIT_MESSAGE" value=" java核心技术学习" />
+    <MESSAGE value=" java基础枚举" />
+    <option name="LAST_COMMIT_MESSAGE" value=" java基础枚举" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1443,16 +1429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/GenderEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
@@ -1473,19 +1449,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/GenderEnumImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1502,15 +1478,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/SeasonEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/面向对象/枚举/GenderEnumImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

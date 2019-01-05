@@ -1,4 +1,4 @@
-package 基础知识.Java基础.面向对象.枚举;
+package 基础知识.Java基础.基础.枚举;
 
 /**
  * @Description:
