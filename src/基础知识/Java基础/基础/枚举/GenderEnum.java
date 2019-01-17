@@ -4,7 +4,7 @@ package 基础知识.Java基础.基础.枚举;
  * 性别枚举类，枚举值使用private构造器类完成实例
  * @Description:
  * @author: Gao Hang Hang
- * @date 2019/01/05 22:13
+ * @date _2019/01/05 22:13
  */
 public enum  GenderEnum {
 

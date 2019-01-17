@@ -3,7 +3,7 @@ package java知识.java核心技术.a8.a8_1;
 /**
  * @Description:
  * @author: Gao Hang Hang
- * @date 2019/01/06 16:55
+ * @date _2019/01/06 16:55
  */
 public class Pair<T> {
     private T first;

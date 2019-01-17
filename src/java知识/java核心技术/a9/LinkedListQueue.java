@@ -5,7 +5,7 @@ import sun.plugin.javascript.navig.Link;
 /**
  * @Description:
  * @author: Gao Hang Hang
- * @date 2019/01/09 15:43
+ * @date _2019/01/09 15:43
  */
 public class LinkedListQueue<E> implements Queue<E> { // not an actual library class
 

@@ -3,7 +3,7 @@ package java知识.java核心技术.a8.a8_5;
 /**
  * @Description: 类型擦除
  * @author: Gao Hang Hang
- * @date 2019/01/08 17:49
+ * @date _2019/01/08 17:49
  */
 public class Pair {
     private Object first;

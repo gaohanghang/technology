@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * @Description:
  * @author: Gao Hang Hang
- * @date 2019/01/08 17:57
+ * @date _2019/01/08 17:57
  */
 public class Interval<T extends Comparable & Serializable> implements Serializable {
     private T lower;
