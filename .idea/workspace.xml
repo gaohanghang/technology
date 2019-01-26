@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java知识/Java基础/多线程马士兵/a008/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/Java基础/多线程马士兵/a009/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/Java基础/多线程马士兵/a010/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/Java基础/多线程马士兵/a011/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/IDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/Racer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/StartRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/TDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/Web12306.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知其所以然/a2019_1_22java泛型上/Java 泛型（上）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/java知其所以然/a2019_1_22java泛型上/ObjectContainer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/尚学堂/多线程/Thread_study01/WebDownloader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/technology/java知识/尚学堂/多线程/Thread_study01/WebDownloader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/WebDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/WebDownloader.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglibTest/target/" />
     <ignored path="$PROJECT_DIR$/openresty/target/" />
@@ -48,96 +39,29 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/WebDownloader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/1.webp">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/TDownloader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="31" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/StartThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/StartRun.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/Web12306.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知其所以然/a2019_1_22java泛型上/Java 泛型（上）.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="353">
+                <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/Racer.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知其所以然/a2019_1_22java泛型上/ObjectContainer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/IDownloader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/commons-io-2.6.jar!/org/apache/commons/io/FileUtils.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="789" column="27" selection-start-line="789" selection-start-column="8" selection-end-line="789" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/MalformedURLException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            <state relative-caret-position="315">
+              <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -195,8 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_2/a7_2_6/StackTraceTest.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_3/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_5/a7_5_1/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_5/a7_5_2/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_5/LoggingImageViewer.java" />
@@ -246,6 +168,8 @@
         <option value="$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/StartRun.java" />
         <option value="$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/Web12306.java" />
         <option value="$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/Racer.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知其所以然/a2019_1_22java泛型上/Java 泛型（上）.md" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/java知其所以然/a2019_1_22java泛型上/ObjectContainer.java" />
       </list>
     </option>
   </component>
@@ -279,7 +203,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="68" />
+    <option name="x" value="-26" />
     <option name="y" value="44" />
     <option name="width" value="1398" />
     <option name="height" value="743" />
@@ -313,6 +237,12 @@
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java知识" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -320,37 +250,24 @@
               <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
+              <item name="公众号" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="尚学堂" type="462c0819:PsiDirectoryNode" />
+              <item name="公众号" type="462c0819:PsiDirectoryNode" />
+              <item name="java知其所以然" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="尚学堂" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="尚学堂" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程" type="462c0819:PsiDirectoryNode" />
-              <item name="Thread_study01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="面试题" type="462c0819:PsiDirectoryNode" />
+              <item name="公众号" type="462c0819:PsiDirectoryNode" />
+              <item name="java知其所以然" type="462c0819:PsiDirectoryNode" />
+              <item name="a2019_1_22java泛型上" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,7 +280,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547967925979" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548507473422" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -398,7 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Racer">
+  <component name="RunManager" selected="Application.ObjectContainer">
     <configuration name="IDownloader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java知识.尚学堂.多线程.Thread_study01.IDownloader" />
       <module name="technology" />
@@ -412,12 +329,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Racer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.尚学堂.多线程.Thread_study01.Racer" />
+    <configuration name="ObjectContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.java知其所以然.a2019_1_22java泛型上.ObjectContainer" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.尚学堂.多线程.Thread_study01.*" />
+          <option name="PATTERN" value="java知识.公众号.java知其所以然.a2019_1_22java泛型上.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -425,8 +342,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StartThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.尚学堂.多线程.Thread_study01.StartThread" />
+    <configuration name="Racer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.尚学堂.多线程.Thread_study01.Racer" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
@@ -472,19 +389,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StartThread" />
-      <item itemvalue="Application.TDownloader" />
       <item itemvalue="Application.IDownloader" />
-      <item itemvalue="Application.Web12306" />
       <item itemvalue="Application.Racer" />
+      <item itemvalue="Application.TDownloader" />
+      <item itemvalue="Application.Web12306" />
+      <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
+      <item itemvalue="Application.ObjectContainer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectContainer" />
         <item itemvalue="Application.Racer" />
         <item itemvalue="Application.Web12306" />
         <item itemvalue="Application.IDownloader" />
         <item itemvalue="Application.TDownloader" />
-        <item itemvalue="Application.StartThread" />
       </list>
     </recent_temporary>
   </component>
@@ -568,14 +486,11 @@
       <workItem from="1547019429728" duration="3140000" />
       <workItem from="1547174674495" duration="517000" />
       <workItem from="1547281133049" duration="589000" />
-      <workItem from="1547461596173" duration="20675000" />
-    </task>
-    <task id="LOCAL-00013" summary="《跟上Java8》java8的发展">
-      <created>1538731193939</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1538731193939</updated>
+      <workItem from="1547461596173" duration="23136000" />
+      <workItem from="1548123392337" duration="581000" />
+      <workItem from="1548125731427" duration="2647000" />
+      <workItem from="1548257300930" duration="588000" />
+      <workItem from="1548504296221" duration="1197000" />
     </task>
     <task id="LOCAL-00014" summary="《跟上Java8》java8的发展">
       <created>1538743877842</created>
@@ -913,7 +828,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547731556734</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="java基础">
+      <created>1547967964595</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1547967964597</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -922,7 +844,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="595752000" />
+    <option name="totallyTimeSpent" value="603226000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -934,10 +856,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="613" y="23" width="1398" height="743" extended-state="0" />
+    <frame x="-26" y="44" width="1398" height="743" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.18362832" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49760765" weight="0.18362832" />
       <window_info id="Structure" order="1" sideWeight="0.50239235" side_tool="true" weight="0.22103004" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -945,9 +867,10 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="JRebel" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.29493088" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.29339477" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926254" weight="0.3686636" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -962,7 +885,7 @@
       <window_info anchor="bottom" id="JIRA" order="14" weight="0.32909605" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="Thumbnails" order="16" weight="0.32891566" />
-      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info anchor="bottom" id="JRebel Console" order="17" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -977,6 +900,7 @@
       <window_info anchor="right" id="Coverage" order="11" sideWeight="0.50190115" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" id="Maven" order="12" visible="true" weight="0.32964602" />
       <window_info anchor="right" id="Redis Servers" order="13" />
+      <window_info anchor="right" id="Mongo Explorer" order="14" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1092,20 +1016,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/基础/枚举/GenderEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/值传递和引用传递/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/面向对象/多态/DuoTaiDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
@@ -1404,28 +1314,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/MalformedURLException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/commons-io-2.6.jar!/org/apache/commons/io/FileUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="789" column="27" selection-start-line="789" selection-start-column="8" selection-end-line="789" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.webp">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/3.webp">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.webp">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="jar://$PROJECT_DIR$/lib/commons-io-2.6.jar!/org/apache/commons/io/FileUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11130">
+          <caret line="789" column="27" selection-start-line="789" selection-start-column="8" selection-end-line="789" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/net/MalformedURLException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/WebDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1434,55 +1351,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/WebDownloader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/IDownloader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/TDownloader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="465">
+          <caret line="31" column="5" selection-start-line="8" selection-start-column="2" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/StartThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="240">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/StartRun.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/Web12306.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
+        <state relative-caret-position="510">
           <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/Racer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/尚学堂/多线程/Thread_study01/IDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.webp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知其所以然/a2019_1_22java泛型上/Java 泛型（上）.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="353">
+            <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知其所以然/a2019_1_22java泛型上/ObjectContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
         </state>
       </provider>
     </entry>
