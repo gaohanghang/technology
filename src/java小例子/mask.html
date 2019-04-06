@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>视频遮罩demo </title>
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.js"></script>
+    <link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+    <style>
+        canvas{
+            width:700px;
+            height:700px;
+            border:1px solid blue;
+        }
+        #mask{
+            width:65px;
+            height:30px;
+            position: absolute;
+            border:1px solid green;
+        }
+        .fa-check{
+            color:green
+        }
+        .fa-times{
+            color:red;
+        }
+    </style>
+</head>
+<body>
+<canvas id="canvas"></canvas>
+<div id="mask">
+    <span id="no"><i class="fa fa-2x fa-times"></i></span>
+    <span id="yes"><i class="fa fa-2x fa-check"></i></span>
+</div>
+
+<script>
+    let canvas = $('#canvas').get(0);
+    let ctx = canvas.getContext('2d');
+    canvas.width = 700;
+    canvas.height = 700;
+    ctx.strokeStyle = 'red';
+    ctx.fillStyle = 'green';
+    $('#mask').hide();
+    let origin = [0, 0];
+    let width2height = [0, 0];
+    $('#canvas').on('mousedown', mousedownHandler)
+        .on('mousemove', mousemoveHandler)
+        .on('mouseup', mouseupHandler);
+    function mousedownHandler(e){
+        origin = [e.offsetX, e.offsetY];
+    }
+    function mousemoveHandler(e) {
+        if(origin[0] !==0 || origin[1] !== 0){//确保按下才发生
+            width2height = [e.offsetX - origin[0] , e.offsetY - origin[1]];
+            ctx.clearRect(0, 0, 700, 700);
+            ctx.strokeRect(origin[0], origin[1], width2height[0], width2height[1]);
+        }
+    }
+    function mouseupHandler(e) {
+        $('#mask').show().css('top', e.clientY).css('left', e.clientX);
+        diableCanvasEvent();
+    }
+    function diableCanvasEvent() {
+        $('#canvas').off('mousedown', mousedownHandler)
+            .off('mousemove', mousemoveHandler)
+            .off('mouseup', mouseupHandler);
+    }
+    $("#yes").click(function () {
+        ctx.globalAlpha = 0.2;
+        ctx.fillRect(origin[0], origin[1], width2height[0], width2height[1]);
+        $('#mask').hide();
+        origin = [0, 0];
+    });
+    $("#no").click(function () {
+        $('#mask').hide();
+        ctx.clearRect(0, 0, 700, 700);
+        origin = [0, 0];
+    });
+</script>
+</body>
+</html>

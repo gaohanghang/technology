@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/Servlet3/pom.xml" />
         <option value="$PROJECT_DIR$/RestTemplate/pom.xml" />
         <option value="$PROJECT_DIR$/cglibTest/pom.xml" />
+        <option value="$PROJECT_DIR$/jdk11_new_feature/pom.xml" />
       </list>
     </option>
   </component>
