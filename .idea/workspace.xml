@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="&lt;添加&gt;(java11_new_feature): 添加慕课网java11新特性讲解代码">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_17_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/FilesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java小例子/a2_java画直线椭圆矩形/PainterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java小例子/a2_java画直线椭圆矩形/PainterPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java小例子/mask.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Java团长/a2019_3_14/README.md" afterDir="false" />
+    <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk12_new_feature/jdk12_new_feature.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk12_new_feature/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk12_new_feature/src/main/java/com/imooc/jdk12/BenchmarkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk12_new_feature/src/main/java/com/imooc/jdk12/SwitchExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -23,6 +24,8 @@
     <ignored path="$PROJECT_DIR$/itmayiedu_mysql/target/" />
     <ignored path="$PROJECT_DIR$/java-tips/target/" />
     <ignored path="$PROJECT_DIR$/jdk11_new_feature/target/" />
+    <ignored path="$PROJECT_DIR$/jdk12_new_feature/target/" />
+    <ignored path="$PROJECT_DIR$/jdk12_new_feature_new/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,34 +54,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/LocalVarExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1245">
-              <caret line="85" column="23" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java小例子/a1_词频统计器/FilesWordCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/Unicode10Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="225">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -95,8 +74,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/FilesExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="165">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/ListExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdk12_new_feature/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="19" selection-start-line="11" selection-start-column="3" selection-end-line="28" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdk12_new_feature/src/main/java/com/imooc/jdk12/BenchmarkTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,10 +114,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/ListExample.java">
+        <entry file="file://$PROJECT_DIR$/jdk12_new_feature/src/main/java/com/imooc/jdk12/SwitchExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="300">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -116,29 +125,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="2795" column="26" selection-start-line="2795" selection-start-column="26" selection-end-line="2795" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java小例子/a2_java画直线椭圆矩形/PainterPanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java小例子/mask.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="1230">
+              <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -208,12 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java知识/公众号/芋道源码/a2019_2_4/BMW.java" />
-        <option value="$PROJECT_DIR$/src/java知识/公众号/芋道源码/a2019_2_4/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/src/java知识/公众号/芋道源码/a2019_2_4/Factory.java" />
-        <option value="$PROJECT_DIR$/src/java知识/公众号/芋道源码/a2019_2_4/BenzFactory.java" />
-        <option value="$PROJECT_DIR$/src/java知识/公众号/芋道源码/a2019_2_4/BMWFactory.java" />
-        <option value="$PROJECT_DIR$/src/java知识/公众号/芋道源码/a2019_2_4/SimpleFacoryTest.java" />
         <option value="$PROJECT_DIR$/src/java知识/公众号/芋道源码/a2019_2_4/AbstractFactory.java" />
         <option value="$PROJECT_DIR$/src/java知识/公众号/芋道源码/a2019_2_4/抽象工程模式/DefaultFactory.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
@@ -259,6 +241,12 @@
         <option value="$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/StringExample.java" />
         <option value="$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/FilesExample.java" />
         <option value="$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/ListExample.java" />
+        <option value="$PROJECT_DIR$/jdk12_new_feature/pom.xml" />
+        <option value="$PROJECT_DIR$/jdk12_new_feature/src/main/java/com/imooc/jdk12/BenchmarkTets.java" />
+        <option value="$PROJECT_DIR$/jdk12_new_feature/jdk12_new_feature.iml" />
+        <option value="$PROJECT_DIR$/jdk12_new_feature_new/pom.xml" />
+        <option value="$PROJECT_DIR$/jdk12_new_feature/src/main/java/com/imooc/jdk12/BenchmarkTest.java" />
+        <option value="$PROJECT_DIR$/jdk12_new_feature/src/main/java/com/imooc/jdk12/SwitchExample.java" />
       </list>
     </option>
   </component>
@@ -281,11 +269,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="177" />
-    <option name="y" value="42" />
-    <option name="width" value="1398" />
-    <option name="height" value="743" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="29" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -299,84 +286,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc" type="462c0819:PsiDirectoryNode" />
-              <item name="jdk11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -384,8 +301,9 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554532146231" />
-    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554615388659" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="12" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -393,19 +311,19 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/java8/java8-lambda/lib" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.jdk12" />
       <recent name="java知识.java核心技术.a6.a6_3.a6_3_8" />
       <recent name="java知识.java核心技术.a6.a6_2.a6_3_5" />
       <recent name="" />
       <recent name="main.java.chapter_12" />
-      <recent name="java知识.Java基础.泛型.通配符" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib" />
-      <recent name="$PROJECT_DIR$/java8/java8-lambda/lib" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -420,7 +338,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ListExample">
+  <component name="RunManager" selected="Application.SwitchExample">
+    <configuration name="BenchmarkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.jdk12.BenchmarkTest" />
+      <module name="jdk12_new_feature" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.jdk12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FilesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.imooc.jdk11.FilesExample" />
       <module name="jdk11_new_feature" />
@@ -447,19 +378,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PainterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java小例子.a2_java画直线椭圆矩形.PainterDemo" />
-      <module name="technology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java小例子.a2_java画直线椭圆矩形.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.imooc.jdk11.StringExample" />
       <module name="jdk11_new_feature" />
@@ -473,8 +391,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mask.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://140.143.53.118/src/java小例子/mask.html">
-      <method v="2" />
+    <configuration name="SwitchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.jdk12.SwitchExample" />
+      <module name="jdk12_new_feature" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.jdk12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ItmayieduMysqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="itmayiedu_mysql" />
@@ -484,20 +412,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PainterDemo" />
-      <item itemvalue="JavaScript Debug.mask.html" />
-      <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
       <item itemvalue="Application.StringExample" />
       <item itemvalue="Application.FilesExample" />
       <item itemvalue="Application.ListExample" />
+      <item itemvalue="Application.BenchmarkTest" />
+      <item itemvalue="Application.SwitchExample" />
+      <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchExample" />
+        <item itemvalue="Application.BenchmarkTest" />
         <item itemvalue="Application.ListExample" />
         <item itemvalue="Application.FilesExample" />
         <item itemvalue="Application.StringExample" />
-        <item itemvalue="JavaScript Debug.mask.html" />
-        <item itemvalue="Application.PainterDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -603,14 +531,9 @@
       <workItem from="1553436295401" duration="39000" />
       <workItem from="1553772539094" duration="8720000" />
       <workItem from="1554167297405" duration="310000" />
-      <workItem from="1554467380462" duration="2186000" />
-    </task>
-    <task id="LOCAL-00019" summary="java学习">
-      <created>1540110270859</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1540110270859</updated>
+      <workItem from="1554467380462" duration="7205000" />
+      <workItem from="1554616575359" duration="1180000" />
+      <workItem from="1554729143979" duration="1009000" />
     </task>
     <task id="LOCAL-00020" summary="java学习">
       <created>1540517357796</created>
@@ -948,7 +871,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553778853402</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="&lt;添加&gt;(java11_new_feature): 添加慕课网java11新特性讲解代码">
+      <created>1554532466434</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1554532466471</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -957,7 +887,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="643837000" />
+    <option name="totallyTimeSpent" value="651045000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -969,10 +899,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="441" y="23" width="1398" height="743" extended-state="0" />
+    <frame x="448" y="70" width="1398" height="743" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.22566372" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.23156342" />
       <window_info id="Structure" order="1" sideWeight="0.50239235" side_tool="true" weight="0.22103004" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -983,15 +913,15 @@
       <window_info id="JRebel" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992636" visible="true" weight="0.2857143" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49852508" weight="0.2857143" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926254" weight="0.3671275" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32718894" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007375" side_tool="true" weight="0.3878437" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4992636" weight="0.31538463" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014749" side_tool="true" weight="0.2857143" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4992636" visible="true" weight="0.31182796" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3296875" />
       <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32923076" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32909605" />
@@ -1174,58 +1104,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/芋道源码/a2019_2_4/BenzFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="35" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/芋道源码/a2019_2_4/BMWFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知其所以然/a2019_1_22java泛型上/Java 泛型（上）.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/Java基础/二进制/RadixMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/Java基础/二进制/Convert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.webp">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1542,27 +1420,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java小例子/a2_java画直线椭圆矩形/PainterDemo.java">
+    <entry file="file://$PROJECT_DIR$/jdk12_new_feature/jdk12_new_feature.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" column="19" selection-start-line="15" selection-end-line="16" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jdk12_new_feature_new/jdk12_new_feature_new.iml" />
+    <entry file="file://$PROJECT_DIR$/jdk12_new_feature_new/pom.xml" />
     <entry file="file://$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/Unicode10Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="2795" column="26" selection-start-line="2795" selection-start-column="26" selection-end-line="2795" selection-end-column="26" />
+        <state relative-caret-position="225">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -1575,8 +1445,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/FilesExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="165">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1585,8 +1455,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/jdk11/ListExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        <state relative-caret-position="285">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdk12_new_feature/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="19" selection-start-line="11" selection-start-column="3" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdk12_new_feature/src/main/java/com/imooc/jdk12/BenchmarkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java小例子/a2_java画直线椭圆矩形/PainterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdk12_new_feature/src/main/java/com/imooc/jdk12/SwitchExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1601,7 +1512,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1644,12 +1554,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>jdk11_new_feature</last-edited>
+          <last-edited>jdk12_new_feature</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

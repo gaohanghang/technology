@@ -17,13 +17,11 @@
         <option value="$PROJECT_DIR$/RestTemplate/pom.xml" />
         <option value="$PROJECT_DIR$/cglibTest/pom.xml" />
         <option value="$PROJECT_DIR$/jdk11_new_feature/pom.xml" />
+        <option value="$PROJECT_DIR$/jdk12_new_feature/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="12" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
-  </component>
-  <component name="SvnBranchConfigurationManager">
-    <option name="mySupportsUserInfoFilter" value="true" />
   </component>
 </project>

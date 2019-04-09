@@ -10,6 +10,7 @@
         <module name="itmayiedu_mysql" />
         <module name="java8" />
         <module name="jdk11_new_feature" />
+        <module name="jdk12_new_feature" />
         <module name="openresty" />
         <module name="RestTemplate" />
         <module name="Servlet3" />
@@ -21,6 +22,8 @@
       <module name="java-tips" target="1.5" />
       <module name="java8" target="8" />
       <module name="jdk11_new_feature" target="11" />
+      <module name="jdk12_new_feature" target="1.5" />
+      <module name="jdk12_new_feature_new" target="1.5" />
       <module name="openresty" target="1.8" />
     </bytecodeTargetLevel>
   </component>
