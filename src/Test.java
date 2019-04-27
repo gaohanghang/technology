@@ -1,5 +1,7 @@
 import org.apache.commons.lang3.StringUtils;
 
+import javax.servlet.http.HttpServletRequest;
+
 /**
  * @version V1.0
  * @ProjectName:jingli-tmc
@@ -21,6 +23,5 @@ public class Test {
 
         DemoClass demoClass = new DemoClass();
         System.out.println(demoClass);
-
     }
 }

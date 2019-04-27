@@ -23,7 +23,6 @@
       <module name="java8" target="8" />
       <module name="jdk11_new_feature" target="11" />
       <module name="jdk12_new_feature" target="1.5" />
-      <module name="jdk12_new_feature_new" target="1.5" />
       <module name="openresty" target="1.8" />
     </bytecodeTargetLevel>
   </component>

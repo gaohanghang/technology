@@ -1,25 +1,26 @@
-package java知识.java核心技术.a9.a9_2_1;
+package java知识.java核心技术.a9.a9_1;
 
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.ListIterator;
+import java.util.*;
 
+/**
+ * @Description: This program demonstrates operations on linked lists.
+ * @author: Gao Hang Hang
+ * @create: 2019/04/26 22:23
+ */
 public class LinkedListTest {
     public static void main(String[] args) {
         List<String> a = new LinkedList<>();
-        a.add("Any");
+        a.add("Amy");
         a.add("Carl");
         a.add("Erica");
 
-        List<String> b = new LinkedList<>();
-        b.add("Bod");
+        List<String> b = new ArrayList<>();
+        b.add("Bob");
         b.add("Doug");
         b.add("Frances");
-        b.add("Gloria");
+        b.add("Cloria");
 
         // merge the words from b into a
-
         ListIterator<String> aIter = a.listIterator();
         Iterator<String> bIter = b.iterator();
 
@@ -33,14 +34,20 @@ public class LinkedListTest {
         // remove every second word from b
 
         bIter = b.iterator();
-
         while (bIter.hasNext()) {
             bIter.next(); // skip one element
             if (bIter.hasNext()) {
                 bIter.next(); // skip next element
-                bIter.remove(); // remove that element
+                bIter.remove(); // remove the element
             }
         }
+
         System.out.println(b);
+
+        // bulk operation: remove all words in b from a
+
+        a.removeAll(b);
+
+        System.out.println(a);
     }
 }
