@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/cglibTest/pom.xml" />
         <option value="$PROJECT_DIR$/jdk11_new_feature/pom.xml" />
         <option value="$PROJECT_DIR$/jdk12_new_feature/pom.xml" />
+        <option value="$PROJECT_DIR$/jvm/pom.xml" />
       </list>
     </option>
   </component>

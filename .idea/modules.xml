@@ -18,7 +18,9 @@
       <module fileurl="file://$PROJECT_DIR$/java8/java8-stream/java8-stream.iml" filepath="$PROJECT_DIR$/java8/java8-stream/java8-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdk11_new_feature/jdk11_new_feature.iml" filepath="$PROJECT_DIR$/jdk11_new_feature/jdk11_new_feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdk12_new_feature/jdk12_new_feature.iml" filepath="$PROJECT_DIR$/jdk12_new_feature/jdk12_new_feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm/jvm.iml" filepath="$PROJECT_DIR$/jvm/jvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/openresty/openresty.iml" filepath="$PROJECT_DIR$/openresty/openresty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-java-example/spring-boot-java-example.iml" filepath="$PROJECT_DIR$/spring-boot-java-example/spring-boot-java-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/technology.iml" filepath="$PROJECT_DIR$/technology.iml" />
       <module fileurl="file://$PROJECT_DIR$/write-readable-code/write-readable-code.iml" filepath="$PROJECT_DIR$/write-readable-code/write-readable-code.iml" />
     </modules>
