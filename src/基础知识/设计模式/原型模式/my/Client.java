@@ -11,10 +11,10 @@ public class Client {
             // 创建第一个实例
             Prototype p1 = new ConcretePrototype1();
             // 注册第一个实例
-            PrototypeManager.setProtoType("p1", p1);
+            PrototypeManager.setProtoType("Father1", p1);
 
             // 克隆第一个实例的原型
-            Prototype p3 = PrototypeManager.getPrototype("p1").clone();
+            Prototype p3 = PrototypeManager.getPrototype("Father1").clone();
             p3.setName("张三");
             System.out.println("第一个实例的副本：" + p3);
 
@@ -29,9 +29,9 @@ public class Client {
             System.out.println("第二个实例的副本：" + p4);
 
             // 注销第一个实例
-            PrototypeManager.removePrototype("p1");
+            PrototypeManager.removePrototype("Father1");
             // 再次克隆第一个实例的原型
-            Prototype p5 = PrototypeManager.getPrototype("p1").clone();
+            Prototype p5 = PrototypeManager.getPrototype("Father1").clone();
             p5.setName("王五");
             System.out.println("第一个实例的副本：" + p5);
         } catch (Exception e) {

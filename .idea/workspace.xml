@@ -2,268 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_3映射/a9_3_6/EnumSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_4/a9_4_5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/SynchronizedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/SynchronizedMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/SynchronizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/SynchronizedTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/SynchronizedTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/SynchronizedTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/天天用Synchronized，底层原理是个啥？  .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twitter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/How_to_Easily_Create_Lists_Sets_and_Maps_in_Java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/ConcretePrototype1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/ConcretePrototype2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/ConcretePrototype1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/ConcretePrototype2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/PrototypeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_17/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/ClientWithLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/ClientWithVavr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/HeaderTextProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/ProcessingObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/SpellCheckerProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/Java-访问权限控制：你真的了解-protected-关键字吗？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p1/Father1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p1/Son1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p11/Son11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p2/MyObject2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p22/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p3/MyObject3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p33/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p4/MyObject4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p44/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p5/MyProject5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p5/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p6/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p7/MyObject7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p7/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/ClientTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/ClientTestDrive2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/IsAllLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/IsNumberic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/ValidationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/用了-Lambda-之后，发现可以忘记设计模式了.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/AutoBoxing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Base64Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/CatchMultiException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/CompilerAPI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/CompilerAPI$ClassJavaFileObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/CompilerAPI$CompiledClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/CompilerAPI$SimpleJavaFileManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/CompilerAPI$StringJavaFileObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/CompilerAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Concurrent$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Concurrent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Console.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/DateTimeAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/DesktopTray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/EnumDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/ForEach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/FunctionDefaultMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Functional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Generic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/HttpServerAPI$MyHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/HttpServerAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Java8新特性8使用CompletableFuture构建异步应用/test1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Java8新特性8使用CompletableFuture构建异步应用/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Lambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/LambdaExceptionUtil$BiConsumer_WithExceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/LambdaExceptionUtil$Consumer_WithExceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/LambdaExceptionUtil$Function_WithExceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/LambdaExceptionUtil$Runnable_WithExceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/LambdaExceptionUtil$Supplier_WithExceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/LambdaExceptionUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/NashornDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/NumericUnderline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/OptionalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/ParallerlArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/ScriptEngineDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/StaticImport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Streams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/SwitchString$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/SwitchString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/TryWithResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/TypeInference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Unchecked$ExceptionFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/Unchecked.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/VarArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/exer/MyFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/exer/MyFunction2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/exer/TestLambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/Employee$Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/FilterEmployeeByAge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/FilterEmployeeBySalary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/MyPredicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/Myfun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/TestLambda$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/TestLambda$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/TestLambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/TestLambda2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/TestLambda2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/TestLambda3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/TestMethodRef.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/TestOptional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/TestStreamAPI1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/TestStreamAPI2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day01/com/atguigu/java8/TestStreamAPI3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/exer/TestStreamAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/DateFormatThreadLocal$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/DateFormatThreadLocal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/ForkJoinCalculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/MyAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/MyAnnotations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/MyFun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/MyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/SubClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/TestAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/TestDefaultInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/TestForkJoin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/TestLocalDateTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/TestSimpleDateFormat$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/day02/com/atduigu/java8/TestSimpleDateFormat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/java8日期/InstantTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/java8日期/LocalDateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/java8日期/LocalTimeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/java8日期/TimeDifference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/java8日期/ZonedDateTime2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/java8日期/ZonedDateTimeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/try_with_resource/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/try_with_resource/TryWithResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/可变参数方法/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/可变参数方法/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/数组和list相互转换/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/时间/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/跟上Java8日期和时间实用技巧/LocalDateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/TestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-default-methods/BasicCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-default-methods/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-default-methods/CalculatorFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-default-methods/Collection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-default-methods/UseCalc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-default-methods/conflict/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-default-methods/conflict/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-default-methods/conflict/App2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-default-methods/conflict/App3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-default-methods/conflict/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-default-methods/conflict/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lession1/FilterProjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lession1/Project.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lession1/ProjectPredicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lession1/predicate/ProjectLanguagePredicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lession1/predicate/ProjectStarPredicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lession2/FunctionalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/ConstructorReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/LambdaException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/LambdaExceptionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/Lambdas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/MethodReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/OtherReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-lambda/lesson3/ProjectFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-optional/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-optional/BeforeJava8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-optional/OptionalDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-optional/OptionalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-optional/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-stream/lesson1/Java7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-stream/lesson1/Project.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-stream/lesson1/java8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8-stream/lesson1/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_02/Coder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_02/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_02/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_02/Example3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_02/Example4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_02/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_03/Example1$Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_03/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_03/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_03/Example3$Club.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_03/Example3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_03/Example4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_03/Example5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_03/Example6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_04/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_04/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_04/Example3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_04/Example4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_04/Example5$List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_04/Example5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example1$StatsKeeper1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example1$StatsKeeper2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example2$Cookie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example3$Request.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example4$RouteContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example6$Coder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example6$Tigger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_05/Example6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06/Example1$Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06/Example2$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06/Example3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06/Example4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06/Example6$BiezhiUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06/Example6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06/Example7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06new/Example1$Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06new/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06new/Example2$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06new/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06new/Example3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06new/Example4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06new/Example5$Recorder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06new/Example5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06new/Example6$BiezhiUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06new/Example6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06new/Example7$Sale.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_06new/Example7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_07/Example10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_07/Example11$Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_07/Example11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_07/Example12$StoreAccounts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_07/Example12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_07/Example8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_07/Example9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_08/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_08/Example2$Request.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_08/Example2$Response.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_08/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_08/Example3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_08/Example4$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_08/Example4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_08/Example5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_08/Example6$User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_08/Example6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_09/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_09/Example2$Document.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_09/Example2$Request.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_09/Example2$User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_09/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_09/Example3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_09/Example4$Range.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_09/Example4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_09/Example6$Stats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_09/Example6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_10/Example1$Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_10/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_10/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_10/Example3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_10/Example5$Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_10/Example5$Reply.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_10/Example5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_10/Example6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11/Example4$Business.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11/Example4$Request.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11/Example4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11new/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11new/Example4$Business.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11new/Example4$Request.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11new/Example4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11new/Example6$Cipher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_11new/Example6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_12/Example2$Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_12/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_12new/Example1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_12new/Example2$Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_12new/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_13/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_14/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_14/Example2$DiskText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_14/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_14/Example3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/write-readable-code/main/java/chapter_14/Example4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/technology/java知识/公众号/占小狼的博客/3-18 占小狼的周末小菜（第12周）.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/3-18 占小狼的周末小菜（第12周）.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2018/3-18 占小狼的周末小菜（第12周）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technology.iml" beforeDir="false" afterPath="$PROJECT_DIR$/technology.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglibTest/target/" />
     <ignored path="$PROJECT_DIR$/openresty/target/" />
@@ -307,120 +82,51 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_4/a9_4_5/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/ProcessingObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/Prototype.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-113">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="180">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/ConcretePrototype1.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/HeaderTextProcessing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/Prototype.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/SpellCheckerProcessing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="165">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/ConcretePrototype1.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/ConcretePrototype2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#563#564#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/PrototypeManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#563#564#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-                <element signature="e#793#794#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/README.md">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/用了-Lambda-之后，发现可以忘记设计模式了.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-2185">
-                <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="37">
+                <caret line="12" selection-start-line="12" selection-end-line="12" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -429,15 +135,47 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_17/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/ConcretePrototype2.java">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/ClientWithLambda.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/ClientWithVavr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p7/Test7.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-              <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-              </folding>
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -472,6 +210,7 @@
       <find>核心</find>
       <find>println</find>
       <find>枚举</find>
+      <find>公众号</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -496,41 +235,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/write-readable-code/src/main/java/文章/a2019_5_12/pay/Pays.java" />
-        <option value="$PROJECT_DIR$/write-readable-code/src/main/java/文章/a2019_5_12/pay/impls/CMBCPay.java" />
-        <option value="$PROJECT_DIR$/write-readable-code/src/main/java/文章/a2019_5_12/pay/Calc.java" />
-        <option value="$PROJECT_DIR$/write-readable-code/src/main/java/文章/a2019_5_12/pay/impls/ABCPay.java" />
-        <option value="$PROJECT_DIR$/write-readable-code/src/main/java/文章/a2019_5_12/pay/Pay.java" />
-        <option value="$PROJECT_DIR$/write-readable-code/src/main/java/文章/a2019_5_12/strategy/ClassUtil.java" />
-        <option value="$PROJECT_DIR$/write-readable-code/src/main/java/文章/a2019_5_12/strategy/Context.java" />
-        <option value="$PROJECT_DIR$/write-readable-code/src/main/java/文章/a2019_5_12/strategy/StrategyFactory.java" />
-        <option value="$PROJECT_DIR$/write-readable-code/src/main/java/文章/a2019_5_12/controller/PayController.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/设计模式/策略模式/TravelStrategy.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/设计模式/策略模式/GuangxiTravel.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/设计模式/策略模式/IstorageService.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/设计模式/策略模式/IStorageService.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/设计模式/策略模式/FileVo.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/设计模式/策略模式/FastDfsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/设计模式/适配器模式/Target.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/设计模式/适配器模式/Adaptee.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/设计模式/适配器模式/Adapter.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/设计模式/适配器模式/Client.java" />
-        <option value="$PROJECT_DIR$/src/java知识/effctive_java_3/a54/Cheese.java" />
-        <option value="$PROJECT_DIR$/src/java知识/effctive_java_3/a54/Test.java" />
-        <option value="$PROJECT_DIR$/src/java小例子/a3_自己实现个线程池/communication/Notify.java" />
-        <option value="$PROJECT_DIR$/src/java小例子/a3_自己实现个线程池/CustomThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_1链表/LinkedListTest.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_4树集/TreeSetTest.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_6优先级队列/PriorityQueueTest.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_3映射/a9_3_1基本映射操作/Employee.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_3映射/a9_3_1基本映射操作/MapTest.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_5队列与双端队列/LinkedListQueue.java" />
-        <option value="$PROJECT_DIR$/write-readable-code/src/main/java/chapter_13/Example3.java" />
-        <option value="$PROJECT_DIR$/src/twitter/Test.java" />
-        <option value="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_3映射/a9_3_6/EnumSetTest.java" />
-        <option value="$PROJECT_DIR$/src/基础知识/Java基础/集合/List/How_to_Easily_Create_Lists_Sets_and_Maps_in_Java/Main.java" />
-        <option value="$PROJECT_DIR$/jdk12_new_feature/src/main/java/com/imooc/How_to_Easily_Create_Lists_Sets_and_Maps_in_Java/Main.java" />
-        <option value="$PROJECT_DIR$/jdk12_new_feature/src/main/java/com/imooc/test/Main.java" />
         <option value="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_4/a9_4_5/Test.java" />
         <option value="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/SynchronizedTest.java" />
         <option value="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/SynchronizedTest4.java" />
@@ -547,6 +251,41 @@
         <option value="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/PrototypeManager.java" />
         <option value="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/Client.java" />
         <option value="$PROJECT_DIR$/src/基础知识/设计模式/原型模式/README.md" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/ValidationStrategy.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/IsAllLowerCase.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/IsNumberic.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/Validator.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/ClientTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/ClientTestDrive2.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/ClientTestDrive2.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/Validator.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/ProcessingObject.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/Test.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p1.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/Father1.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/Son1.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/Son11.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p1/Test1.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p2/MyObject2.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p2/Test2.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p3/MyObject3.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p22/Test2.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p33/Test3.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p4/MyObject4.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p44/Test4.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p5/MyProject5.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p5/Test5.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p6/MyObject6.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p6/Test6.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p7/MyObject7.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/Java-访问权限控制：你真的了解-protected-关键字吗？.md" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/SpellCheckerProcessing.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/HeaderTextProcessing.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/Client.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/ClientWithVavr.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/ClientWithLambda.java" />
+        <option value="$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_17/Test.java" />
+        <option value="$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/Test.java" />
       </list>
     </option>
   </component>
@@ -566,13 +305,22 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jdk12_new_feature" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jvm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="212" />
-    <option name="y" value="67" />
+    <option name="x" value="749" />
+    <option name="y" value="66" />
     <option name="width" value="1080" />
     <option name="height" value="607" />
   </component>
@@ -589,21 +337,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="technology" type="58d84e3e:PackageViewProjectNode" />
-              <item name="cglibTest" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="technology" type="58d84e3e:PackageViewProjectNode" />
-              <item name="technology" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -614,6 +347,62 @@
             <path>
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk11_new_feature" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -621,13 +410,6 @@
               <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java知识" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="technology" type="b2602c69:ProjectViewProjectNode" />
-              <item name="technology" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java知识" type="462c0819:PsiDirectoryNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
@@ -640,22 +422,43 @@
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="基础知识" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="公众号" type="462c0819:PsiDirectoryNode" />
+              <item name="Java技术栈" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="基础知识" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="公众号" type="462c0819:PsiDirectoryNode" />
+              <item name="Java技术栈" type="462c0819:PsiDirectoryNode" />
+              <item name="a2019" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="technology" type="b2602c69:ProjectViewProjectNode" />
               <item name="technology" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="基础知识" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="原型模式" type="462c0819:PsiDirectoryNode" />
+              <item name="java知识" type="462c0819:PsiDirectoryNode" />
+              <item name="公众号" type="462c0819:PsiDirectoryNode" />
+              <item name="Java技术栈" type="462c0819:PsiDirectoryNode" />
+              <item name="a2019" type="462c0819:PsiDirectoryNode" />
+              <item name="a7_17" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="technology" type="58d84e3e:PackageViewProjectNode" />
+              <item name="cglibTest" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="technology" type="58d84e3e:PackageViewProjectNode" />
+              <item name="technology" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -676,32 +479,35 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556614120870" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2018" />
+      <recent name="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy" />
+      <recent name="$PROJECT_DIR$/java8/java8-lambda/lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc" />
+      <recent name="com.imooc.How_to_Easily_Create_Lists_Sets_and_Maps_in_Java" />
+      <recent name="com.imooc.jdk12" />
+      <recent name="java知识.java核心技术.a6.a6_3.a6_3_8" />
+      <recent name="java知识.java核心技术.a6.a6_2.a6_3_5" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="java知识.effctive_java_3.a54" />
       <recent name="基础知识.设计模式.策略模式" />
       <recent name="main.java.文章.a2019_5_12.pay.impls" />
       <recent name="java知识.java核心技术.a9.a9_1" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib" />
-      <recent name="$PROJECT_DIR$/java8/java8-lambda/lib" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.imooc.How_to_Easily_Create_Lists_Sets_and_Maps_in_Java" />
-      <recent name="com.imooc.jdk12" />
-      <recent name="java知识.java核心技术.a6.a6_3.a6_3_8" />
-      <recent name="java知识.java核心技术.a6.a6_2.a6_3_5" />
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -716,13 +522,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础知识.设计模式.原型模式.my.Client" />
+  <component name="RunManager" selected="Application.ClientWithVavr">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.占小狼的博客.a2019.a7_11.chain_of_responsibility.Client" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="基础知识.设计模式.原型模式.my.*" />
+          <option name="PATTERN" value="java知识.公众号.占小狼的博客.a2019.a7_11.chain_of_responsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -730,12 +536,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.公众号.Java技术栈.a2019.a7_2.SynchronizedTest" />
+    <configuration name="ClientTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.占小狼的博客.a2019.a7_11.strategy.ClientTestDrive" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.公众号.Java技术栈.a2019.a7_2.*" />
+          <option name="PATTERN" value="java知识.公众号.占小狼的博客.a2019.a7_11.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -743,12 +549,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.公众号.Java技术栈.a2019.a7_2.SynchronizedTest2" />
+    <configuration name="ClientTestDrive2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.占小狼的博客.a2019.a7_11.strategy.ClientTestDrive2" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.公众号.Java技术栈.a2019.a7_2.*" />
+          <option name="PATTERN" value="java知识.公众号.占小狼的博客.a2019.a7_11.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -756,12 +562,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.公众号.Java技术栈.a2019.a7_2.SynchronizedTest3" />
+    <configuration name="ClientWithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.占小狼的博客.a2019.a7_11.chain_of_responsibility.ClientWithLambda" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.公众号.Java技术栈.a2019.a7_2.*" />
+          <option name="PATTERN" value="java知识.公众号.占小狼的博客.a2019.a7_11.chain_of_responsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -769,12 +575,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.公众号.Java技术栈.a2019.a7_2.SynchronizedTest4" />
+    <configuration name="ClientWithVavr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.占小狼的博客.a2019.a7_11.chain_of_responsibility.ClientWithVavr" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.公众号.Java技术栈.a2019.a7_2.*" />
+          <option name="PATTERN" value="java知识.公众号.占小狼的博客.a2019.a7_11.chain_of_responsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -790,20 +596,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SynchronizedTest" />
-      <item itemvalue="Application.SynchronizedTest2" />
-      <item itemvalue="Application.SynchronizedTest3" />
-      <item itemvalue="Application.SynchronizedTest4" />
+      <item itemvalue="Application.ClientTestDrive" />
+      <item itemvalue="Application.ClientTestDrive2" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.ClientWithLambda" />
+      <item itemvalue="Application.ClientWithVavr" />
       <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
-      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.SynchronizedTest4" />
-        <item itemvalue="Application.SynchronizedTest3" />
-        <item itemvalue="Application.SynchronizedTest2" />
-        <item itemvalue="Application.SynchronizedTest" />
+        <item itemvalue="Application.ClientWithVavr" />
+        <item itemvalue="Application.ClientWithLambda" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.ClientTestDrive2" />
+        <item itemvalue="Application.ClientTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -956,21 +762,11 @@
       <workItem from="1561943695227" duration="74000" />
       <workItem from="1562066137388" duration="347000" />
       <workItem from="1562068917027" duration="4867000" />
-      <workItem from="1562329301098" duration="1874000" />
-    </task>
-    <task id="LOCAL-00027" summary=":bento: Java学习">
-      <created>1543536155726</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1543536155726</updated>
-    </task>
-    <task id="LOCAL-00028" summary="java核心技术学习">
-      <created>1543646439267</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1543646439268</updated>
+      <workItem from="1562329301098" duration="2155000" />
+      <workItem from="1562506989967" duration="3000" />
+      <workItem from="1562927625193" duration="8330000" />
+      <workItem from="1563090662965" duration="681000" />
+      <workItem from="1563378073092" duration="613000" />
     </task>
     <task id="LOCAL-00029" summary="java核心技术学习">
       <created>1543934869591</created>
@@ -1301,7 +1097,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559465924434</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="&lt;添加&gt;(添加): 代码添加">
+      <created>1562391509077</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1562391509083</updated>
+    </task>
+    <task id="LOCAL-00077" summary="&lt;添加&gt;(添加): 代码添加">
+      <created>1562391560386</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1562391560386</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1310,7 +1120,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="744149000" />
+    <option name="totallyTimeSpent" value="754057000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1322,10 +1132,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="212" y="67" width="1080" height="607" extended-state="0" />
-    <editor active="true" />
+    <frame x="749" y="66" width="1080" height="607" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.3236994" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.34874758" />
       <window_info id="Structure" order="1" sideWeight="0.50239235" side_tool="true" weight="0.22103004" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1337,13 +1146,13 @@
       <window_info id="Alibaba Cloud Explorer" order="9" weight="0.32947975" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32815534" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49852508" weight="0.26019418" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49852508" weight="0.25436893" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926254" weight="0.3592233" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32879376" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3223301" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3184466" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014749" side_tool="true" weight="0.2857143" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4992636" weight="0.30544746" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3296875" />
@@ -1368,7 +1177,7 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" />
       <window_info anchor="right" id="Coverage" order="11" sideWeight="0.50190115" side_tool="true" weight="0.3297568" />
-      <window_info anchor="right" id="Maven" order="12" weight="0.31888247" />
+      <window_info anchor="right" id="Maven" order="12" visible="true" weight="0.31888247" />
       <window_info anchor="right" id="Redis Servers" order="13" />
       <window_info anchor="right" id="Mongo Explorer" order="14" />
       <window_info anchor="right" id="Codota" order="15" />
@@ -1446,7 +1255,8 @@
     <MESSAGE value="&lt;添加&gt;(java11_new_feature): 添加慕课网java11新特性讲解代码" />
     <MESSAGE value="&lt;添加&gt;(java12_new_feature): 添加慕课网java12新特性讲解代码" />
     <MESSAGE value="&lt;添加&gt;(java核心技术): 添加java核心技术代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="&lt;添加&gt;(java核心技术): 添加java核心技术代码" />
+    <MESSAGE value="&lt;添加&gt;(添加): 代码添加" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;添加&gt;(添加): 代码添加" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1553,274 +1363,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java知识/effctive_java_3/a54/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="80" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java小例子/mask.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java小例子/a3_自己实现个线程池/communication/Notify.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/effctive_java_3/a54/Cheese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/适配器模式/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.webp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/策略模式/FileVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Enumeration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java小例子/a3_自己实现个线程池/CustomThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/technology.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_1/a9_1_2/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_1/a9_1_2/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_1链表/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_4树集/TreeSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_1链表/LinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_3散列集/SetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_4树集/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_6优先级队列/PriorityQueueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_3映射/a9_3_1基本映射操作/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_3映射/a9_3_1基本映射操作/MapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="37" column="65" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_5队列与双端队列/CircularArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/集合/List/How_to_Easily_Create_Lists_Sets_and_Maps_in_Java/Test.java" />
-    <entry file="file://$PROJECT_DIR$/jdk12_new_feature/src/main/java/com/imooc/test/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_5队列与双端队列/LinkedListQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.webp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/write-readable-code/src/main/java/chapter_02/Coder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_3映射/a9_3_6/EnumSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/write-readable-code/src/main/java/chapter_13/Example3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/twitter/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/write-readable-code/src/main/java/chapter_13/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_5队列与双端队列/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/Java基础/集合/List/How_to_Easily_Create_Lists_Sets_and_Maps_in_Java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2018/a7_13/TestArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/天天用Synchronized，底层原理是个啥？  .md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/SynchronizedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/SynchronizedDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/SynchronizedTest4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_2/SynchronizedTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1853,70 +1395,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my.java" />
     <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/Prototype.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
+        <state relative-caret-position="90">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/ConcretePrototype2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/ConcretePrototype1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="180">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/Prototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/ConcretePrototype1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="375">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/ConcretePrototype2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="330">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#227#228#0" expanded="true" />
@@ -1931,7 +1441,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/PrototypeManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="645">
           <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1943,29 +1453,333 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/Prototype.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/my/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="615">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2185">
+          <first_editor relative-caret-position="390">
             <caret line="26" selection-start-line="26" selection-end-line="26" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基础知识/设计模式/原型模式/ConcretePrototype2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/java知音/a2018_12_16JAVA多线程之线程间的通信方式/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_12.java" />
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2018/3-18 占小狼的周末小菜（第12周）.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/ClientTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/ClientTestDrive2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/IsAllLowerCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/IsNumberic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/ValidationStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/strategy/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p1/Father1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p1/Son1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p11/Son11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="211" column="28" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p1/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p3/MyObject3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p2/MyObject2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p22/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p33/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" selection-start-line="18" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p4/MyObject4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p44/Test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p5/MyProject5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p5/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p6/Test6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p7/MyObject7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/Java-访问权限控制：你真的了解-protected-关键字吗？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <folding>
+              <element signature="e#149#150#0" expanded="true" />
+              <element signature="e#188#189#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/ProcessingObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/HeaderTextProcessing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/SpellCheckerProcessing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/ClientWithLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/chain_of_responsibility/ClientWithVavr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy/p7/Test7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/用了-Lambda-之后，发现可以忘记设计模式了.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="37">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdk11_new_feature/src/main/java/com/imooc/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java知识/公众号/Java技术栈/a2019/a7_17/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2022,7 +1836,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>java8</last-edited>
+          <last-edited>java8-growing</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
