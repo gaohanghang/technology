@@ -2,21 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="&lt;添加&gt;(添加): 代码添加">
-      <change afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/static方法重写/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/static方法重写/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/static方法重写/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/Java基础/Java基础知识/死锁/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/Java基础/多线程/WaitNotify通知机制解析/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/漫画编程/a2019/a10_23/ParticularlyVipPayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/漫画编程/a2019/a10_23/SuperVipPayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/漫画编程/a2019/a10_23/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/漫画编程/a2019/a10_23/UserPayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/漫画编程/a2019/a10_23/VipPayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/漫画编程/a2019/a10_23/工厂模式/UserPayServiceStrategyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/Battery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/father/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/father/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/father/InheritTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/father/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础知识/计算机网络/HTTP/HTTP.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基础知识/计算机网络/网络七层架构.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,8 +114,8 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556614120870" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/基础知识/计算机网络" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
@@ -129,10 +126,11 @@
       <recent name="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/基础知识/计算机网络" />
+      <recent name="$PROJECT_DIR$/src/基础知识/计算机网络/HTTP" />
       <recent name="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11" />
       <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2019/a7_11/protectedStudy" />
-      <recent name="$PROJECT_DIR$/java8/java8-lambda/lib" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.imooc" />
@@ -160,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.InheritTest">
     <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java知识.Java基础.Java基础知识.static方法重写.Demo02" />
       <module name="technology" />
@@ -174,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnInterrupt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.Java基础.多线程.java多线程之使用interrupt停止线程的几种方法.ReturnInterrupt" />
+    <configuration name="InheritTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.Hollis.a2019.a09_02.father.InheritTest" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.Java基础.多线程.java多线程之使用interrupt停止线程的几种方法.*" />
+          <option name="PATTERN" value="java知识.公众号.Hollis.a2019.a09_02.father.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +185,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SleepInterrupt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.Java基础.多线程.java多线程之使用interrupt停止线程的几种方法.SleepInterrupt2" />
+    <configuration name="MobilePhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.Hollis.a2019.a09_02.MobilePhone" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.Java基础.多线程.java多线程之使用interrupt停止线程的几种方法.*" />
+          <option name="PATTERN" value="java知识.公众号.Hollis.a2019.a09_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.Java基础.Java基础知识.如何计算Arraylist中的重复元素.Test" />
+      <module name="technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java知识.Java基础.Java基础知识.如何计算Arraylist中的重复元素.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,19 +224,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.Java基础.多线程.WaitNotify通知机制解析.ThreadTest" />
-      <module name="technology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java知识.Java基础.多线程.WaitNotify通知机制解析.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ItmayieduMysqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="itmayiedu_mysql" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmayiedu.ItmayieduMysqlApplication" />
@@ -234,20 +232,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SleepInterrupt2" />
-      <item itemvalue="Application.ReturnInterrupt" />
-      <item itemvalue="Application.ThreadTest" />
       <item itemvalue="Application.Demo02" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
+      <item itemvalue="Application.MobilePhone" />
+      <item itemvalue="Application.InheritTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritTest" />
+        <item itemvalue="Application.MobilePhone" />
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Demo02" />
-        <item itemvalue="Application.ThreadTest" />
-        <item itemvalue="Application.ReturnInterrupt" />
-        <item itemvalue="Application.SleepInterrupt2" />
       </list>
     </recent_temporary>
   </component>
@@ -430,14 +428,10 @@
       <workItem from="1570288232081" duration="45000" />
       <workItem from="1570288325558" duration="828000" />
       <workItem from="1570366863185" duration="2845000" />
-      <workItem from="1571842869740" duration="529000" />
-    </task>
-    <task id="LOCAL-00033" summary="java核心技术学习">
-      <created>1544249309643</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1544249309646</updated>
+      <workItem from="1571842869740" duration="3334000" />
+      <workItem from="1572107318012" duration="3729000" />
+      <workItem from="1572523483497" duration="3514000" />
+      <workItem from="1572685867977" duration="1710000" />
     </task>
     <task id="LOCAL-00034" summary="java核心技术学习">
       <created>1544340761057</created>
@@ -775,7 +769,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569666002449</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="&lt;添加&gt;(添加): 代码添加">
+      <created>1571843632523</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1571843632523</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -932,82 +933,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>java8:war</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>java8-growing</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
