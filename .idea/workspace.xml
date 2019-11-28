@@ -2,19 +2,205 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="&lt;添加&gt;(添加): 代码添加">
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/father/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/father/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/father/InheritTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/Hollis/a2019/a09_02/father/Wolf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/计算机网络/HTTP/HTTP.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基础知识/计算机网络/网络七层架构.xmind" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8/src/main/java/java8日期/LocalDataTime/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷2/gutenberg/alice30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷2/v2ch01/streams/CountLongWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_10/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_10/a3_10_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_10/a3_10_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_10/a3_10_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_4/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_10/a3_10_4/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_5/LotteryDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_10/a3_10_5/LotteryDrawing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_10/a3_10_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_6/CompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_10/a3_10_6/CompoundInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_10/a3_10_6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_7/LotteryArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_10/a3_10_7/LotteryArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_10/a3_10_7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_10/a3_10_7/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_4_2/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_5/a3_4_2/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_5_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_5/a3_5_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_5_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_5/a3_5_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_5_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_5/a3_5_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_5_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_5/a3_5_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_5_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_5/a3_5_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_5_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_5/a3_5_6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/a3_5_7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_5/a3_5_7/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/s3_5_9/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_5/s3_5_9/Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_5/s3_5_9/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_5/s3_5_9/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_6/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_6/a3_6_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_6/a3_6_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_3/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_6/a3_6_3/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_6/a3_6_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_6/a3_6_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_6/a3_6_6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_6/a3_6_9/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_6/a3_6_9/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_7/InputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_7/InputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_7/a3_7_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_7/a3_7_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_7/a3_7_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_7/a3_7_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_7/a3_7_3/a3_7_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_7/a3_7_3/a3_7_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/LotteryOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_8/LotteryOdds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/Retirement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_8/Retirement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/Retirement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_8/Retirement2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_8/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_8/a3_8_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_8/a3_8_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_8/a3_8_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_8/a3_8_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_8/a3_8_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_8/a3_8_6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_9/BigIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_9/BigIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_9/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_9/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_9/a3_9_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_9/a3_9_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a3/a3_9/a3_9_1/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a3/a3_9/a3_9_1/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_2/a4_2_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_2/a4_2_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_3/CalenderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_2/a4_2_3/CalenderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_2/a4_2_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_2/a4_2_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/a4_3_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_3/a4_3_1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/a4_3_1/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_3/a4_3_1/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/a4_3_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_3/a4_3_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/a4_3_6/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_3/a4_3_6/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/a4_3_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_3/a4_3_6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/a4_3_7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_3/a4_3_7/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/a4_3_9/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_3/a4_3_9/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_3/a4_3_9/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_3/a4_3_9/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_4/a4_4_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_4/a4_4_1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_4/a4_4_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_4/a4_4_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_4/a4_4_3/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_4/a4_4_3/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_4/a4_4_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_4/a4_4_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_4/a4_4_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_4/a4_4_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_4/a4_4_5/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_4/a4_4_5/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_4/a4_4_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_4/a4_4_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_5/ParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_5/ParamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_6/ConstructorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_6/a4_6_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_7/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_6/a4_6_7/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_6/a4_6_8/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_6/a4_6_8/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_7/a4_7_2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_7/a4_7_2/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_7/a4_7_2/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_7/a4_7_2/PackageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a4/a4_7/a4_7_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a4/a4_7/a4_7_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/ManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_1_9/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_1_9/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_1_9/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_1_9/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_1_9/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_1_9/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_2_1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_1/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_2_1/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_2_3/ArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_2_3/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/EqualsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_2_3/EqualsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_2_3/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_2_3/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_6/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_6/EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_6/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_6/Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_7/a5_7_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_2/ReflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_7/a5_7_2/ReflectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_7/a5_7_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_4/ObjectAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_7/a5_7_4/ObjectAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_4/ObjectAnalyzerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_7/a5_7_4/ObjectAnalyzerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_4/a5_7_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_7/a5_7_4/a5_7_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_5/CopyOfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_7/a5_7_5/CopyOfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_5/MethodTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_7/a5_7_5/MethodTableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a5/a5_7/a5_7_6/MethodTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a5/a5_7/a5_7_6/MethodTableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_1/a6_1_1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_1/EmployeeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_1/a6_1_1/EmployeeSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_2/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_1/a6_1_2/Moveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_2/Powered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_1/a6_1_2/Powered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_1/a6_1_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_5/MouseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_1/a6_1_5/MouseListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_1/a6_1_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_6/Named.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_1/a6_1_6/Named.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_6/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_1/a6_1_6/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_6/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_1/a6_1_6/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_1/a6_1_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_1/a6_1_6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_2/a6_2_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_1/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_2/a6_2_1/TimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_2/LengthComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_2/a6_2_2/LengthComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_2/a6_2_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_3/CloneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_2/a6_2_3/CloneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_3/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_2/a6_2_3/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_2/a6_2_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_2/a6_2_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_2/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_2/LambdaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_4/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_4/Greeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_4/TimedGreeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_4/TimedGreeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_5/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_5/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_6/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_6/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_7/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_7/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_7/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_8/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_3/a6_3_8/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_3/a6_3_8/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/InnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_4/a6_4_1/InnerClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_4/a6_4_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_4/a6_4_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_4/a6_4_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_6/AnonymousInnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_4/a6_4_6/AnonymousInnerClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_4/a6_4_7/StaticInnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_4/a6_4_7/StaticInnerClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a6/a6_5/a6_5_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a6/a6_5/a6_5_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_1/a7_1_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_1/a7_1_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_1/a7_1_4/FileFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_1/a7_1_4/FileFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_1/a7_1_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_1/a7_1_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_2/a7_2_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_2/a7_2_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_2/a7_2_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_2/a7_2_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_2/a7_2_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_2/a7_2_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_2/a7_2_3/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_2/a7_2_3/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_2/a7_2_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_2/a7_2_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_2/a7_2_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_2/a7_2_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_2/a7_2_6/StackTraceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_2/a7_2_6/StackTraceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_2/a7_2_6/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_2/a7_2_6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_5/LoggingImageViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_5/LoggingImageViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_5/a7_5_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_5/a7_5_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a7/a7_5/a7_5_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a7/a7_5/a7_5_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_1/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a8/a8_1/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_1/PairTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a8/a8_1/PairTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a8/a8_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_1/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a8/a8_1/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_4/PairTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a8/a8_4/PairTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_5/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a8/a8_5/Interval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_5/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a8/a8_5/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a8/a8_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a8/a8_8_4/PairTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a8/a8_8_4/PairTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_1/CircularArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_1/CircularArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_1/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_1/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_1/LinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_1/LinkedListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_1/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_1/LinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_1/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_1/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_1/a9_1_2/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_1/a9_1_2/Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_1/a9_1_2/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_1/a9_1_2/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_1/a9_1_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_1/a9_1_3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_1链表/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_2具体的集合/a9_2_1链表/LinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_1链表/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_2具体的集合/a9_2_1链表/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_3散列集/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_2具体的集合/a9_2_3散列集/SetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_4树集/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_2具体的集合/a9_2_4树集/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_4树集/TreeSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_2具体的集合/a9_2_4树集/TreeSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_5队列与双端队列/CircularArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_2具体的集合/a9_2_5队列与双端队列/CircularArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_5队列与双端队列/LinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_2具体的集合/a9_2_5队列与双端队列/LinkedListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_5队列与双端队列/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_2具体的集合/a9_2_5队列与双端队列/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_2具体的集合/a9_2_6优先级队列/PriorityQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_2具体的集合/a9_2_6优先级队列/PriorityQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_3映射/a9_3_1基本映射操作/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_3映射/a9_3_1基本映射操作/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_3映射/a9_3_1基本映射操作/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_3映射/a9_3_1基本映射操作/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_3映射/a9_3_6/EnumSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_3映射/a9_3_6/EnumSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_4/a9_4_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_4/a9_4_5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_7/ShuffleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_7/ShuffleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_8/Sieve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_8/Sieve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java知识/java核心技术/a9/a9_8/sieve.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/java知识/java核心技术卷1/a9/a9_8/sieve.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/基础知识/计算机网络/HTTP/HTTP.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/src/基础知识/计算机网络/HTTP/HTTP.xmind" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,9 +307,11 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2018" />
-      <recent name="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="java知识.effctive_java_3.a54" />
+      <recent name="基础知识.设计模式.策略模式" />
+      <recent name="main.java.文章.a2019_5_12.pay.impls" />
+      <recent name="java知识.java核心技术.a9.a9_1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/基础知识/计算机网络" />
@@ -139,11 +327,10 @@
       <recent name="java知识.java核心技术.a6.a6_3.a6_3_8" />
       <recent name="java知识.java核心技术.a6.a6_2.a6_3_5" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="java知识.effctive_java_3.a54" />
-      <recent name="基础知识.设计模式.策略模式" />
-      <recent name="main.java.文章.a2019_5_12.pay.impls" />
-      <recent name="java知识.java核心技术.a9.a9_1" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/java知识/java核心技术卷2/gutenberg" />
+      <recent name="$PROJECT_DIR$/src/java知识/公众号/占小狼的博客/a2018" />
+      <recent name="$PROJECT_DIR$/src/java知识/尚学堂/a01java入门阶段/第三章控制语句" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -158,13 +345,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InheritTest">
-    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.Java基础.Java基础知识.static方法重写.Demo02" />
+  <component name="RunManager" selected="Application.CountLongWords">
+    <configuration name="BooleanMainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.Hollis.a12_16.BooleanMainTest" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.Java基础.Java基础知识.static方法重写.*" />
+          <option name="PATTERN" value="java知识.公众号.Hollis.a12_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountLongWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术卷2.v2ch01.streams.CountLongWords" />
+      <module name="technology" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java知识.java核心技术卷2.v2ch01.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,25 +398,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.Java基础.Java基础知识.如何计算Arraylist中的重复元素.Test" />
-      <module name="technology" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8日期.LocalDataTime.Test" />
+      <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.Java基础.Java基础知识.如何计算Arraylist中的重复元素.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.Java基础.Java基础知识.死锁.Test" />
-      <module name="technology" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java知识.Java基础.Java基础知识.死锁.*" />
+          <option name="PATTERN" value="java8日期.LocalDataTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,20 +419,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo02" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
       <item itemvalue="Application.MobilePhone" />
       <item itemvalue="Application.InheritTest" />
+      <item itemvalue="Application.BooleanMainTest" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
+      <item itemvalue="Application.CountLongWords" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountLongWords" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.BooleanMainTest" />
         <item itemvalue="Application.InheritTest" />
         <item itemvalue="Application.MobilePhone" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Demo02" />
       </list>
     </recent_temporary>
   </component>
@@ -431,14 +618,11 @@
       <workItem from="1571842869740" duration="3334000" />
       <workItem from="1572107318012" duration="3729000" />
       <workItem from="1572523483497" duration="3514000" />
-      <workItem from="1572685867977" duration="1710000" />
-    </task>
-    <task id="LOCAL-00034" summary="java核心技术学习">
-      <created>1544340761057</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1544340761057</updated>
+      <workItem from="1572685867977" duration="2629000" />
+      <workItem from="1572954683547" duration="1511000" />
+      <workItem from="1573293344177" duration="2362000" />
+      <workItem from="1574914714728" duration="640000" />
+      <workItem from="1574925499080" duration="1647000" />
     </task>
     <task id="LOCAL-00035" summary="java核心技术学习">
       <created>1544530043711</created>
@@ -776,7 +960,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571843632523</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="&lt;添加&gt;(添加): 代码添加">
+      <created>1572796984737</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1572796984738</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TestHistory">
