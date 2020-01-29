@@ -7,10 +7,10 @@ package java知识.公众号.JavaGuide.a2020.a1_16;
  **/
 public class Test {
 
-    public static void main(String[] args) {
-        Pizza testPz = new Pizza();
-        testPz.setStatus(Pizza.PizzaStatus.READY);
-        assertTrue(testPz.isDeliverable());
-    }
+    //public static void main(String[] args) {
+    //    Pizza testPz = new Pizza();
+    //    testPz.setStatus(Pizza.PizzaStatus.READY);
+    //    assertTrue(testPz.isDeliverable());
+    //}
 
 }
