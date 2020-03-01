@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a00a56-a026-460a-b595-12b298563746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/慕课网/ThreadLocal/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/骇客与画家/a2020/a3_1/JavaReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java知识/公众号/骇客与画家/a2020/a3_1/StreamReduceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +116,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -147,7 +149,7 @@
       <recent name="java知识.java核心技术.a9.a9_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Basic">
+  <component name="RunManager" selected="Application.JavaReduce">
     <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="慕课网.ThreadLocal.Basic" />
       <module name="technology" />
@@ -161,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountLongWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术卷2.v2ch01.streams.CountLongWords" />
+    <configuration name="JavaReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.骇客与画家.a2020.a3_1.JavaReduce" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.java核心技术卷2.v2ch01.streams.*" />
+          <option name="PATTERN" value="java知识.公众号.骇客与画家.a2020.a3_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreatingStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java知识.java核心技术卷2.v2ch01.streams.CreatingStreams" />
+    <configuration name="StreamReduceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java知识.公众号.骇客与画家.a2020.a3_1.StreamReduceExample" />
       <module name="technology" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java知识.java核心技术卷2.v2ch01.streams.*" />
+          <option name="PATTERN" value="java知识.公众号.骇客与画家.a2020.a3_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,20 +223,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountLongWords" />
-      <item itemvalue="Application.CreatingStreams" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
       <item itemvalue="Application.Basic" />
+      <item itemvalue="Spring Boot.ItmayieduMysqlApplication" />
+      <item itemvalue="Application.StreamReduceExample" />
+      <item itemvalue="Application.JavaReduce" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaReduce" />
+        <item itemvalue="Application.StreamReduceExample" />
         <item itemvalue="Application.Basic" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.CreatingStreams" />
-        <item itemvalue="Application.CountLongWords" />
       </list>
     </recent_temporary>
   </component>
@@ -456,14 +458,13 @@
       <workItem from="1579397223830" duration="4617000" />
       <workItem from="1579520877705" duration="1441000" />
       <workItem from="1579764293301" duration="448000" />
-      <workItem from="1580289265242" duration="1365000" />
-    </task>
-    <task id="LOCAL-00044" summary="java核心技术学习">
-      <created>1545384196990</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1545384196990</updated>
+      <workItem from="1580289265242" duration="2434000" />
+      <workItem from="1580303440577" duration="160000" />
+      <workItem from="1580303665443" duration="765000" />
+      <workItem from="1580304585706" duration="2384000" />
+      <workItem from="1580892524619" duration="574000" />
+      <workItem from="1581297175663" duration="597000" />
+      <workItem from="1583036340444" duration="4453000" />
     </task>
     <task id="LOCAL-00045" summary="java核心技术学习">
       <created>1545444711294</created>
@@ -801,7 +802,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580289303464</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="&lt;添加&gt;(添加): 代码添加">
+      <created>1580292291528</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1580292291528</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -863,63 +871,64 @@
     <option name="LAST_COMMIT_MESSAGE" value="&lt;添加&gt;(添加): 代码添加" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1258" y="180" key="#com.intellij.ide.util.MemberChooser" timestamp="1579521006365">
-      <screen x="0" y="23" width="1680" height="951" />
+    <state x="1258" y="180" key="#com.intellij.ide.util.MemberChooser" timestamp="1583038787764">
+      <screen x="0" y="23" width="1680" height="948" />
     </state>
     <state x="1258" y="179" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947@0.23.1680.947" timestamp="1577335056828" />
+    <state x="1258" y="180" key="#com.intellij.ide.util.MemberChooser/0.23.1680.948@0.23.1680.948" timestamp="1583038787764" />
     <state x="1258" y="180" key="#com.intellij.ide.util.MemberChooser/0.23.1680.951@0.23.1680.951" timestamp="1579521006365" />
-    <state x="256" y="23" width="839" height="951" key="CommitChangelistDialog2" timestamp="1580289303182">
+    <state x="256" y="23" width="839" height="951" key="CommitChangelistDialog2" timestamp="1580292291360">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="256" y="23" key="CommitChangelistDialog2/-132.-1057.1920.1057/0.23.1680.948@0.23.1680.948" timestamp="1577756350557" />
     <state x="256" y="23" key="CommitChangelistDialog2/-132.-1057.1920.1057/0.23.1680.957@0.23.1680.957" timestamp="1579499659589" />
     <state x="256" y="23" key="CommitChangelistDialog2/-960.93.960.681/0.23.1680.947@0.23.1680.947" timestamp="1580289303182" />
-    <state x="256" y="23" key="CommitChangelistDialog2/0.23.1680.947@0.23.1680.947" timestamp="1577409437340" />
+    <state x="256" y="23" key="CommitChangelistDialog2/0.23.1680.947@0.23.1680.947" timestamp="1580292291360" />
     <state x="256" y="23" key="CommitChangelistDialog2/0.23.1680.948@0.23.1680.948" timestamp="1578620096811" />
     <state x="256" y="23" width="839" height="951" key="CommitChangelistDialog2/0.23.1680.951@0.23.1680.951" timestamp="1579430672404" />
     <state width="482" height="618" key="DebuggerActiveHint" timestamp="1578492206702">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state width="482" height="618" key="DebuggerActiveHint/0.23.1680.947@0.23.1680.947" timestamp="1578492206702" />
-    <state width="1638" height="182" key="GridCell.Tab.0.bottom" timestamp="1580289900366">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state width="816" height="182" key="GridCell.Tab.0.bottom" timestamp="1583039968693">
+      <screen x="0" y="23" width="1680" height="948" />
     </state>
     <state width="1638" height="269" key="GridCell.Tab.0.bottom/-132.-1057.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1577409840756" />
     <state width="1638" height="182" key="GridCell.Tab.0.bottom/-132.-1057.1920.1057/0.23.1680.948@0.23.1680.948" timestamp="1579165350808" />
     <state width="1638" height="258" key="GridCell.Tab.0.bottom/-132.-1057.1920.1057/0.23.1680.951@0.23.1680.951" timestamp="1577756258056" />
     <state width="1638" height="182" key="GridCell.Tab.0.bottom/-960.93.960.681/0.23.1680.947@0.23.1680.947" timestamp="1580289900366" />
-    <state width="1638" height="269" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1578853006248" />
-    <state width="1638" height="269" key="GridCell.Tab.0.bottom/0.23.1680.948@0.23.1680.948" timestamp="1578620155653" />
+    <state width="816" height="182" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1583036496150" />
+    <state width="816" height="182" key="GridCell.Tab.0.bottom/0.23.1680.948@0.23.1680.948" timestamp="1583039968693" />
     <state width="1638" height="182" key="GridCell.Tab.0.bottom/0.23.1680.951@0.23.1680.951" timestamp="1579599978205" />
-    <state width="1638" height="182" key="GridCell.Tab.0.center" timestamp="1580289900365">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state width="816" height="182" key="GridCell.Tab.0.center" timestamp="1583039968692">
+      <screen x="0" y="23" width="1680" height="948" />
     </state>
     <state width="1638" height="269" key="GridCell.Tab.0.center/-132.-1057.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1577409840755" />
     <state width="1638" height="182" key="GridCell.Tab.0.center/-132.-1057.1920.1057/0.23.1680.948@0.23.1680.948" timestamp="1579165350806" />
     <state width="1638" height="258" key="GridCell.Tab.0.center/-132.-1057.1920.1057/0.23.1680.951@0.23.1680.951" timestamp="1577756258055" />
     <state width="1638" height="182" key="GridCell.Tab.0.center/-960.93.960.681/0.23.1680.947@0.23.1680.947" timestamp="1580289900365" />
-    <state width="1638" height="269" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1578853006246" />
-    <state width="1638" height="269" key="GridCell.Tab.0.center/0.23.1680.948@0.23.1680.948" timestamp="1578620155652" />
+    <state width="816" height="182" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1583036496149" />
+    <state width="816" height="182" key="GridCell.Tab.0.center/0.23.1680.948@0.23.1680.948" timestamp="1583039968692" />
     <state width="1638" height="182" key="GridCell.Tab.0.center/0.23.1680.951@0.23.1680.951" timestamp="1579599978205" />
-    <state width="1638" height="182" key="GridCell.Tab.0.left" timestamp="1580289900364">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state width="816" height="182" key="GridCell.Tab.0.left" timestamp="1583039968692">
+      <screen x="0" y="23" width="1680" height="948" />
     </state>
     <state width="1638" height="269" key="GridCell.Tab.0.left/-132.-1057.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1577409840755" />
     <state width="1638" height="182" key="GridCell.Tab.0.left/-132.-1057.1920.1057/0.23.1680.948@0.23.1680.948" timestamp="1579165350803" />
     <state width="1638" height="258" key="GridCell.Tab.0.left/-132.-1057.1920.1057/0.23.1680.951@0.23.1680.951" timestamp="1577756258055" />
     <state width="1638" height="182" key="GridCell.Tab.0.left/-960.93.960.681/0.23.1680.947@0.23.1680.947" timestamp="1580289900364" />
-    <state width="1638" height="269" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1578853006246" />
-    <state width="1638" height="269" key="GridCell.Tab.0.left/0.23.1680.948@0.23.1680.948" timestamp="1578620155652" />
+    <state width="816" height="182" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1583036496148" />
+    <state width="816" height="182" key="GridCell.Tab.0.left/0.23.1680.948@0.23.1680.948" timestamp="1583039968692" />
     <state width="1638" height="182" key="GridCell.Tab.0.left/0.23.1680.951@0.23.1680.951" timestamp="1579599978204" />
-    <state width="1638" height="182" key="GridCell.Tab.0.right" timestamp="1580289900365">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state width="816" height="182" key="GridCell.Tab.0.right" timestamp="1583039968692">
+      <screen x="0" y="23" width="1680" height="948" />
     </state>
     <state width="1638" height="269" key="GridCell.Tab.0.right/-132.-1057.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1577409840755" />
     <state width="1638" height="182" key="GridCell.Tab.0.right/-132.-1057.1920.1057/0.23.1680.948@0.23.1680.948" timestamp="1579165350807" />
     <state width="1638" height="258" key="GridCell.Tab.0.right/-132.-1057.1920.1057/0.23.1680.951@0.23.1680.951" timestamp="1577756258055" />
     <state width="1638" height="182" key="GridCell.Tab.0.right/-960.93.960.681/0.23.1680.947@0.23.1680.947" timestamp="1580289900365" />
-    <state width="1638" height="269" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1578853006247" />
-    <state width="1638" height="269" key="GridCell.Tab.0.right/0.23.1680.948@0.23.1680.948" timestamp="1578620155652" />
+    <state width="816" height="182" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1583036496150" />
+    <state width="816" height="182" key="GridCell.Tab.0.right/0.23.1680.948@0.23.1680.948" timestamp="1583039968692" />
     <state width="1638" height="182" key="GridCell.Tab.0.right/0.23.1680.951@0.23.1680.951" timestamp="1579599978205" />
     <state width="1638" height="258" key="GridCell.Tab.1.bottom" timestamp="1578534376584">
       <screen x="0" y="23" width="1680" height="947" />
@@ -941,18 +950,19 @@
     </state>
     <state width="1638" height="258" key="GridCell.Tab.1.right/-132.-1057.1920.1057/0.23.1680.951@0.23.1680.951" timestamp="1577756258056" />
     <state width="1638" height="258" key="GridCell.Tab.1.right/0.23.1680.947@0.23.1680.947" timestamp="1578534376583" />
-    <state x="610" y="172" key="SettingsEditor" timestamp="1577550460734">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state x="610" y="173" key="SettingsEditor" timestamp="1580304659036">
+      <screen x="0" y="23" width="1680" height="951" />
     </state>
     <state x="610" y="172" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1577550460734" />
-    <state x="453" y="232" key="Vcs.Push.Dialog.v2" timestamp="1580289306301">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state x="610" y="173" key="SettingsEditor/0.23.1680.951@0.23.1680.951" timestamp="1580304659036" />
+    <state x="453" y="233" key="Vcs.Push.Dialog.v2" timestamp="1580304645475">
+      <screen x="0" y="23" width="1680" height="951" />
     </state>
     <state x="453" y="232" key="Vcs.Push.Dialog.v2/-132.-1057.1920.1057/0.23.1680.948@0.23.1680.948" timestamp="1577756354316" />
     <state x="453" y="232" key="Vcs.Push.Dialog.v2/-960.93.960.681/0.23.1680.947@0.23.1680.947" timestamp="1580289306301" />
-    <state x="453" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.947@0.23.1680.947" timestamp="1577409439752" />
+    <state x="453" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.947@0.23.1680.947" timestamp="1580303136614" />
     <state x="453" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.948@0.23.1680.948" timestamp="1578620099625" />
-    <state x="453" y="233" key="Vcs.Push.Dialog.v2/0.23.1680.951@0.23.1680.951" timestamp="1579430675182" />
+    <state x="453" y="233" key="Vcs.Push.Dialog.v2/0.23.1680.951@0.23.1680.951" timestamp="1580304645475" />
     <state x="808" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579421665558">
       <screen x="0" y="23" width="1680" height="948" />
     </state>
@@ -962,6 +972,10 @@
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="979" y="239" width="701" height="514" key="find.popup/0.23.1680.947@0.23.1680.947" timestamp="1579282704203" />
+    <state x="287" y="198" key="new project wizard" timestamp="1580310581372">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="287" y="198" key="new project wizard/0.23.1680.947@0.23.1680.947" timestamp="1580310581372" />
     <state x="1197" y="251" width="670" height="678" key="search.everywhere.popup" timestamp="1580289598269">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
