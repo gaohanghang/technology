@@ -9,8 +9,8 @@ public class JavaStringFormat1 {
 
     public static void main(String[] args) {
 
-        String sql = String.format("select * from user where name like '%%s'","僧");
-        System.out.println(sql);
+        String result = String.format("%d%", 100);
+        System.out.println(result);
 
     }
 
