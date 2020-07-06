@@ -8,10 +8,10 @@ import java.util.logging.Logger;
  * @date _2019/01/02 10:56
  */
 public class Test {
+
     private static final Logger myLogger = Logger.getLogger("com.mycompany.myapp");
     public static void main(String[] args) {
 
     }
-
 
 }
