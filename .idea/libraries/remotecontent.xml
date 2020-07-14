@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="remotecontent">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/remotecontent.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

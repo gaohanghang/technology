@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="servlet-api2">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/jingli/apache-tomcat-9.0.11/lib/servlet-api.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

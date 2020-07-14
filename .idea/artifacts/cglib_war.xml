@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="cglib:war">
-    <output-path>$PROJECT_DIR$/cglib/target</output-path>
-    <root id="archive" name="cglib.war">
-      <element id="artifact" artifact-name="cglib:war exploded" />
-    </root>
-  </artifact>
-</component>

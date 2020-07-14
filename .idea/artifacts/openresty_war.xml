@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="openresty:war">
-    <output-path>$PROJECT_DIR$/openresty/target</output-path>
-    <root id="archive" name="openresty.war">
-      <element id="artifact" artifact-name="openresty:war exploded" />
-    </root>
-  </artifact>
-</component>
