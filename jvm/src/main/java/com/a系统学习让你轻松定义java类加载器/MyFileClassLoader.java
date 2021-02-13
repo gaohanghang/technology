@@ -12,7 +12,7 @@ public class MyFileClassLoader extends ClassLoader {
         this.directory = directory;
     }
 
-    public MyFileClassLoader(ClassLoader parent, String directory) {
+    public MyFileClassLoader(String directory, ClassLoader parent) {
         super(parent);
         this.directory = directory;
     }
