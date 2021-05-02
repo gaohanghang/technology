@@ -1,5 +1,8 @@
 package 基础知识.Java基础.集合.hashmap.put过程;
 
+
+import java.util.HashMap;
+
 /**
  * @Description  https://blog.csdn.net/qq_38182963/article/details/78942764
  * @Author Gao Hang Hang
