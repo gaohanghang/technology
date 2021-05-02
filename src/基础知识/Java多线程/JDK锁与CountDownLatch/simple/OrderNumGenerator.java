@@ -1,10 +1,10 @@
-package 基础知识.Java多线程.simple;
+package 基础知识.Java多线程.JDK锁与CountDownLatch.simple;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * @Description
+ * @Description https://www.bilibili.com/video/BV1nt411x7vt
  * @Author Gao Hang Hang
  * @Date 2021-05-02 15:10
  **/

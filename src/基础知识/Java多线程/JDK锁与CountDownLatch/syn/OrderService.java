@@ -1,4 +1,4 @@
-package 基础知识.Java多线程.syn;
+package 基础知识.Java多线程.JDK锁与CountDownLatch.syn;
 
 import java.util.Collections;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.Vector;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * @Description
+ * @Description https://www.bilibili.com/video/BV1nt411x7vt
  * @Author Gao Hang Hang
  * @Date 2021-05-02 15:13
  **/
