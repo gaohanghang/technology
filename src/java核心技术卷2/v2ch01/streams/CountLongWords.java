@@ -17,7 +17,7 @@ public class CountLongWords {
     public static void main(String[] args) throws IOException {
         // Read file into string 读取文件到 String
         String contents = new String(Files.readAllBytes(
-                Paths.get("/Users/gaohanghang/IdeaProjects/technology/src/java知识/java核心技术卷2/gutenberg/alice30.txt")), StandardCharsets.UTF_8);
+                Paths.get("/Users/gaohanghang/IdeaProjects/technology/src/java核心技术卷2/gutenberg/alice30.txt")), StandardCharsets.UTF_8);
         // Split into words; nonletters are delimiters \\PL+ 表示非字母分隔符
         List<String> words = Arrays.asList(contents.split("\\PL+"));
 
