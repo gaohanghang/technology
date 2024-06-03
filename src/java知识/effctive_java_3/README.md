@@ -1,7 +1,3 @@
+# Effctive Java 第三版
 
-
-Effctive Java 第三版开源翻译中文版
-
-http://sjsdfg.gitee.io/effective-java-3rd-chinese/
-
-> 
+> 源代码：https://github.com/jbloch/effective-java-3e-source-code
