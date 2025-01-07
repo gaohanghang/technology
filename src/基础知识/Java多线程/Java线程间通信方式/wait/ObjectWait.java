@@ -1,4 +1,4 @@
-package 基础知识.Java多线程.Java线程间通信方式;
+package 基础知识.Java多线程.Java线程间通信方式.wait;
 
 /**
  * @author Gao Hanghang
